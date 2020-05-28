@@ -8,7 +8,7 @@ description: "\U0001F64B Stability Labs are a software development company build
 
 mStable is built by Stability Labs, a software development company that is driven to make finance safe, secure and transparent.
 
-Our dev team is based in **Berlin** 🇩🇪**.** Our team is based in Germany, Australia, India and Hong Kong.
+Our dev team is based in **Berlin** 🇩🇪**.** Our team is based in Germany, Australia, New Zealand, and Hong Kong.
 
 ## Core Team
 
