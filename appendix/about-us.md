@@ -14,8 +14,8 @@ Our dev team is based in **Berlin** 🇩🇪**.** Our team is based in Germany, 
 
 * 🇦🇺 [James Simpson](https://www.linkedin.com/in/jamesronaldsimpson/) - CEO & Co-Founder
 * 🇸🇪 [Henrik Andersson ](https://www.linkedin.com/in/henrikandersson/)- Research & Co-Founder
+* 🇦🇺 [James Eddington](https://twitter.com/jwpeddington) - Strategy and Operations
 * 🇮🇪 [Alex Scott](https://www.linkedin.com/in/alex-scott-0341a976/) -  Lead Developer
-* 🇮🇳 [Jitendra Chittoda](https://www.linkedin.com/in/jchittoda/) -  Head of Smart Contracts
 * 🇬🇧 [James Lefrère](https://www.linkedin.com/in/james-lefrere/) -  dApp Developer
 
 ## Advisors
