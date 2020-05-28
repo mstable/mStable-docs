@@ -10,7 +10,7 @@ Question not answered here? Reach out to us on [Discord](https://discord.gg/7n3m
 
 ## Who is building mStable?
 
-[Stability Labs](about-us.md) - a software development company with people in Berlin, Australia and New Zealand.
+[Stability Labs](about-us.md) - a software development company with people in Berlin, Australia and New Zealand. 
 
 
 
