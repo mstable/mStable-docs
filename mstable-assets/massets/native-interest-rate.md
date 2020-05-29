@@ -33,6 +33,14 @@ function depositSavings(uint256 _amount)
 
 _NB: The notional increase of interest shown on_ [_https://app.mstable.org/save_](https://app.mstable.org/save) _shows balance increasing at 10% APY. This is notional, where the increase in your savings balance will be technically applied at the time of the next `exchange rate` change._
 
+### How is the 24h APY calculated?
+
+24 hour APY calculations are shown on the SAVE page of the mStable app. This number is derived from two `exchange rate` changes in the SAVE contract \(see above\).
+
+Take two exchange rates **A** {time: 0, rate: 1.00}, **B** {time: 86400, rate: 1.001}.
+
+These two exchange rates \(24 hours apart\) are taken, and the percentage increase in the rate is calculated \(in this example 0.1%\). This rate is then extrapolated, to determine what the APY \(Annual percentage yield\) would be if this increase were to happen at this rate for a full year \(in this example 36.5%\). This rate has benefited Savers over the past 24 hours, but given the short time between the timestamps, is likely to fluctuate on a regular basis. 
+
 ## Lending Platforms
 
  mStable will launch with a diversity of integrated lending platforms. This reduces the concentration of risk inherent in lending all bASSETS on one protocol. Lending platforms can be added or removed and will be decided by [Governance](../functions/governance.md). 
