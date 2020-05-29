@@ -8,6 +8,16 @@ description: "\U0001F3D7️ The mStable protocol is built with a focus on securi
 
 The protocol exists as open-access [Smart Contracts ](https://en.wikipedia.org/wiki/Smart_contract)on the [Ethereum](https://ethereum.org) blockchain. The architecture is reasonably straightforward, and consists of a number of modules, some of which are upgradable and some of which are completely immutable. Each module provides useful interfaces or support to each other, ultimately facilitating the protection and operation of the mASSET\(s\).
 
+### mASSET interaction
+
+Minting, Swapping and Redeeming in an mASSET is executed by interacting directly with the [Masset](https://github.com/mstable/mStable-contracts/blob/master/contracts/masset/Masset.sol) contract, with composition managed by the [BasketManager](https://github.com/mstable/mStable-contracts/blob/master/contracts/masset/BasketManager.sol). `bAssets` are integrated with lending protocols \(initially Aave, Compound\) to generate interest which is accrued in `mAsset` terms. This interaction is performed through a market specific [`Integration`](https://github.com/mstable/mStable-contracts/tree/master/contracts/masset/platform-integrations) contract.
+
+mAssets can be deposited to earn native interest through their respective Savings Contract, just like you would with a savings account.
+
+{% hint style="info" %}
+More low level information on the contract architecture coming soon
+{% endhint %}
+
 ### How do we upgrade components?
 
 Upgrading components, while simply updating an address, should not be taken lightly. In addition to the comprehensive measures put in place by the proposed Governance implementations, we employ a multitude of processes to ensure that upgrades go smoothly and the system remains fully robust.
@@ -32,13 +42,11 @@ System modules can be locked for perpetuity, should the current implementation b
 
 The decisions are made according to project timelines, and executed by the current governance implementation. See the [Governance roadmap](../versioning.md) for more specific details.
 
-## Is mStable compatible with my Smart Contract?
 
-**Yes**, mStable Smart Contracts will be permissionless, with the interfaces exposed and well documented, and the code open sourced. Continuing in the spirit of DeFi, our contracts are composable and so leave open the doorway to innovation and integrations. We encourage and facilitate integrations both on-chain and off-chain.
 
 ## Where can I see the code?
 
-Upon Mainnet release, code will be accessible on our [Github](https://github.com/mstable) and verified on [Etherscan](https://etherscan.io).
+Accessible on our [Github](https://github.com/mstable) and verified on [Etherscan](https://etherscan.io).
 
 {% hint style="info" %}
 Got a question about the code? Check out [who wrote it](../../appendix/about-us.md) or talk to us directly on [Discor​​d](https://discord.gg/7n3m7Tz)

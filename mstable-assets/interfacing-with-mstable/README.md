@@ -15,8 +15,7 @@ We recommend accessing the contracts through:
 The first [mStable App](app.md) is a lite, user focussed web application that allows users to:
 
 * [Mint and Redeem](../massets/minting-and-redemption/) mASSETS
-* Earn [Minting Rewards](../../meta-rewards-1/introduction/minting.md) for contributing to the growth of mStable
-  * View the reward pools and the history of their allocations
+* Earn [Rewards](../../meta-rewards-1/introduction/minting.md) for contributing to the growth of mStable
 
 ### A custom dApp or partner DeFi project
 

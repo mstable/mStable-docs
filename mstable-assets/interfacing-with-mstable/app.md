@@ -6,6 +6,8 @@ description: "\U0001F4C0 The mStable App is a lite application to interface with
 
 ## mStable App
 
+{% embed url="https://app.mstable.org" caption="^ Link to the app" %}
+
 ### What?
 
 The [mStable App](app.md) is a slim, user focussed web application that allows users to:
@@ -23,14 +25,6 @@ The App is the first product built using the [mStable SDK](sdk.md). Common funct
 #### How?
 
 Built using `React (Context/Hooks)`, [`web3-react`](https://github.com/NoahZinsmeister/web3-react/), `ethers.js` and `Typescript`. It will be be open source.
-
-### When?
-
-On Mainnet launch, the mStable App will enable access to the protocol. See [Roadmap](../../appendix/roadmap.md).
-
-{% hint style="info" %}
-Register your interest for the Beta [here](http://eepurl.com/gogePn).
-{% endhint %}
 
 ## mStable Dashboard
 

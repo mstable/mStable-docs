@@ -23,15 +23,16 @@ These dates are provisional and subject to change
 
 #### Q2 2020:
 
-* Phase 1 - Testnet Launch
-* Phase 1 - Mainnet Launch
-  * [mStable App](../mstable-assets/interfacing-with-mstable/app.md) is released
-  * \*\*\*\*[**Minting** **rewards**](../meta-rewards-1/introduction/minting.md) begins
-  * [Ecosystem rewards](../meta-rewards-1/introduction/ecosystem.md)
-  * Code open sourced on [GitHub](https://github.com/mstable)
+* ~~Phase 1 - Testnet Launch~~
+* ~~Phase 1 - Mainnet Launch~~
+  * ~~~~[~~mStable App~~](../mstable-assets/interfacing-with-mstable/app.md) ~~is released~~
+  * ~~Code open sourced on~~ [~~GitHub~~](https://github.com/mstable)~~~~
 
 #### Q3 2020:
 
+* Phase 1.1
+  * MTA released
+  * [Ecosystem rewards](../meta-rewards-1/introduction/ecosystem.md) begin
 * [mStable SDK](../mstable-assets/interfacing-with-mstable/sdk.md) enables integrations
 * mStable Dashboard is released
 

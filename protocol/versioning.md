@@ -14,7 +14,7 @@ Capitalizing on the modularity and upgradability of particular system modules, w
 
 ## Phases of decentralization
 
-_For more notes on the purpose of modules picture here, check out the description in_ [_Architecture_](architecture/)_._
+_For more notes on the purpose of modules picture here, check out the description in_ [_Architecture_](security/architecture.md)_._
 
 ## Phase 1
 

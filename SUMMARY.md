@@ -25,13 +25,14 @@
 
 ## Protocol
 
-* [Architecture](protocol/architecture/README.md)
-  * [Security](protocol/architecture/security.md)
+* [Security](protocol/security/README.md)
+  * [mStable Bug Bounty](protocol/security/mstable-bug-bounty.md)
+  * [Architecture](protocol/security/architecture.md)
+* [Deployed addresses](protocol/deployed-addresses.md)
 * [Governance Roadmap](protocol/versioning.md)
 
 ## Appendix
 
-* [F.A.Q.](appendix/f.a.q..md)
 * [Stability Labs](appendix/about-us.md)
 * [Roadmap](appendix/roadmap.md)
 * [Glossary of Terms](appendix/glossary-of-terms.md)
