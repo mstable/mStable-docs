@@ -16,7 +16,7 @@ There will always be a portion of circulating mASSETS being used as a medium of 
 
 When you deposit an mASSET into the SAVE contract, you are internally credited with `Savings Credits` based on the current `exchange rate`. Each time a Saver deposits, the interested is collected from the mASSET and deposited here, increasing the `exchange rate` at the benefit of existing Savers.
 
-`Credits` become increasingly valuable as new deposits are made and the `exchange rate` increases. You can see the function definition from the below solidity snippet. This futher explains the relationship between credits, mASSET and the exchange rate.
+`Credits` become increasingly valuable as new deposits are made and the `exchange rate` increases. You can see the function definition from the below solidity snippet. This further explains the relationship between credits, mASSET and the exchange rate.
 
 ```text
 /**
