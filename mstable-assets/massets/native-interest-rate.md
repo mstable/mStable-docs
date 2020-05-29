@@ -12,6 +12,27 @@ As interest and fees accrue, new mASSETS are minted and sent to the relevant SAV
 
 There will always be a portion of circulating mASSETS being used as a medium of exchange, held offline, or not deposited in the SAVE contract for some other reason. This dynamic, combined with platform fees, should make the interest earned on mASSETS greater than on other yield products. 
 
+### Savings balance increase
+
+When you deposit an mASSET into the SAVE contract, you are internally credited with `Savings Credits` based on the current `exchange rate`. Each time a Saver deposits, the interested is collected from the mASSET and deposited here, increasing the `exchange rate` at the benefit of existing Savers.
+
+`Credits` become increasingly valuable as new deposits are made and the `exchange rate` increases. You can see the function definition from the below solidity snippet. This futher explains the relationship between credits, mASSET and the exchange rate.
+
+```text
+/**
+ * @dev Deposit the senders savings to the vault, and credit them internally with "credits".
+ *      Credit amount is calculated as a ratio of deposit amount and exchange rate:
+ *                    credits = underlying / exchangeRate
+ *      If automation is enabled, we will first update the internal exchange rate by
+ *      collecting any interest generated on the underlying.
+ * @param _amount          Units of underlying to deposit into savings vault
+ * @return creditsIssued   Units of credits issued internally
+ */
+function depositSavings(uint256 _amount)
+```
+
+_NB: The notional increase of interest shown on_ [_https://app.mstable.org/save_](https://app.mstable.org/save) _shows balance increasing at 10% APY. This is notional, where the increase in your savings balance will be technically applied at the time of the next `exchange rate` change._
+
 ## Lending Platforms
 
  mStable will launch with a diversity of integrated lending platforms. This reduces the concentration of risk inherent in lending all bASSETS on one protocol. Lending platforms can be added or removed and will be decided by [Governance](../functions/governance.md). 
