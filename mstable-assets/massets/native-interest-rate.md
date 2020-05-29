@@ -4,9 +4,9 @@ description: "\U0001F4C8 mASSETS within the mStable ecosystem earn interest that
 
 # SAVE
 
-Once live, all mStable assets will be able to earn a native interest rate. This is done by the lending of underlying bASSETS on decentralised lending markets such as Compound or AAVE, as well as the swap and redemption fees collected on mStable. 
+All mStable assets will be able to earn a native interest rate. This is done by the lending of underlying bASSETS on decentralised lending markets such as Compound or AAVE, combined with mStable's swap fees. 
 
-**The vast majority of this combined amount is allocated to SAVE as interest rate payments**, whilst a smaller portion will be allocated to Meta [staking](../../meta-rewards-1/staking.md), in return for this token's work in insuring mStable against permanent loss. 
+A smaller portion will be allocated to those [staking](../../meta-rewards-1/staking.md) the mStable protocol token Meta, in return for this token's work in insuring mStable against permanent loss. 
 
 As interest and fees accrue, new mASSETS are minted and sent to the relevant SAVE contract. Users who opt in to receiving interest by depositing a mASSET balance into the contract receive these newly minted mASSETS.This means that mStable assets retain their peg and are therefore both liquidity shares and tokenized assets in their own right.
 
@@ -14,7 +14,7 @@ There will always be a portion of circulating mASSETS being used as a medium of 
 
 ### Savings balance increase
 
-When you deposit an mASSET into the SAVE contract, you are internally credited with `Savings Credits` based on the current `exchange rate`. Each time a Saver deposits, the interested is collected from the mASSET and deposited here, increasing the `exchange rate` at the benefit of existing Savers.
+When you deposit an mASSET into the SAVE contract, you are internally credited with `Savings Credits` based on the current `exchange rate`. Each time a Saver deposits, the interest is collected from the mASSET and deposited here, increasing the `exchange rate` at the benefit of existing Savers.
 
 `Credits` become increasingly valuable as new deposits are made and the `exchange rate` increases. You can see the function definition from the below solidity snippet. This further explains the relationship between credits, mASSET and the exchange rate.
 
