@@ -39,7 +39,16 @@ _NB: The notional increase of interest shown on_ [_https://app.mstable.org/save_
 
 **Technically?**
 
-Two exchange rates roughly 24 hours apart are taken, and the percentage increase in the rate is calculated \(for example 0.05% in this 24 hour window\). This rate is then extrapolated, to determine what the APY would be if this increase were to happen at this rate for a full year \(in this example 0.05% \* 365 days = 18.25%\).
+Two exchange rates roughly 24 hours apart are taken, and the percentage increase in the rate is calculated \(for example 0.05% in this ~24 hour window\). This rate is then extrapolated to determine what the APY would be if this increase were to happen at this rate for a full year.
+
+The below function calculates the APY, with a compounding interval of the ~24 period:
+
+`apy = ((1 + percentageRateChange)^(compoundIntervalCountPerYear)) - 1`
+
+Where `percentageRateChange` is the % increase in rate over the past 24 hours \(e.g. 0.5%\)  
+Where `compoundIntervalCountPerYear` is the number of those 24 hour periods in a year \(based on the actual timestamps of the two data points, so ~365, but **rounded down** to be conservative\)
+
+e.g. `apy = ((1 + 0.0005)^(364))-1 = 19.95%` 
 
 **Who has benefited from this rate?**
 
