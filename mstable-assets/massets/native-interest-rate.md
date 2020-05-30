@@ -8,7 +8,7 @@ All mStable assets will be able to earn a native interest rate. This is done by 
 
 A smaller portion will be allocated to those [staking](../../meta-rewards-1/staking.md) the mStable protocol token Meta, in return for this token's work in insuring mStable against permanent loss. 
 
-As interest and fees accrue, new mASSETS are minted and sent to the relevant SAVE contract. Users who opt in to receiving interest by depositing a mASSET balance into the contract receive these newly minted mASSETS.This means that mStable assets retain their peg and are therefore both liquidity shares and tokenized assets in their own right.
+As interest and fees accrue, new mASSETS are minted and sent to the relevant SAVE contract. Users who opt in to receiving interest by depositing a mASSET balance into the contract receive these newly minted mASSETS. This means that mStable assets retain their peg and are therefore both liquidity shares and tokenized assets in their own right.
 
 There will always be a portion of circulating mASSETS being used as a medium of exchange, held offline, or not deposited in the SAVE contract for some other reason. This dynamic, combined with platform fees, should make the interest earned on mASSETS greater than on other yield products. 
 
@@ -35,11 +35,23 @@ _NB: The notional increase of interest shown on_ [_https://app.mstable.org/save_
 
 ### How is the 24h APY calculated?
 
-24 hour APY calculations are shown on the SAVE page of the mStable app. This number is derived from two `exchange rate` changes in the SAVE contract \(see above\).
+**Retrospective** 24 hour APY \(Annual percentage yield\) calculations are shown on the SAVE page of the mStable app. This number is derived from two `exchange rate` changes in the SAVE contract \(see above\) from the **past 24 hours**. 
 
-Take two exchange rates **A** {time: 0, rate: 1.00}, **B** {time: 86400, rate: 1.001}.
+**Technically?**
 
-These two exchange rates \(24 hours apart\) are taken, and the percentage increase in the rate is calculated \(in this example 0.1%\). This rate is then extrapolated, to determine what the APY \(Annual percentage yield\) would be if this increase were to happen at this rate for a full year \(in this example 36.5%\). This rate has benefited Savers over the past 24 hours, but given the short time between the timestamps, is likely to fluctuate on a regular basis. 
+Two exchange rates roughly 24 hours apart are taken, and the percentage increase in the rate is calculated \(for example 0.05% in this 24 hour window\). This rate is then extrapolated, to determine what the APY would be if this increase were to happen at this rate for a full year \(in this example 0.05% \* 365 days = 18.25%\).
+
+**Who has benefited from this rate?**
+
+Savers who had funds in the SAVE contract for the **full** previous 24 hours.
+
+**Is this indicative of future yield?**
+
+This rate has benefited those Savers over the past 24 hours, but given the short time between the timestamps, is likely to fluctuate on a regular basis. It is **not** a prediction of future savings rates. There are a lot of factors that regularly affect the rate - basket composition \(and thus yield generated from the bASSETS\), SWAP fees and the % of the total mASSETs that are held in the Savings contract.
+
+**Is there more data on SAVE rates?**
+
+We plan to add 7 day APY rates and historical 7 day moving average rates to the mStable dAPP once sufficient data becomes available.   
 
 ## Lending Platforms
 
