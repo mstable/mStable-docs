@@ -48,7 +48,7 @@ The below function calculates the APY, with a compounding interval of the ~24 pe
 Where `percentageRateChange` is the % increase in rate over the past 24 hours \(e.g. 0.5%\)  
 Where `compoundIntervalCountPerYear` is the number of those 24 hour periods in a year \(based on the actual timestamps of the two data points, so ~365, but **rounded down** to be conservative\)
 
-e.g. `apy = ((1 + 0.0005)^(364))-1 = 19.95%` 
+e.g. `apy = ((1 + 0.0005)^(365))-1 = 19.95%` 
 
 **Who has benefited from this rate?**
 
