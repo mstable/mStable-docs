@@ -16,7 +16,7 @@ Rewards will be awarded at the sole discretion of the mStable team. Quality of t
 
 _The bug bounty program is ongoing and has been running since June 05th, 2020._
 
-**The reward will be based on the following severity scheme:**
+**The reward will be based on the following severity scheme, based on the** [**OWASP risk rating**](https://owasp.org/www-community/OWASP_Risk_Rating_Methodology) **methodology:**
 
 ![](../../.gitbook/assets/image%20%285%29.png)
 
@@ -87,7 +87,7 @@ In case you discover a vulnerability, we would like to know about it immediately
 
 **We promise the following:** 
 
-* We will respond to your report within 3 business days with our evaluation of the report and an expected resolution date
+* We will respond to your report with a confirmation of receipt, followed by our evaluation of the report and an expected resolution date within 3 business days 
 * If you have followed the [instructions above](mstable-bug-bounty.md#rules), we will not take any legal action against you in regard to the report
 * We will handle your report with strict confidentiality, and not pass on your personal details to third parties without your permission
 * If you so wish we will keep you informed of the progress towards resolving the problem;
