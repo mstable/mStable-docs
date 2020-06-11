@@ -8,17 +8,17 @@ description: "\U0001F512 Here are some of the things we do to ensure protocol se
 
 Ensuring the security and optimisation of a live protocol requires a multi faceted approach. In addition to a macro-level architecture and a [robust governance decentralization](../versioning.md) plan, the micro-level architecture, code formatting, documentation, [testing procedures](./#testing) and auditing play vital roles in the process.
 
-## Auditing
-
-Initial audit performed by Bramah Systems. Additional audit currently pending.
-
-{% file src="../../.gitbook/assets/mstable-audit-bramah-systems.pdf" caption="Audit report" %}
-
 ## Bug bounty
 
 Open reward pool for discovering and reporting vulnerabilities in the mStable protocol.
 
 {% page-ref page="mstable-bug-bounty.md" %}
+
+## Auditing
+
+Initial audit performed by Bramah Systems. Additional audit currently pending.
+
+{% file src="../../.gitbook/assets/mstable-audit-bramah-systems.pdf" caption="Audit report" %}
 
 ## Testing
 

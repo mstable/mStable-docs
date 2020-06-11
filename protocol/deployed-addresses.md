@@ -24,15 +24,15 @@ description: "\U0001F4D6 List of deployed contract addresses"
 {% tab title="Ropsten" %}
 | Contract | Address |
 | :--- | :--- |
-| mUSD | 0xE223e296e24f620EF3acb6A3372853Dbc556bc3b |
-| ForgeValidator | 0x46DccCEF2dc5DcEa3FAfED4F59A2577e41b54fF5 |
-| BasketManager | 0x5b673cc62bdffb9a7d4c188dc28a7e1555220dbc |
-| AaveIntegration | 0x8a4a6fdf72781cf01c0614110afa5afc77323156 |
-| CompoundIntegration | 0x747c8f593c4cf6516f25d98c3b1138b50ca7a9df |
-| Nexus | 0x4e8a61676179c700967180eCa857C30FcAf241F3 |
-| DelayedProxyAdmin | 0xC63a798A4016464298f899a249A9a0C0D8b9068C |
-| SavingsManager | 0xb4258Ce9262E420a7D2CA866AFcb5211B58c2CC1 |
-| SavingsContract | 0x625e7541c284826bf1c50b1449d40bd86ee5b882 |
+| mUSD | 0xE5BFd72378fF24820C3eE4fD35352EeA39C13fb6 |
+| ForgeValidator | 0x541d9C14892a2F4cE1C067aaF064557d666c318B |
+| BasketManager | 0x83e5e769231dbb29022b5781775522065065826f |
+| AaveIntegration | 0x50C04A98196D785319F5a69be692A240a4310f4c |
+| CompoundIntegration | 0x6CFc263EF27f3B35F83a823A75EaBB988116135F |
+| Nexus | 0xFfEAB3211a761DcBBA18f274FDF25F69401abCeC |
+| DelayedProxyAdmin | 0x89D9c6aDA640e6437a26852f96EAb05EBe7d76bA |
+| SavingsManager | 0xBdAa66E59754C0174A0872174024267B161A75E2 |
+| SavingsContract | 0xE501Db49c80b676884EC9C432299F260D1864Ed7 |
 {% endtab %}
 {% endtabs %}
 

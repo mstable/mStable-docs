@@ -23,6 +23,10 @@ dApps or partner DeFi projects wishing to interact with mStable in order to acce
 
 Our protocol exists as open-access [Smart Contracts ](https://en.wikipedia.org/wiki/Smart_contract)on the [Ethereum](https://ethereum.org) blockchain. You can simply use a JS tool like [ethers.js ](https://github.com/ethers-io/ethers.js/)to connect your web application to Ethereum.
 
+{% hint style="info" %}
+Do you **want to integrate with mStable?** Smart contract integration details are available on the [Developers](../../protocol/developers.md) page
+{% endhint %}
+
 ### Using our SDK
 
 We make it particularly easy to build apps accessing mStable with the [mStable SDK](sdk.md).

@@ -20,9 +20,9 @@ Our dev team is based in **Berlin** 🇩🇪**.** Our team is based in Germany, 
 
 ## Advisors
 
-* 🇦🇺[Anthony Sassano](https://www.linkedin.com/in/asassano/) - Founder, Eth Hub. Product Marketing, Set
-* 🇦🇺[Zhuoxun Yin](https://www.linkedin.com/in/zhuoxun-yin-3ba93728) - COO, dYdX
-* 🇦🇺[Flex Dapps](https://www.linkedin.com/company/flex-dapps/) 
+* 🇦🇺 [Anthony Sassano](https://www.linkedin.com/in/asassano/) - Founder, Eth Hub. Product Marketing, Set
+* 🇦🇺 [Zhuoxun Yin](https://www.linkedin.com/in/zhuoxun-yin-3ba93728) - COO, dYdX
+* 🇦🇺 [Flex Dapps](https://www.linkedin.com/company/flex-dapps/) 
 
 ## With help from
 

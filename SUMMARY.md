@@ -25,6 +25,7 @@
 
 ## Protocol
 
+* [Developers](protocol/developers.md)
 * [Security](protocol/security/README.md)
   * [mStable Bug Bounty](protocol/security/mstable-bug-bounty.md)
   * [Architecture](protocol/security/architecture.md)
