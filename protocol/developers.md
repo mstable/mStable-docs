@@ -43,7 +43,7 @@ function getSwapOutput(
 
 ### Swap
 
-_Important: The mAsset must have approval from `msg.sender` to transfer `_input` bAsset in order to execute the swap._
+_Important: An integrating contract must first call `approve` on the `_input`bAsset and give permission for the `mAsset` to spend it. `IERC20(_input).approve(mAsset, _quantity)`_
 
 _Note: Gas costs vary from pair to pair given that assets must interact with third party lending platforms_
 
