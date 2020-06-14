@@ -37,6 +37,8 @@ _NB: The notional increase of interest shown on_ [_https://app.mstable.org/save_
 
 **Retrospective** 24 hour APY \(Annual percentage yield\) calculations are shown on the SAVE page of the mStable app. This number is derived from two `exchange rate` changes in the SAVE contract \(see above\) from the **past 24 hours**. 
 
+We plan to add 7 day APY rates and historical 7 day moving average rates to the mStable dApp once sufficient data becomes available.
+
 **Technically?**
 
 Two exchange rates roughly 24 hours apart are taken, and the percentage increase in the rate is calculated \(for example 0.05% in this ~24 hour window\). This rate is then extrapolated to determine what the APY would be if this increase were to happen at this rate for a full year.
