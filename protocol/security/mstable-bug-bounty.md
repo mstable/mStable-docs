@@ -18,7 +18,7 @@ _The bug bounty program is ongoing and has been running since June 05th, 2020._
 
 **The reward will be based on the following severity scheme, based on the** [**OWASP risk rating**](https://owasp.org/www-community/OWASP_Risk_Rating_Methodology) **methodology:**
 
-![](../../.gitbook/assets/image%20%285%29.png)
+![](../../.gitbook/assets/image%20%2811%29.png)
 
 ## **Reporting**
 
