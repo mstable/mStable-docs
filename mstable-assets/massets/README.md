@@ -35,7 +35,7 @@ Possible future mAssets:
 * mBTC Ⓑ
 * mGLD🏆
 * mEUR __💶 
-* mGDP 💷
+* mGBP 💷
 
 #### **Metastable Ⓜ**
 
