@@ -9,7 +9,7 @@ description: "\U0001F4D6 List of deployed contract addresses"
 | Contract | Address |
 | :--- | :--- |
 | mUSD | [0xe2f2a5C287993345a840Db3B0845fbC70f5935a5](https://etherscan.io/address/0xe2f2a5C287993345a840Db3B0845fbC70f5935a5) |
-| RedemptionValidator | [0xe7e41f1b97f3eb2f218d99ecb22351fa669d5944](https://etherscan.io/address/0xe7e41f1b97f3eb2f218d99ecb22351fa669d5944) |
+| MassetValidationHelper | [0x4c5e03065bc52cce84f3ac94df14bbac27eac89b](https://etherscan.io/address/0x4c5e03065bc52cce84f3ac94df14bbac27eac89b#code) |
 | ForgeValidator | [0x4CA9123AFC43dC9dde52A57A51AFc44324138ded](https://etherscan.io/address/0x4CA9123AFC43dC9dde52A57A51AFc44324138ded) |
 | BasketManager | [0x66126B4aA2a1C07536Ef8E5e8bD4EfDA1FdEA96D](https://etherscan.io/address/0x66126B4aA2a1C07536Ef8E5e8bD4EfDA1FdEA96D) |
 | AaveIntegration | [0xf617346a0fb6320e9e578e0c9b2a4588283d9d39](https://etherscan.io/address/0xf617346a0fb6320e9e578e0c9b2a4588283d9d39) |
@@ -24,7 +24,7 @@ description: "\U0001F4D6 List of deployed contract addresses"
 | Contract | Address |
 | :--- | :--- |
 | mUSD | 0xE5BFd72378fF24820C3eE4fD35352EeA39C13fb6 |
-| RedemptionValidator | 0x1c06596d5c90c83165ecad23206cbab79e7d1e92 |
+| MassetValidationHelper | 0x1edce92a9e970efd73cd637f6c1fbae7b0a2380c |
 | ForgeValidator | 0x541d9C14892a2F4cE1C067aaF064557d666c318B |
 | BasketManager | 0x83e5e769231dbb29022b5781775522065065826f |
 | AaveIntegration | 0x50C04A98196D785319F5a69be692A240a4310f4c |
