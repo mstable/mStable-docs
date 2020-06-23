@@ -16,6 +16,8 @@ In order to execute the trade:
 
 Swaps relating to a given `mAsset` require interaction directly with that `mAsset` contract - see [deployed addresses](deployed-addresses.md) for all `mAsset` addresses.
 
+Building an integrating contract or arbitrage bot and want to get the maximum possible swap? Use our [validation helper](developers.md#validationhelper).
+
 ### GetSwapOutput
 
 Determines if a SWAP is valid, and returns the expected fee or output.
@@ -70,4 +72,70 @@ function swap(
     nonReentrant
     returns (uint256 output)
 ```
+
+## ValidationHelper
+
+See [Deployed addresses](deployed-addresses.md) for the current address of the `MassetValidationHelper`.
+
+This helper provides methods to make MINT, SWAP and REDEEM easier to integrate with on chain.
+
+Reach out to us if you would like something added. 
+
+### Getting max SWAP available
+
+```typescript
+/**
+ * @dev Gets the maximum input for a valid swap pair
+ * @param _mAsset mAsset address (e.g. mUSD)
+ * @param _input Asset to input only bAssets accepted
+ * @param _output Either a bAsset or the mAsset
+ * @return valid
+ * @return validity reason
+ * @return max input units (in native decimals)
+ * @return how much output this input would produce (in native decimals, after any fee)
+ */
+function getMaxSwap(
+    address _mAsset,
+    address _input,
+    address _output
+)
+    external
+    view
+    returns (
+        bool,
+        string memory,
+        uint256,
+        uint256
+    )
+```
+
+### Check Redeem Validity
+
+```typescript
+/**
+ * @dev Determines if a given Redemption is valid
+ * @param _mAsset Address of the given mAsset (e.g. mUSD)
+ * @param _mAssetQuantity Amount of mAsset to redeem (in mUSD units)
+ * @param _outputBasset Desired output bAsset
+ * @return valid
+ * @return validity reason
+ * @return output in bAsset units
+ * @return bAssetQuantityArg - required input argument to the 'redeem' call
+ */
+function getRedeemValidity(
+    address _mAsset,
+    uint256 _mAssetQuantity,
+    address _outputBasset
+)
+    public
+    view
+    returns (
+        bool,
+        string memory,
+        uint256 output,
+        uint256 bassetQuantityArg
+    )
+```
+
+
 
