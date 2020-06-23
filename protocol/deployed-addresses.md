@@ -10,7 +10,7 @@ description: "\U0001F4D6 List of deployed contract addresses"
 | :--- | :--- |
 | mUSD | [0xe2f2a5C287993345a840Db3B0845fbC70f5935a5](https://etherscan.io/address/0xe2f2a5C287993345a840Db3B0845fbC70f5935a5) |
 | MassetValidationHelper | [0x4c5e03065bc52cce84f3ac94df14bbac27eac89b](https://etherscan.io/address/0x4c5e03065bc52cce84f3ac94df14bbac27eac89b#code) |
-| ForgeValidator | [0x4CA9123AFC43dC9dde52A57A51AFc44324138ded](https://etherscan.io/address/0xbB90D06371030fFa150E463621c22950b212eaa1#code) |
+| ForgeValidator | [0xbB90D06371030fFa150E463621c22950b212eaa1](https://etherscan.io/address/0xbB90D06371030fFa150E463621c22950b212eaa1#code) |
 | BasketManager | [0x66126B4aA2a1C07536Ef8E5e8bD4EfDA1FdEA96D](https://etherscan.io/address/0x66126B4aA2a1C07536Ef8E5e8bD4EfDA1FdEA96D) |
 | AaveIntegration | [0xf617346a0fb6320e9e578e0c9b2a4588283d9d39](https://etherscan.io/address/0xf617346a0fb6320e9e578e0c9b2a4588283d9d39) |
 | CompoundIntegration | [0xd55684f4369040c12262949ff78299f2bc9db735](https://etherscan.io/address/0xd55684f4369040c12262949ff78299f2bc9db735) |
