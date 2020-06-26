@@ -4,6 +4,10 @@ description: "\U0001F381 Get rewarded for being a contributors to mStable’s li
 
 # Open Reward Pool
 
+{% hint style="info" %}
+This section will be updated and expanded soon
+{% endhint %}
+
 mStable uses reward mechanisms to incentivise its users to act in the best interest of the ecosystem as it grows. In total, 20,000,000 MTA \(20% of Meta’s total supply\) will be emitted via an open reward pool to directly incentivise those that provide resources to bootstrap the minting of mStable assets, and to fund their liquidity and utility. This has a dual benefit of creating a fair and wide distribution of the Meta token.
 
 Rewards are for [Ecosystem](ecosystem.md) incentives, are in monthly tranches, increase over the first 15 months, and then declining slowly until the pool is exhausted. We expect this reward pool to be a long term feature of the platform. Alongside this, any tail emission of MTA will also be used to contribute to these pools. Users are paid out their rewards after a lock up period. 
