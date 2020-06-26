@@ -15,7 +15,7 @@ The [mStable App](app.md) is a slim, user focussed web application that allows u
 * [MINT](../massets/minting-and-redemption/) and redeem effortlessly mASSETS, allowing you to convert bASSETS into mASSETS for free
 * [SWAP](../massets/swapping.md) between bASSETS at zero slippage
 * [SAVE](../massets/native-interest-rate.md) mASSETS in the mStable Savings Contract
-* [EARN](../functions/) [Minting Rewards](../../meta-rewards-1/introduction/minting.md) for contributing to the growth of mStable
+* [EARN](../functions/) [Minting Rewards]() for contributing to the growth of mStable
   * View the reward pools and the history of their allocations
 
 Upon listing or inclusion in existing DeFi applications, the mStable App will also allow users to utilize mASSETS across DeFi, and get [rewarded](../../meta-rewards-1/introduction/ecosystem.md) for doing so.

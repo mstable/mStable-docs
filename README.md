@@ -57,7 +57,7 @@ The protocol token [Meta](mstable-assets/functions/) \(MTA\) serves as insurance
 
 ### Features
 
-* [Minting](meta-rewards-1/introduction/minting.md)
+* [Minting]()
 * [Redemption](mstable-assets/massets/minting-and-redemption/#redemption)
 * [Swaps](mstable-assets/massets/swapping.md)
 * [Native Interest Rate](mstable-assets/massets/native-interest-rate.md)

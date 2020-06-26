@@ -19,7 +19,6 @@
 ## Meta Rewards <a id="meta-rewards-1"></a>
 
 * [Open Reward Pool](meta-rewards-1/introduction/README.md)
-  * [Minting](meta-rewards-1/introduction/minting.md)
   * [Ecosystem](meta-rewards-1/introduction/ecosystem.md)
 * [Staking](meta-rewards-1/staking.md)
 
