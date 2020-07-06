@@ -4,7 +4,7 @@ description: >-
   responsibility and risk
 ---
 
-# Staking
+# Staking Rewards
 
 ## Why?
 

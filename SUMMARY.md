@@ -20,7 +20,7 @@
 
 * [Open Reward Pool](meta-rewards-1/introduction/README.md)
   * [Ecosystem](meta-rewards-1/introduction/ecosystem.md)
-* [Staking](meta-rewards-1/staking.md)
+* [Staking Rewards](meta-rewards-1/staking.md)
 
 ## Protocol
 

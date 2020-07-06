@@ -33,7 +33,7 @@ More granular information about Meta's distribution will be released as we appro
 
 mStable will be controlled not by a single entity but by a global community of Meta Governors. Each system parameter will be determined by these users.To participate in governance, users must stake Meta and vote on proposals. By staking Meta and voting, a user becomes a Meta Governor. The amount of Meta a user stakes is proportionate to that user's vote weighting.
 
-For staking and governing, Meta Governors receive a portion of ****mStable revenue proportionate to their stake amount.
+For staking and governing, Meta Governors receive a portion of ****mStable's revenue proportionate to their stake amount. There may also be periods where Meta tokens are also included in staking return.
 
 Critically, participating and profiting as a Meta Governor is not risk-free: a portion of staked Meta is the first source of re-collateralization value. A portion of staked Meta will be liquidated in the event of a bASSET failure, for example. Only after this liquidation, and only if required, will Meta be diluted, up to a point, in order to cover any remaining losses due to a peg loss. 
 
