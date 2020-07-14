@@ -10,7 +10,7 @@ These docs are still being worked on. Some parts may be unfinished or pending up
 
 ## What is mStable?
 
-The mStable Standard is a protocol that makes stablecoins and other tokenized assets easy, robust and profitable. 
+mStable unites stablecoins, lending and swapping into one standard.. 
 
 Three major problems confront stablecoin users: 
 
@@ -28,14 +28,14 @@ Each mASSET has an outsized [native interest rate](mstable-assets/massets/native
 
 Users can [swap](mstable-assets/massets/swapping.md) between bASSETS with **zero price slippage,** regardless of order size. For example, in mUSD, uses are able to swap 1 DAI for 1 USDC at no cost, except gas and a small fee. 
 
-The protocol token [Meta](mstable-assets/functions/) \(MTA\) serves as insurance against permanent loss for all mASSETS. The token receives a percentage of all system revenue in compensation. In order to achieve long-term value of Meta, holders are motivated to seek stability through the diversification and growth of the system.
+The protocol token [Meta](mstable-assets/functions/) \(MTA\) serves as insurance against permanent loss for all mASSETS. Those who hold Meta can stake their tokens to become governors, allowing them to participate in governance of the system. In order to achieve long-term value of Meta, these governors are motivated to seek stability through the diversification and growth of mStable.
 
 ### **Characteristics**
 
 * **Easy** - mStable is a one-stop solution for stablecoin users.
 * **Robust** - Collateral is diversified, exterior to the system and ultimately insured by Meta. 
 * **Stable** - mStable's liquidity shares are tokenized assets in their own right. 
-* **Decentralized** - Meta embeds the incentives required to govern a decentralized system. Meta holders are paid when mStable grows securely.  
+* **Decentralized** - Meta embeds the incentives required to govern a decentralized system.
 * **Built for Rapid Scaling** - 25% of Meta is emitted in a bootstrapping rewards pool. 
 
 ### Use cases
@@ -44,16 +44,14 @@ The protocol token [Meta](mstable-assets/functions/) \(MTA\) serves as insurance
   * mASSETS earn an outsized yield \(interest + swap fees\). See [SAVE](mstable-assets/massets/native-interest-rate.md).
   * mStable is built so that those that use it or contribute to its growth are rewarded for doing so. See [Meta Rewards](meta-rewards-1/introduction/).
 * **Traders & Arbitrageurs** 
-  * Significant arbitrage opportunities will exist on the mStable Zero Slippage Swap. See [SWAP](mstable-assets/massets/swapping.md).
+  * Significant arbitrage opportunities will exist using mStable's Zero Slippage Swaps. See [SWAP](mstable-assets/massets/swapping.md).
 *  **Stablecoin Users** 
   * mStable issues assets that are more secure than the sum of their parts. Each mASSET diversifies risk between different asset issuers and stability mechanisms. The system itself is effectively __over-collateralised due to each mASSET being ultimately backed by Meta. See [EARN](mstable-assets/functions/).
 * **SDK Integrations** 
   * **dApps:** mStable increases a dApp's user base while increasing usability. mStable allows dApps to accept several assets while presenting them in a more secure and user friendly way. For example, with the mStable [SDK](mstable-assets/interfacing-with-mstable/sdk.md), a dApp could accept USDC, DAI, TUSD, USDT, GUSD, USDx, CUSD and present the USD asset simply as _USD._  
-  * **Futures exchanges:** instead of using a single stablecoin as the contract's basis, accept and settle in multiple. Decrease the possibility of mass liquidations due to a stablecoin peg loss
+  * **Futures exchanges:** instead of using a single stablecoin as the contract's basis, accept and settle in multiple stablecoins. Decrease the probability of mass liquidations due to a stablecoin peg loss
   * **Spot exchanges:** unite stablecoin liquidity into one pair: BTC/USD rather than BTC/USDT, BTC/USDC etc. 
   * **Participating dApps and exchanges receive** [**Meta**](meta-rewards-1/introduction/)**.**
-
-    \*\*\*\*
 
 ### Features
 

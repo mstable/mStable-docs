@@ -6,7 +6,7 @@ description: "\U0001F4C8 mASSETS within the mStable ecosystem earn interest that
 
 All mStable assets will be able to earn a native interest rate. This is done by the lending of underlying bASSETS on decentralised lending markets such as Compound or AAVE, combined with mStable's swap fees. 
 
-A smaller portion will be allocated to those [staking](../../meta-rewards-1/staking.md) the mStable protocol token Meta, in return for this token's work in insuring mStable against permanent loss. 
+A smaller portion may also be allocated to those [staking](../../meta-rewards-1/staking.md) the mStable protocol token Meta, in return for performing governance functions over the mStable system. This will be decided by token holders once Meta is decentralised.
 
 As interest and fees accrue, new mASSETS are minted and sent to the relevant SAVE contract. Users who opt in to receiving interest by depositing a mASSET balance into the contract receive these newly minted mASSETS. This means that mStable assets retain their peg and are therefore both liquidity shares and tokenized assets in their own right.
 
@@ -62,7 +62,7 @@ This rate has benefited those Savers over the past 24 hours, but given the short
 
 **Is there more data on SAVE rates?**
 
-We plan to add 7 day APY rates and historical 7 day moving average rates to the mStable dAPP once sufficient data becomes available.   
+We have added [platform analytics](https://app.mstable.org/analytics) moving that show average rates over multiple time periods. More data sets will be added to the dAPP once sufficient data becomes available.   
 
 ## Lending Platforms
 
@@ -75,7 +75,7 @@ A current list of platforms used by mStable is below:
 
 ## Platform Fees
 
-The mStable platform can charge fees for users to single bASSET redeem and swap bASSETS. As these fee accrue, a portion of them is allocated to the SAVE contract as another part of the native interest amount; the rest will be allocated to Meta holders as payment for insuring mStable. 
+The mStable platform can charge fees for users to single bASSET redeem and swap bASSETS. As these fee accrue, a portion of them is allocated to the SAVE contract as another part of the native interest; in future governors may also decide to allocate a portion of these fees to Meta stakers as a reward for governing mStable. 
 
 ## Example
 
@@ -94,5 +94,5 @@ During this period, the platform also collects 10 mUSD in total as fees across s
 
 Our user, having contributed one fifth of the total USD in the savings contract over 6 months, earns a corresponding 5.5 mUSD in interest, at an effective APY of 11%.
 
-_NB - This example assumes most of the system to be static over this 6 month term. Realistically, the mStable system is a dynamic one, and returns will be influenced by multiple factors in the system changing on a regular basis. It also omits the portion of interest and platform fees that are earned in staking rewards by governors when this launched._  
+_NB - This example assumes most of the system to be static over this 6 month term. Realistically, the mStable system is a dynamic one, and returns will be influenced by multiple factors in the system changing on a regular basis. It also omits the portion of interest and platform fees that may be earned in staking rewards by governors after mStable achieves sufficient decentralisation._  
 

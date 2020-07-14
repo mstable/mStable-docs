@@ -76,7 +76,7 @@ A portion of staked Meta will then be liquidated and sold. Assume that there are
 
 Only if this process fails to cover the full re-collateralization value, Meta will be diluted and sold for mUSD to restore full collateralization and the $1 price. 
 
-In this example, a total of $81k mUSD is needed to be raised to cover the peg loss. Staked MTA covered $26,460 or c33% of this loss. The remaining $54,540 \(67%\) will be raised through printing and auctioning Meta until the full 81k mUSD is raised. 
+In this example, a total of $81k mUSD is needed to be raised to cover the peg loss. Staked MTA covered $26,460 or c.33% of this loss. The remaining $54,540 \(67%\) will be raised through printing and auctioning Meta until the full 81k mUSD is raised. 
 
 If the average price of Meta in the auction is $4.5, 12,120 additional MTA must enter into circulation. If this auction is successful, the $54,540 of mUSD raised through this auction will be burned. This means that the outstanding units of mUSD now match the value of the underlying basket of $1.050M, and the system is again fully backed at $1 per mUSD.  
 
