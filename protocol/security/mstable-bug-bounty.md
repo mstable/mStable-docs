@@ -4,7 +4,7 @@ description: "\U0001F4BD Open reward pool for discovering and reporting vulnerab
 
 # mStable Bug Bounty
 
-An **ongoing** bug bounty for the smart contracts of the mStable protocol is now live. We intend for hackers to look for smart contract vulnerabilities in our system that can lead to loss of collateral, unfair payouts or locked components. We want mStable to be as resilient as possible - submit a bug and earn a reward of up to **US$10,000** \(or more in extreme circumstances\)**.** _Submissions ****must adhere to the_ [_bug bounty rules**.**_](mstable-bug-bounty.md#rules)_\*\*\*\*_
+An **ongoing** bug bounty for the smart contracts of the mStable protocol is now live. We intend for hackers to look for smart contract vulnerabilities in our system that can lead to loss of collateral, unfair payouts or locked components. We want mStable to be as resilient as possible - submit a bug and earn a reward of up to **US$25,000** \(or more in extreme circumstances\)**.** _Submissions ****must adhere to the_ [_bug bounty rules**.**_](mstable-bug-bounty.md#rules)_\*\*\*\*_
 
 {% hint style="info" %}
 Found a bug? Follow the [responsible disclosure guidelines](mstable-bug-bounty.md#responsible-disclosure) to submit to mStable
@@ -16,9 +16,11 @@ Rewards will be awarded at the sole discretion of the mStable team. Quality of t
 
 _The bug bounty program is ongoing and has been running since June 05th, 2020._
 
+_NB: Payout amounts increased \(max 25k\) as of July 14th, 2020._ 
+
 **The reward will be based on the following severity scheme, based on the** [**OWASP risk rating**](https://owasp.org/www-community/OWASP_Risk_Rating_Methodology) **methodology:**
 
-![](../../.gitbook/assets/image%20%2811%29.png)
+![](../../.gitbook/assets/image%20%2812%29.png)
 
 ## **Reporting**
 
