@@ -8,6 +8,7 @@ description: "\U0001F4D6 List of deployed contract addresses"
 {% tab title="Mainnet" %}
 | Contract | Address |
 | :--- | :--- |
+| MTA | [0xa3BeD4E1c75D00fa6f4E5E6922DB7261B5E9AcD2](https://etherscan.io/token/0xa3BeD4E1c75D00fa6f4E5E6922DB7261B5E9AcD2) |
 | mUSD | [0xe2f2a5C287993345a840Db3B0845fbC70f5935a5](https://etherscan.io/address/0xe2f2a5C287993345a840Db3B0845fbC70f5935a5) |
 | MassetValidationHelper | [0x4c5e03065bc52cce84f3ac94df14bbac27eac89b](https://etherscan.io/address/0x4c5e03065bc52cce84f3ac94df14bbac27eac89b#code) |
 | ForgeValidator | [0xbB90D06371030fFa150E463621c22950b212eaa1](https://etherscan.io/address/0xbB90D06371030fFa150E463621c22950b212eaa1#code) |
@@ -23,6 +24,7 @@ description: "\U0001F4D6 List of deployed contract addresses"
 {% tab title="Ropsten" %}
 | Contract | Address |
 | :--- | :--- |
+| Meta | 0x273bc479E5C21CAA15aA8538DecBF310981d14C0 |
 | mUSD | 0x4E1000616990D83e56f4b5fC6CC8602DcfD20459 |
 | MassetValidationHelper | 0x1edce92a9e970efd73cd637f6c1fbae7b0a2380c |
 | ForgeValidator | 0x2f93951d01002691C7FA3a10ce73d88D4391f88F |
@@ -33,7 +35,6 @@ description: "\U0001F4D6 List of deployed contract addresses"
 | DelayedProxyAdmin | 0x2d369F83E9DC764a759a74e87a9Bc542a2BbfdF0 |
 | SavingsManager | 0x22491baF7e522a63c658F654d73D49fF0415F77f |
 | SavingsContract | 0x300e56938454A4d8005B2e84eefFca002B3a24Bc |
-| Meta | 0x273bc479E5C21CAA15aA8538DecBF310981d14C0 |
 | RewardsDistributor | 0x683eB4a6Ddd554A0dB1837E3981be6FFd2C8F333 |
 {% endtab %}
 {% endtabs %}
