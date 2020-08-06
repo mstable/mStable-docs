@@ -19,6 +19,7 @@ description: "\U0001F4D6 List of deployed contract addresses"
 | DelayedProxyAdmin | [0x5C8eb57b44C1c6391fC7a8A0cf44d26896f92386](https://etherscan.io/address/0x5C8eb57b44C1c6391fC7a8A0cf44d26896f92386) |
 | SavingsManager | [0xcEfCBb45BE41331337d49a131faF424D1e50234f](https://etherscan.io/address/0xcEfCBb45BE41331337d49a131faF424D1e50234f) |
 | SavingsContract | [0xcf3f73290803fc04425bee135a4caeb2bab2c2a1](https://etherscan.io/address/0xcf3f73290803fc04425bee135a4caeb2bab2c2a1) |
+| RewardsDistributor | [0x04dfDfa471b79cc9E6E8C355e6C71F8eC4916C50](https://etherscan.io/address/0x04dfDfa471b79cc9E6E8C355e6C71F8eC4916C50) |
 {% endtab %}
 
 {% tab title="Ropsten" %}
