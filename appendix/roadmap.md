@@ -4,8 +4,8 @@ description: "\U0001F5FA️ What stage is the project? What are the key dates on
 
 # Roadmap
 
-{% hint style="info" %}
-These dates are provisional and subject to change. The items on the list is by no means exhaustive but should show a rough outline of what we have planned
+{% hint style="warning" %}
+These dates are provisional and subject to change. The items on the list is by no means exhaustive but should show a rough outline of some key things we have planned for the core protocol
 {% endhint %}
 
 ## Milestones \(Short term\)
@@ -38,6 +38,7 @@ These dates are provisional and subject to change. The items on the list is by n
 
 * [mStable SDK](../mstable-assets/interfacing-with-mstable/sdk.md) enables integrations into CeFi and DeFi
 * mGLD, mBTC
+* MTA Staking & Governance v1
 * Phase 2 - Testnet Launch
 * Phase 2 - Mainnet Launch
   * [Re-collateralization](../mstable-assets/functions/recollateralisation.md) enabled
