@@ -17,7 +17,7 @@ description: "\U0001F4D6 List of deployed contract addresses"
 | CompoundIntegration | [0xd55684f4369040c12262949ff78299f2bc9db735](https://etherscan.io/address/0xd55684f4369040c12262949ff78299f2bc9db735) |
 | Nexus | [0xAFcE80b19A8cE13DEc0739a1aaB7A028d6845Eb3](https://etherscan.io/address/0xAFcE80b19A8cE13DEc0739a1aaB7A028d6845Eb3) |
 | DelayedProxyAdmin | [0x5C8eb57b44C1c6391fC7a8A0cf44d26896f92386](https://etherscan.io/address/0x5C8eb57b44C1c6391fC7a8A0cf44d26896f92386) |
-| SavingsManager | [0xcEfCBb45BE41331337d49a131faF424D1e50234f](https://etherscan.io/address/0xcEfCBb45BE41331337d49a131faF424D1e50234f) |
+| SavingsManager | [0x7046b0bfc4c5eeb90559c0805dd9c1a6f4815370](https://etherscan.io/address/0x7046b0bfc4c5eeb90559c0805dd9c1a6f4815370) |
 | SavingsContract | [0xcf3f73290803fc04425bee135a4caeb2bab2c2a1](https://etherscan.io/address/0xcf3f73290803fc04425bee135a4caeb2bab2c2a1) |
 | RewardsDistributor | [0x04dfDfa471b79cc9E6E8C355e6C71F8eC4916C50](https://etherscan.io/address/0x04dfDfa471b79cc9E6E8C355e6C71F8eC4916C50) |
 {% endtab %}
@@ -34,7 +34,7 @@ description: "\U0001F4D6 List of deployed contract addresses"
 | CompoundIntegration | 0xB81920434770945FF3c99D9C1da721F70014e1B3 |
 | Nexus | 0xeD04Cd19f50F893792357eA53A549E23Baf3F6cB |
 | DelayedProxyAdmin | 0x2d369F83E9DC764a759a74e87a9Bc542a2BbfdF0 |
-| SavingsManager | 0x22491baF7e522a63c658F654d73D49fF0415F77f |
+| SavingsManager | 0x755629D1ecAD92dB2b81a3a88207bF6d2b864136 |
 | SavingsContract | 0x300e56938454A4d8005B2e84eefFca002B3a24Bc |
 | RewardsDistributor | 0x683eB4a6Ddd554A0dB1837E3981be6FFd2C8F333 |
 {% endtab %}
