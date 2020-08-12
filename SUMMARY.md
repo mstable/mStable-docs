@@ -8,6 +8,7 @@
   * [MINT](mstable-assets/massets/minting-and-redemption/README.md)
     * [Basket Adjustment](mstable-assets/massets/minting-and-redemption/rebalancing.md)
   * [SWAP](mstable-assets/massets/swapping.md)
+  * [EARN](mstable-assets/massets/earn.md)
   * [SAVE](mstable-assets/massets/native-interest-rate.md)
 * [Meta](mstable-assets/functions/README.md)
   * [Governance](mstable-assets/functions/governance.md)
