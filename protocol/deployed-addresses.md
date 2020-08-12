@@ -16,8 +16,9 @@ description: "\U0001F4D6 List of deployed contract addresses"
 | CompoundIntegration | [0xd55684f4369040c12262949ff78299f2bc9db735](https://etherscan.io/address/0xd55684f4369040c12262949ff78299f2bc9db735) |
 | Nexus | [0xAFcE80b19A8cE13DEc0739a1aaB7A028d6845Eb3](https://etherscan.io/address/0xAFcE80b19A8cE13DEc0739a1aaB7A028d6845Eb3) |
 | DelayedProxyAdmin | [0x5C8eb57b44C1c6391fC7a8A0cf44d26896f92386](https://etherscan.io/address/0x5C8eb57b44C1c6391fC7a8A0cf44d26896f92386) |
-| SavingsManager | [0xcEfCBb45BE41331337d49a131faF424D1e50234f](https://etherscan.io/address/0xcEfCBb45BE41331337d49a131faF424D1e50234f) |
+| SavingsManager | [0x7046b0bfc4c5eeb90559c0805dd9c1a6f4815370](https://etherscan.io/address/0x7046b0bfc4c5eeb90559c0805dd9c1a6f4815370) |
 | SavingsContract | [0xcf3f73290803fc04425bee135a4caeb2bab2c2a1](https://etherscan.io/address/0xcf3f73290803fc04425bee135a4caeb2bab2c2a1) |
+| RewardsDistributor | [0x04dfdfa471b79cc9e6e8c355e6c71f8ec4916c50](https://etherscan.io/address/0x04dfdfa471b79cc9e6e8c355e6c71f8ec4916c50) |
 {% endtab %}
 
 {% tab title="Ropsten" %}
