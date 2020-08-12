@@ -33,7 +33,7 @@ The protocol token [Meta](mstable-assets/functions/) \(MTA\) serves as insurance
 ### **Characteristics**
 
 * **Easy** - mStable is a one-stop solution for stablecoin users.
-* **Robust** - Collateral is diversified, exterior to the system and ultimately insured by Meta. 
+* **Robust** - Collateral is diversified, exterior to the system and ultimately secured by Meta. 
 * **Stable** - mStable's liquidity shares are tokenized assets in their own right. 
 * **Decentralized** - Meta embeds the incentives required to govern a decentralized system.
 * **Built for Rapid Scaling** - 25% of Meta is emitted in a bootstrapping rewards pool. 
