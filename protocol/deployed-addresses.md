@@ -9,6 +9,7 @@ description: "\U0001F4D6 List of deployed contract addresses"
 | Contract | Address |
 | :--- | :--- |
 | mUSD | [0xe2f2a5C287993345a840Db3B0845fbC70f5935a5](https://etherscan.io/address/0xe2f2a5C287993345a840Db3B0845fbC70f5935a5) |
+| MTA | [0xa3bed4e1c75d00fa6f4e5e6922db7261b5e9acd2](https://etherscan.io/address/0xa3bed4e1c75d00fa6f4e5e6922db7261b5e9acd2) |
 | MassetValidationHelper | [0xabcc93c3be238884cc3309c19afd128fafc16911](https://etherscan.io/address/0xabcc93c3be238884cc3309c19afd128fafc16911#code) |
 | ForgeValidator | [0xbB90D06371030fFa150E463621c22950b212eaa1](https://etherscan.io/address/0xbB90D06371030fFa150E463621c22950b212eaa1#code) |
 | BasketManager | [0x66126B4aA2a1C07536Ef8E5e8bD4EfDA1FdEA96D](https://etherscan.io/address/0x66126B4aA2a1C07536Ef8E5e8bD4EfDA1FdEA96D) |
@@ -24,16 +25,18 @@ description: "\U0001F4D6 List of deployed contract addresses"
 {% tab title="Ropsten" %}
 | Contract | Address |
 | :--- | :--- |
-| mUSD | 0xE5BFd72378fF24820C3eE4fD35352EeA39C13fb6 |
+| mUSD | 0x4E1000616990D83e56f4b5fC6CC8602DcfD20459 |
+| MTA | 0x273bc479E5C21CAA15aA8538DecBF310981d14C0 |
 | MassetValidationHelper | 0xe8735901a262187b112ad6de9872451b623e7f53 |
-| ForgeValidator | 0x9E87c0FE21031F9285061D4584f4336C5Efc5c09 |
-| BasketManager | 0x83e5e769231dbb29022b5781775522065065826f |
-| AaveIntegration | 0x50C04A98196D785319F5a69be692A240a4310f4c |
-| CompoundIntegration | 0x6CFc263EF27f3B35F83a823A75EaBB988116135F |
-| Nexus | 0xFfEAB3211a761DcBBA18f274FDF25F69401abCeC |
-| DelayedProxyAdmin | 0x89D9c6aDA640e6437a26852f96EAb05EBe7d76bA |
-| SavingsManager | 0xBdAa66E59754C0174A0872174024267B161A75E2 |
-| SavingsContract | 0xE501Db49c80b676884EC9C432299F260D1864Ed7 |
+| ForgeValidator | 0x2f93951d01002691C7FA3a10ce73d88D4391f88F |
+| BasketManager | 0x7AE685713D0dcccccE3D936D3E0FA382639839Df |
+| AaveIntegration | 0x3d91aC116686932559e11F8447f4d79a69e629b6 |
+| CompoundIntegration | 0xB81920434770945FF3c99D9C1da721F70014e1B3 |
+| Nexus | 0xeD04Cd19f50F893792357eA53A549E23Baf3F6cB |
+| DelayedProxyAdmin | 0x2d369F83E9DC764a759a74e87a9Bc542a2BbfdF0 |
+| SavingsManager | 0x755629d1ecad92db2b81a3a88207bf6d2b864136 |
+| SavingsContract | 0x300e56938454A4d8005B2e84eefFca002B3a24Bc |
+| RewardsDistributor | 0x683eB4a6Ddd554A0dB1837E3981be6FFd2C8F333 |
 {% endtab %}
 {% endtabs %}
 
