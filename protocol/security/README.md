@@ -16,7 +16,11 @@ Open reward pool for discovering and reporting vulnerabilities in the mStable pr
 
 ## Auditing
 
-Initial audit performed by Bramah Systems. Additional audit currently pending.
+Audit completed by [Consensys Diligence](https://diligence.consensys.net/) - report available [here](https://diligence.consensys.net/audits/2020/07/mstable-1.1/) or PDF below.
+
+{% file src="../../.gitbook/assets/mstable-audit-2020-07.pdf" %}
+
+Initial audit performed by Bramah Systems.
 
 {% file src="../../.gitbook/assets/mstable-audit-bramah-systems.pdf" caption="Audit report" %}
 
