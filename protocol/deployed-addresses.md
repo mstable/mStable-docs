@@ -38,5 +38,24 @@ description: "\U0001F4D6 List of deployed contract addresses"
 | SavingsContract | 0x300e56938454A4d8005B2e84eefFca002B3a24Bc |
 | RewardsDistributor | 0x683eB4a6Ddd554A0dB1837E3981be6FFd2C8F333 |
 {% endtab %}
+
+{% tab title="Kovan" %}
+| Contract | Address |
+| :--- | :--- |
+| mUSD | 0x867d787c52d01DE9dCdfe24C658856e0E2CC518D |
+| MTA | 0xe3f7DeF40391fF712486227E48d1Efec441FCDC5 |
+| MassetValidationHelper | 0xe8735901a262187b112ad6de9872451b623e7f53 |
+| ForgeValidator | 0xDA717388Ad69d19728C5cf7C5773b70cE4C4A895 |
+| BasketManager | 0xaE3CEB35790ebfb8b15Bc271238fBD5cF99cE74E |
+| AaveIntegration | 0xC2a215f6d7a43612c79f3E2b119e0672da90864F |
+| CompoundIntegration | 0x2Ec4b2c527796bc1C1054293f11F89686B058252 |
+| Nexus | 0xDA717388Ad69d19728C5cf7C5773b70cE4C4A895 |
+| DelayedProxyAdmin | 0x13DdED04D520ddef7b31dAdcC35A698C222C28Ea |
+| SavingsManager | 0x9e9cB1aceEd18B3cbfc23C439ad9076439b5bB67 |
+| SavingsContract | 0xa8299D7f5f131a7171913f12Acc14d897BbA8547 |
+| RewardsDistributor | 0xC2a215f6d7a43612c79f3E2b119e0672da90864F |
+{% endtab %}
 {% endtabs %}
+
+
 
