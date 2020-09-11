@@ -31,8 +31,6 @@ When you deposit an mASSET into the SAVE contract, you are internally credited w
 function depositSavings(uint256 _amount)
 ```
 
-_NB: The notional increase of interest shown on_ [_https://app.mstable.org/save_](https://app.mstable.org/save) _shows balance increasing at 10% APY. This is notional, where the increase in your savings balance will be technically applied at the time of the next `exchange rate` change._
-
 ### How is the 24h APY calculated?
 
 **Retrospective** 24 hour APY \(Annual percentage yield\) calculations are shown on the SAVE page of the mStable app. This number is derived from two `exchange rate` changes in the SAVE contract \(see above\) from the **past 24 hours**. 
