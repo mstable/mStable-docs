@@ -6,7 +6,7 @@ description: "\U0001F4C8 mASSETS within the mStable ecosystem earn interest that
 
 All mStable assets will be able to earn a native interest rate. This is done by the lending of underlying bASSETS on decentralised lending markets such as Compound or AAVE, combined with mStable's swap fees. 
 
-A smaller portion may also be allocated to those [staking](../../meta-rewards-1/staking.md) the mStable protocol token Meta, in return for performing governance functions over the mStable system. This will be decided by token holders once Meta is decentralised.
+A smaller portion may also be allocated to those [staking]() the mStable protocol token Meta, in return for performing governance functions over the mStable system. This will be decided by token holders once Meta is decentralised.
 
 As interest and fees accrue, new mASSETS are minted and sent to the relevant SAVE contract. Users who opt in to receiving interest by depositing a mASSET balance into the contract receive these newly minted mASSETS. This means that mStable assets retain their peg and are therefore both liquidity shares and tokenized assets in their own right.
 

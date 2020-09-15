@@ -42,7 +42,7 @@ These dates are provisional and subject to change. The items on the list is by n
 * Phase 2 - Testnet Launch
 * Phase 2 - Mainnet Launch
   * [Re-collateralization](../mstable-assets/functions/recollateralisation.md) enabled
-  * [Staking rewards](../meta-rewards-1/staking.md) begins
+  * [Staking rewards]() begins
   * Token based governance begins
   * mStable Governance Dashboard
 * Phase 3 - Testnet Launch
