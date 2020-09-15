@@ -2,15 +2,15 @@
 
 ## Core Team
 
-* 🇦🇺 [James Simpson](https://www.linkedin.com/in/jamesronaldsimpson/) - CEO & Co-Founder
+* 🇦🇺 [James Simpson](https://www.linkedin.com/in/jamesronaldsimpson/) - Co-Founder
 * 🇸🇪 [Henrik Andersson ](https://www.linkedin.com/in/henrikandersson/)- Research & Co-Founder
-* 🇦🇺 [James Eddington](https://twitter.com/jwpeddington) - COO
+* 🇦🇺 [James Eddington](https://twitter.com/jwpeddington) - Operations
 * 🇮🇪 [Alex Scott](https://www.linkedin.com/in/alex-scott-0341a976/) -  Lead Developer
 * 🇬🇧 [James Lefrère](https://www.linkedin.com/in/james-lefrere/) -  dApp Developer
 
 ## Advisors
 
-* 🇦🇺 [Anthony Sassano](https://www.linkedin.com/in/asassano/) - Founder, Eth Hub. Product Marketing, Set
+* 🇦🇺 [Anthony Sassano](https://www.linkedin.com/in/asassano/) 
 * 🇦🇺 [Zhuoxun Yin](https://www.linkedin.com/in/zhuoxun-yin-3ba93728)
 * 🇦🇺 [Flex Dapps](https://www.linkedin.com/company/flex-dapps/) 
 
