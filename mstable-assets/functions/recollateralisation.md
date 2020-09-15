@@ -1,18 +1,18 @@
 ---
-description: "\U0001F3E5 Each mStable asset is stronger than the sum of its parts. Re-collateralization protects the basket in the event of a bASSET losing its peg."
+description: "\U0001F3E5 Each mStable asset is stronger than the sum of its parts. Re-collateralization would protect the basket in the event of a bASSET losing its peg."
 ---
 
-# Re-collateralization
+# Re-collateralization Proposal
 
 {% hint style="info" %}
-This feature will be launched in [Phase 2](../../protocol/versioning.md#phase-2) of the protocol
+The founding team will propose this feature to be launched in [Phase 2](../../protocol/versioning.md#phase-2) of the protocol
 {% endhint %}
 
 ## Introduction
 
-mStable creates assets that are stronger than the sum of their parts. A core reason for this is mStable's re-collateralization mechanism. Meta is used to effectively over-collateralise mASSETS. 
+mStable creates assets that are stronger than the sum of their parts. A core reason for this would be a re-collateralization mechanism. Meta could be used to effectively over-collateralise mASSETS. 
 
-If a collateral basket asset - a bASSET - loses its peg, mStable can purge that asset and recover lost value by selling Meta for the outstanding mASSET. 
+If a collateral basket asset - a bASSET - loses its peg, mStable could purge that asset and recover lost value by selling Meta for the outstanding mASSET. 
 
 The purchased mASSET is subsequently burned. This continues until there is an equal amount of outstanding mASSETS to the amount of collateral in the basket, re-collateralizing the system.
 

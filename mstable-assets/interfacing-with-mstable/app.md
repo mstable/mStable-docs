@@ -32,7 +32,7 @@ Built using `React (Context/Hooks)`, [`web3-react`](https://github.com/NoahZinsm
 
 mStable dashboard provides a comprehensive interface into the mStable protocol. 
 
-Aside from the core functionality of minting and redemption, the Dashboard provides visibility and metrics on all on-chain information including [Basket composition](../massets/minting-and-redemption/rebalancing.md), Forge velocity, [Staking](../../meta-rewards-1/staking.md), [Governance](../functions/governance.md) votes and [Re-collateralization](../functions/recollateralisation.md) proposals and auctions. It will facilitate Governance participation and allow traders and arbitrageurs to participate in auctions during Re-collateralization \(See [Phase 2](../../protocol/versioning.md)\). 
+Aside from the core functionality of minting and redemption, the Dashboard provides visibility and metrics on all on-chain information including [Basket composition](../massets/minting-and-redemption/rebalancing.md), Forge velocity, [Staking](../../meta-rewards-1/staking.md) and [Governance](../functions/governance.md) votes. 
 
 ### When?
 
