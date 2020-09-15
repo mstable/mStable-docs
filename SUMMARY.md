@@ -34,7 +34,7 @@
 
 ## Appendix
 
-* [Stability Labs](appendix/about-us.md)
+* [Contributors](appendix/about-us.md)
 * [Roadmap](appendix/roadmap.md)
 * [Glossary of Terms](appendix/glossary-of-terms.md)
 
