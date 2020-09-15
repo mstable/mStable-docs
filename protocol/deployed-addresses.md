@@ -42,18 +42,19 @@ description: "\U0001F4D6 List of deployed contract addresses"
 {% tab title="Kovan" %}
 | Contract | Address |
 | :--- | :--- |
-| mUSD | 0x867d787c52d01DE9dCdfe24C658856e0E2CC518D |
-| MTA | 0xe3f7DeF40391fF712486227E48d1Efec441FCDC5 |
-| MassetValidationHelper | 0xe8735901a262187b112ad6de9872451b623e7f53 |
-| ForgeValidator | 0xDA717388Ad69d19728C5cf7C5773b70cE4C4A895 |
-| BasketManager | 0xe18C03D8dd795BEAe738275831Bb9B31b1b12D9C |
-| AaveIntegration | 0xC2a215f6d7a43612c79f3E2b119e0672da90864F |
-| CompoundIntegration | 0x2Ec4b2c527796bc1C1054293f11F89686B058252 |
-| Nexus | 0xDA717388Ad69d19728C5cf7C5773b70cE4C4A895 |
-| DelayedProxyAdmin | 0x13DdED04D520ddef7b31dAdcC35A698C222C28Ea |
-| SavingsManager | 0x9e9cB1aceEd18B3cbfc23C439ad9076439b5bB67 |
-| SavingsContract | 0xa8299D7f5f131a7171913f12Acc14d897BbA8547 |
-| RewardsDistributor | 0xC2a215f6d7a43612c79f3E2b119e0672da90864F |
+| mUSD | 0x752fC0b67FFB55e2261970feaC7223d8657cbF79 |
+| MTA | 0xD04dA6818d5AfC077dF8a2EcE8B96F10713EA091 |
+| IncentivisedVotingLockup | 0xEae557D72753dB2F26BeB9eAf669834Ab8024bCB |
+| MassetValidationHelper |  |
+| ForgeValidator |  |
+| BasketManager | 0xdc9B202830C65aF680D5Db3E06deA26eac989823 |
+| AaveIntegration | 0x88dc1e8DEEF3542Ce8011CD7C53c184Aa557C038 |
+| CompoundIntegration | 0xB1CF06E0054C630fb3d63C26D9843A535e8d26DC |
+| Nexus | 0xA095e610a382b594a72420BB6E1D9498F3a4Bd3e |
+| DelayedProxyAdmin | 0x3E2E5590Ad811211cB67D6E91CF9c57443331c5F |
+| SavingsManager | 0xfDccb5f945A1765796206f23fCCAa7894847c82B |
+| SavingsContract | 0xa4e196CB0b83a0a4F1859Ebf0E344c113FEeb754 |
+| RewardsDistributor | 0x1Fd01345794b162eCF3b69fFF2231B34d1994371 |
 {% endtab %}
 {% endtabs %}
 
