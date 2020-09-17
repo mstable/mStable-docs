@@ -31,7 +31,6 @@ New bASSETS can be added should they be deemed secure and stable by the governan
 
 Possible future mAssets:
 
-* mUSD __💵 
 * mBTC Ⓑ
 * mGLD🏆
 * mEUR __💶 
