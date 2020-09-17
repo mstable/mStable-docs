@@ -36,7 +36,7 @@ Possible future mAssets:
 * mEUR __💶 
 * mGBP 💷
 
-#### **Metastable Ⓜ**
+### **Metastable Ⓜ**
 
 Once a sufficient number of mASSETS have been created and scaled, the protocol will enable the creation of a basket of mASSETS called Metastable. It will represent a global diversified basket of pegged assets - a unit of account for the digital world.  
 
