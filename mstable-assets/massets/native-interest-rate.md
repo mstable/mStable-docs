@@ -71,7 +71,7 @@ A current list of platforms used by mStable is below:
 
 ## Platform Fees
 
-The mStable platform can charge fees for users to single bASSET redeem and swap bASSETS. As these fee accrue, a portion of them is allocated to the SAVE contract as another part of the native interest.
+The mStable platform can charge fees for users to single bASSET redeem and swap bASSETS. As these fees accrue, they are allocated to the SAVE contract as another part of the native interest.
 
 ## Other contributions to APY
 
