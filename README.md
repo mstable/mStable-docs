@@ -61,7 +61,6 @@ The protocol token [Meta](mstable-assets/functions/) \(MTA\) serves as insurance
 * [Rewards](meta-rewards-1/introduction/)
 * [Re-collateralisation](mstable-assets/functions/recollateralisation.md)
 * [Meta Governance](mstable-assets/functions/governance.md) 
-  * [Staking]() 
 
 {% hint style="success" %}
 Now you've got the high level! Time to dig a little deeper.

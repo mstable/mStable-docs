@@ -10,7 +10,7 @@ description: >-
 
 EARN is a dashboard through which our users can see all of their yield farming options on mStable in one convenient place. It is the place where all of our [Ecosystem Rewards](../../meta-rewards-1/introduction/ecosystem.md) are currently distributed, and will likely be where future initiatives and incentives will be made accessible.
 
-Currently, EARN lists incentivised liquidity pools from [Balancer](https://balancer.finance/) and [Uniswap](https://uniswap.io/). These pools are changed in response to dialogue with the community. Reward amounts can be changed, new pools included, and old pools excluded, on a weekly basis. We are keen to fine tune the pools and rewards over time in order to best suit the needs of mStable as a whole.
+Currently, EARN lists incentivised liquidity pools from [Balancer](https://balancer.finance/) and [Uniswap](https://uniswap.io/). These pools are changed in response to dialogue with the community. Reward amounts can be changed, new pools included, and old pools excluded, on a weekly basis. This process will soon be automated, with governance directing where rewards are sent.
 
 ### Earning MTA
 

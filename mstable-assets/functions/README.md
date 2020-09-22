@@ -10,7 +10,7 @@ description: >-
 
 1. To coordinate [decentralised governance](governance.md)
 2. To incentivise [bootstrapping](../../meta-rewards-1/introduction/) of mASSET liquidity, utility and a decentralised community of Governors
-3. To act as the ultimate source of [re-collateralisation](recollateralisation.md)
+3. To act as the ultimate source of [re-collateralisation](recollateralisation.md) when it is implemented.
 
 
 
