@@ -17,14 +17,16 @@
   * [dApp](mstable-assets/interfacing-with-mstable/app.md)
   * [SDK](mstable-assets/interfacing-with-mstable/sdk.md)
 
-## Meta Rewards <a id="meta-rewards-1"></a>
+## Meta Rewards and Grants <a id="meta-rewards-1"></a>
 
-* [Open Reward Pool](meta-rewards-1/introduction/README.md)
+* [Public MTA Rewards](meta-rewards-1/introduction/README.md)
   * [Ecosystem](meta-rewards-1/introduction/ecosystem.md)
+  * [Grants Program](meta-rewards-1/introduction/grants-program.md)
 
 ## Protocol
 
 * [Developers](protocol/developers.md)
+* [mStable Improvement Proposals \(MIPs\)](protocol/mstable-improvement-proposals-mips.md)
 * [Security](protocol/security/README.md)
   * [mStable Bug Bounty](protocol/security/mstable-bug-bounty.md)
   * [Architecture](protocol/security/architecture.md)

@@ -6,11 +6,11 @@ description: >-
 
 # Basket Adjustment
 
-Governance controls the addition/removal of bASSETS and sets their maximum weights. 
+Governance will control the addition/removal of bASSETS and set their maximum weights. 
 
 A Basket Adjustment occurs when Governance chooses to change the maximum weight of a bASSET. 
 
-Secondly, a basket adjustment can occur when a bASSET is deemed unfit for inclusion. In this case, [Governance](../../functions/governance.md) can purge that bASSET entirely. 
+Secondly, a basket adjustment can occur when a bASSET is deemed unfit for inclusion. In this case, [Governance](../../functions/governance.md) will be able to purge that bASSET entirely. 
 
 ### Standard Basket Adjustment  
 

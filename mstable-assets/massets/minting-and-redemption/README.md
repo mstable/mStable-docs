@@ -13,12 +13,12 @@ Each mASSET will use a smart contract to facilitate minting and redemption and h
 
 * To mint an mStable asset, a user calls the `mint` function of that mASSET contract. 
 * The user then sends any of the underlying whitelisted tokens to the smart contract of that asset. 
-  * For the USD asset, the underlying bASSET could be USDC, TUSD, USDT, USDC, GUSD, DAI, and so on.
+  * For the USD asset, the underlying bASSET could be USDC, TUSD, USDT, DAI, and so on.
 * A mint is valid if it does not push any of the bASSET collateral levels past their predefined maximum weight. 
 
 Minting a mASSET offers optionality and immediate 1:1 \(zero slippage\) conversion of a bASSET into its corresponding mASSET. 
 
-For example, if you send 100 DAI to the mUSD contract, you will receive 100 redeemable mUSD back. Minting costs you nothing but gas — in fact you will be rewarded for doing this \(see [Meta Rewards](../../../meta-rewards-1/introduction/)\).
+For example, if you send 100 DAI to the mUSD contract, you will receive 100 redeemable mUSD back. Minting costs you nothing but gas .
 
 The newly minting mASSET is more secure than the corresponding bASSET as it is backed by several other assets as well as by the [mStable protocol token](../../functions/recollateralisation.md) Meta. Users must have a mASSET in order to take advantage of mStable [native interest rate](../native-interest-rate.md).
 
@@ -56,8 +56,6 @@ Asset A is then transferred from the senders address. If the transfer is success
 
 The user is therefore exchanging their asset for a mASSET of equal or very similar value. 
 
-To further incentivise minting, Meta will be rewarded through mStable's [open reward pool](../../../meta-rewards-1/introduction/).
-
 ### **The** Basic **Process of Redeeming a mASSET**
 
 Continuing with mExample, which as before has 4 bASSETS and **maximum weights** defined as 35% across them all. 
@@ -94,6 +92,6 @@ To redeem 100 mExample from the basket:
 * Receive 35 units of Asset A, 30 units of Assets B & C, and 5 units of Asset D.
 
 {% hint style="info" %}
-The Forging process is the analogous for mGLD, mEUR, mBTC and so on.
+The Forging process will be analogous for mGLD, mEUR, mBTC and so on.
 {% endhint %}
 

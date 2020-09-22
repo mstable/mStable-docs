@@ -1,5 +1,5 @@
 ---
-description: "\U0001F5F3️ Mature, fully decentralized governance is a critical goal for the project - here's our plan."
+description: "\U0001F5F3️ Fully decentralized governance is a critical goal for the project - here's our plan."
 ---
 
 # Governance Roadmap
@@ -32,7 +32,7 @@ Phase 2 sees the introduction of [Re-collateralization](../mstable-assets/functi
 
 ### Governance
 
-[Company Aragon DAO](https://github.com/aragon/dao-templates/tree/master/templates/company) orchestrated by an initial council of Governors - both core team members and community [stakers](). Instead of merely introducing external governors in the system, there are additional intermediary steps we can take to make the transition easier \(such as limiting vote proposals to a specific group, such as core team and investors at the beginning\).
+[Company Aragon DAO](https://github.com/aragon/dao-templates/tree/master/templates/company) orchestrated by an initial council of Governors - both core team members and community members. Instead of merely introducing external governors in the system, there are additional intermediary steps we can take to make the transition easier \(such as limiting vote proposals to a specific group, such as core team and investors at the beginning\).
 
 ### Transition Plan
 

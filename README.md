@@ -1,5 +1,5 @@
 ---
-description: "\U0001F44B Welcome to mStable's docs. This is a live document that will be updated as mStable evolves. Currently, we aim to provide a high level overview of the protocol and its components."
+description: "\U0001F44B Welcome to mStable's docs. This is a live document that will be updated as mStable evolves. Currently, we aim to provide a high level overview of the protocol and its existing components."
 ---
 
 # Getting Started
@@ -48,10 +48,7 @@ The protocol token [Meta](mstable-assets/functions/) \(MTA\) serves as insurance
 *  **Stablecoin Users** 
   * mStable issues assets that are more secure than the sum of their parts. Each mASSET diversifies risk between different asset issuers and stability mechanisms. The system itself is effectively __over-collateralised due to each mASSET being ultimately backed by Meta. See [EARN](mstable-assets/functions/).
 * **SDK Integrations** 
-  * **dApps:** mStable increases a dApp's user base while increasing usability. mStable allows dApps to accept several assets while presenting them in a more secure and user friendly way. For example, with the mStable [SDK](mstable-assets/interfacing-with-mstable/sdk.md), a dApp could accept USDC, DAI, TUSD, USDT, GUSD, USDx, CUSD and present the USD asset simply as _USD._  
-  * **Futures exchanges:** instead of using a single stablecoin as the contract's basis, accept and settle in multiple stablecoins. Decrease the probability of mass liquidations due to a stablecoin peg loss
-  * **Spot exchanges:** unite stablecoin liquidity into one pair: BTC/USD rather than BTC/USDT, BTC/USDC etc. 
-  * **Participating dApps and exchanges receive** [**Meta**](meta-rewards-1/introduction/)**.**
+  * mStable allows dApps to accept several assets while presenting them in a more secure and user friendly way. This product is yet to be built, but may have potential applications for DeFi dApps and crypto exchanges. 
 
 ### Features
 

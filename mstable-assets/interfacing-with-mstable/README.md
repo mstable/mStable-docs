@@ -27,10 +27,6 @@ Our protocol exists as open-access [Smart Contracts ](https://en.wikipedia.org/w
 Do you **want to integrate with mStable?** Smart contract integration details are available on the [Developers](../../protocol/developers.md) page
 {% endhint %}
 
-### Using our SDK
-
-We make it particularly easy to build apps accessing mStable with the [mStable SDK](sdk.md).
-
 ### Communicate directly
 
 It is possible, but not recommended to communicate directly through a Wallet provider \(e.g. [Metamask](https://metamask.io/), [MyCrypto](https://mycrypto.com)\). Doing so means writing your own transaction, which is something you should avoid doing.

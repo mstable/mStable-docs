@@ -6,8 +6,6 @@ description: "\U0001F4C8 mASSETS within the mStable ecosystem earn interest that
 
 All mStable assets will be able to earn a native interest rate. This is done by the lending of underlying bASSETS on decentralised lending markets such as Compound or AAVE, combined with mStable's swap fees. 
 
-A smaller portion may also be allocated to those [staking]() the mStable protocol token Meta, in return for performing governance functions over the mStable system. This will be decided by token holders once Meta is decentralised.
-
 As interest and fees accrue, new mASSETS are minted and sent to the relevant SAVE contract. Users who opt in to receiving interest by depositing a mASSET balance into the contract receive these newly minted mASSETS. This means that mStable assets retain their peg and are therefore both liquidity shares and tokenized assets in their own right.
 
 There will always be a portion of circulating mASSETS being used as a medium of exchange, held offline, or not deposited in the SAVE contract for some other reason. This dynamic, combined with platform fees, should make the interest earned on mASSETS greater than on other yield products. 
@@ -73,7 +71,11 @@ A current list of platforms used by mStable is below:
 
 ## Platform Fees
 
-The mStable platform can charge fees for users to single bASSET redeem and swap bASSETS. As these fee accrue, a portion of them is allocated to the SAVE contract as another part of the native interest; in future governors may also decide to allocate a portion of these fees to Meta stakers as a reward for governing mStable. 
+The mStable platform can charge fees for users to single bASSET redeem and swap bASSETS. As these fee accrue, a portion of them is allocated to the SAVE contract as another part of the native interest.
+
+## Other contributions to APY
+
+There are other sources of value that may also be directed to the SAVE APY. A recent mStable Improvement Proposal \([MIP 2](https://github.com/mstable/MIPs/blob/master/MIPS/mip-2.md)\), for example, directs liquidated COMP tokens to the SAVE contract in order to improve the APY.
 
 ## Example
 

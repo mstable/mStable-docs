@@ -1,5 +1,5 @@
 ---
-description: "\U0001F4B0 mStable unites stablecoins and other tokenised assets into more useful and higher yielding instruments. Our first assets include a fiat currency (mUSD), a commodity (mGLD) and Bitcoin (mBTC)."
+description: "\U0001F4B0 mStable unites stablecoins and other tokenised assets into more useful and higher yielding instruments. Our first assets is a fiat currency (mUSD)."
 ---
 
 # mASSETS
@@ -35,10 +35,4 @@ Possible future mAssets:
 * mGLD🏆
 * mEUR __💶 
 * mGBP 💷
-
-### **Metastable Ⓜ**
-
-Once a sufficient number of mASSETS have been created and scaled, the protocol will enable the creation of a basket of mASSETS called Metastable. It will represent a global diversified basket of pegged assets - a unit of account for the digital world.  
-
-As with other mASSETS, the Meta holders will be the governors of Metastable. However, there will be no fees for the Metastable asset and Meta will not act as a direct backstop to Metastable. This is because the underlying assets of Metastable are mASSETS \(which already incur fees and can be re-collateralised by Meta\).
 

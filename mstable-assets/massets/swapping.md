@@ -53,13 +53,13 @@ Allowing users to swap bASSETS at 1:1 introduces risks into the system that must
 
 ### Swaps at maximum weight
 
-Swaps that would push a bASSET above its max weight are paused. Swaps that do not affect the bASSET at maximum weight are unaffected.
+Swaps that would push a bASSET above its max weight are not allowed. Swaps that do not affect the bASSET at maximum weight are unaffected.
 
 ### Minting and Redemption at maximum weight
 
-Minting and redemption activity that would push a bASSET above its max weight are paused. Importantly, those wishing to redeem mASSETS at these times must redeem the basket at its underlying weights; this is presented as "multi redemption". Read more in the [Forging](minting-and-redemption/) section.
+Minting and redemption activity that would push a bASSET above its max weight are not allowed. Importantly, those wishing to redeem mASSETS at these times must redeem the basket at its underlying weights; this is presented as "multi redemption". Read more in the [Forging](minting-and-redemption/) section.
 
 ### Swap Fees
 
-Swap fees are a flat fee, charged in the asset received by a user. These fees are able to be changed by Governors. 
+Swap fees are a flat fee, charged in the asset received by a user. These fees will be set by Governors. 
 
