@@ -16,7 +16,7 @@ Three major problems confront stablecoin users:
 
 * significant fragmentation in same-peg assets
 * lack of native yield when it is being increasingly demanded by users
-* lack of insurance against permanent capital loss
+* lack of protection against permanent capital loss
 
 Our products \(SWAP, SAVE and EARN\) are built specifically to address these pain-points. 
 
@@ -28,7 +28,7 @@ Each mASSET has an outsized [native interest rate](mstable-assets/massets/native
 
 Users can [swap](mstable-assets/massets/swapping.md) between bASSETS with **zero price slippage,** regardless of order size. For example, in mUSD, uses are able to swap 1 DAI for 1 USDC at no cost, except gas and a small fee. 
 
-The protocol token [Meta](mstable-assets/functions/) \(MTA\) serves as insurance against permanent loss for all mASSETS. Those who hold Meta can stake their tokens to become governors, allowing them to participate in governance of the system. In order to achieve long-term value of Meta, these governors are motivated to seek stability through the diversification and growth of mStable.
+Those who hold Meta can stake their tokens to become governors, allowing them to participate in governance of the system. In order to achieve long-term value of Meta, these governors are motivated to seek stability through the diversification and growth of mStable.
 
 ### **Characteristics**
 
