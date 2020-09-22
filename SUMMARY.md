@@ -13,6 +13,7 @@
 * [Meta](mstable-assets/functions/README.md)
   * [Governance](mstable-assets/functions/governance.md)
   * [Re-collateralization Proposal](mstable-assets/functions/recollateralisation.md)
+* [mStable Community](mstable-assets/mstable-community.md)
 * [Interfacing with mStable](mstable-assets/interfacing-with-mstable/README.md)
   * [dApp](mstable-assets/interfacing-with-mstable/app.md)
   * [SDK](mstable-assets/interfacing-with-mstable/sdk.md)
@@ -21,7 +22,10 @@
 
 * [Public MTA Rewards](meta-rewards-1/introduction/README.md)
   * [Ecosystem](meta-rewards-1/introduction/ecosystem.md)
-  * [Grants Program](meta-rewards-1/introduction/grants-program.md)
+
+---
+
+* [Grants Program](grants-program.md)
 
 ## Protocol
 

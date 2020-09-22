@@ -6,7 +6,7 @@ description: "\U0001F4B0 mStable unites stablecoins and other tokenised assets i
 
 ## Overview
 
-mStable can support numerous mASSETS. Each mASSET is pegged to a unique asset, such as fiat currency \(US Dollar, Japanese Yen\), a Consumer Price Index, a commodity like Gold, or a cryptocurrency like Bitcoin. 
+mStable can support numerous mASSETS. Each mASSET is pegged to a unique asset, such as fiat currency \(US Dollar\) or a cryptocurrency like Bitcoin. 
 
 Each mASSET is backed by a basket of existing whitelisted tokenised assets of that same peg. 
 
