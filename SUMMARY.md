@@ -22,10 +22,7 @@
 
 * [Public MTA Rewards](meta-rewards-1/introduction/README.md)
   * [Ecosystem](meta-rewards-1/introduction/ecosystem.md)
-
----
-
-* [Grants Program](grants-program.md)
+* [Grants Program](meta-rewards-1/grants-program.md)
 
 ## Protocol
 
