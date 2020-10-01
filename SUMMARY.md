@@ -30,11 +30,11 @@
 ## Protocol
 
 * [Developers](protocol/developers.md)
+* [Deployed addresses](protocol/deployed-addresses.md)
 * [mStable Improvement Proposals \(MIPs\)](protocol/mstable-improvement-proposals-mips.md)
 * [Security](protocol/security/README.md)
   * [mStable Bug Bounty](protocol/security/mstable-bug-bounty.md)
   * [Architecture](protocol/security/architecture.md)
-* [Deployed addresses](protocol/deployed-addresses.md)
 * [Governance Roadmap](protocol/versioning.md)
 
 ## Appendix
