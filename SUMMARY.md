@@ -26,6 +26,7 @@
 
 ## Protocol
 
+* [Introduction](protocol/introduction.md)
 * [Developers](protocol/developers.md)
 * [Deployed addresses](protocol/deployed-addresses.md)
 * [mStable Improvement Proposals \(MIPs\)](protocol/mstable-improvement-proposals-mips.md)
@@ -39,4 +40,8 @@
 * [Contributors](appendix/about-us.md)
 * [Roadmap](appendix/roadmap.md)
 * [Glossary of Terms](appendix/glossary-of-terms.md)
+
+---
+
+* [Untitled](untitled.md)
 
