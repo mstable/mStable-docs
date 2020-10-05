@@ -44,3 +44,13 @@
 * [Roadmap](appendix/roadmap.md)
 * [Glossary of Terms](appendix/glossary-of-terms.md)
 
+## Additional Resources
+
+---
+
+* [Medium](https://medium.com/mstable)
+* [Discord](https://discord.gg/pgCVG7e)
+* [Twitter](https://twitter.com/mstable_)
+* [Telegram](https://t.me/mstableofficial)
+* [Forum](http://forum.mstable.org/)
+
