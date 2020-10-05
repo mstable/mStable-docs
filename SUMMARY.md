@@ -24,11 +24,14 @@
   * [Ecosystem](meta-rewards-1/introduction/ecosystem.md)
 * [Grants Program](meta-rewards-1/grants-program.md)
 
+## Developers
+
+* [Introduction](developers/introduction.md)
+* [Swapping](developers/developers.md)
+* [Deployed addresses](developers/deployed-addresses.md)
+
 ## Protocol
 
-* [Introduction](protocol/introduction.md)
-* [Developers](protocol/developers.md)
-* [Deployed addresses](protocol/deployed-addresses.md)
 * [mStable Improvement Proposals \(MIPs\)](protocol/mstable-improvement-proposals-mips.md)
 * [Security](protocol/security/README.md)
   * [mStable Bug Bounty](protocol/security/mstable-bug-bounty.md)
@@ -40,8 +43,4 @@
 * [Contributors](appendix/about-us.md)
 * [Roadmap](appendix/roadmap.md)
 * [Glossary of Terms](appendix/glossary-of-terms.md)
-
----
-
-* [Untitled](untitled.md)
 

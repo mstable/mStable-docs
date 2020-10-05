@@ -2,7 +2,7 @@
 description: "\U0001F501 Integration details for interacting with mStable"
 ---
 
-# Developers
+# Swapping
 
 ## Swapping bAssets
 
