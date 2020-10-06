@@ -13,7 +13,6 @@
 * [Meta](mstable-assets/functions/README.md)
   * [Governance](mstable-assets/functions/governance.md)
   * [Re-collateralization Proposal](mstable-assets/functions/recollateralisation.md)
-  * [Media Coverage](mstable-assets/functions/media-coverage.md)
 * [Interfacing with mStable](mstable-assets/interfacing-with-mstable/README.md)
   * [dApp](mstable-assets/interfacing-with-mstable/app.md)
   * [SDK](mstable-assets/interfacing-with-mstable/sdk.md)
@@ -49,6 +48,7 @@
 * [Contributors](appendix/about-us.md)
 * [Roadmap](appendix/roadmap.md)
 * [Glossary of Terms](appendix/glossary-of-terms.md)
+* [Media Coverage](appendix/media-coverage.md)
 
 ## Additional Resources
 
