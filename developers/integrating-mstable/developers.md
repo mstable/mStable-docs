@@ -2,7 +2,7 @@
 description: "\U0001F501 Integration details for interacting with mStable"
 ---
 
-# Swapping
+# SWAP
 
 ## Swapping bAssets
 
@@ -14,7 +14,7 @@ In order to execute the trade:
 * `approve` the `mAsset` address to spend the input asset
 * call [`swap`](developers.md#swap) to execute the trade
 
-Swaps relating to a given `mAsset` require interaction directly with that `mAsset` contract - see [deployed addresses](deployed-addresses.md) for all `mAsset` addresses.
+Swaps relating to a given `mAsset` require interaction directly with that `mAsset` contract - see [deployed addresses](../deployed-addresses.md) for all `mAsset` addresses.
 
 Building an integrating contract or arbitrage bot and want to get the maximum possible swap? Use our [validation helper](developers.md#validationhelper).
 
@@ -73,13 +73,13 @@ function swap(
     returns (uint256 output)
 ```
 
-## ValidationHelper
+## MStableHelper
 
-See [Deployed addresses](deployed-addresses.md) for the current address of the `MassetValidationHelper`.
+See [Deployed addresses](../deployed-addresses.md) for the current address of the `MStableHelper`.
 
 This helper provides methods to make MINT, SWAP and REDEEM easier to integrate with on chain.
 
-Reach out to us if you would like something added. 
+_NB: This helper is not optimised for gas_
 
 ### Getting max SWAP available
 

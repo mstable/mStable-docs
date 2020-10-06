@@ -27,7 +27,11 @@
 ## Developers
 
 * [Introduction](developers/introduction.md)
-* [Swapping](developers/developers.md)
+* [Integrating mStable](developers/integrating-mstable/README.md)
+  * [MINT](developers/integrating-mstable/mint.md)
+  * [SAVE](developers/integrating-mstable/save.md)
+  * [REDEEM](developers/integrating-mstable/redeem.md)
+  * [SWAP](developers/integrating-mstable/developers.md)
 * [Deployed addresses](developers/deployed-addresses.md)
 
 ## Protocol
