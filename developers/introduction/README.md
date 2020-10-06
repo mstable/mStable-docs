@@ -26,23 +26,28 @@ See [mStable-js](../mstable-js.md) for more info on ways to retrieve, parse and 
 
 ## Why mStable?
 
-If your application uses `USDT`, `USDC`, `TUSD` or `DAI` you can use mStable to earn a yield for account holders by using the mStable protocol. mUSD represents a basket of underlying stablecoins that is governed and protected by MTA. You can read more about how the protocol works [here](https://docs.mstable.org/mstable-assets/massets). By leveraging mStable, applications can offer account holders a yield on a popular stablecoins while leveraging the additional security of mUSD.
+mStable Assets \(mAssets\) are built to be the solid base layer in DeFi. The first mAsset, mUSD, comprises of USDT, TUSD, DAI and USDC. mAssets can be minted with any of the underlying and used as a trustworthy base layer with which to, for example, collateralise synthetic assets or loans. [Read more about mAssets](https://docs.mstable.org/mstable-assets/massets).
 
-{% hint style="info" %}
-mStable contracts have [been independently audited](https://docs.mstable.org/protocol/security#auditing) but you should do your own research and be aware of the risks of using a third-party protocol.
-{% endhint %}
+mAssets produce a native yield through the SAVE contract. Yield is derived from AMM swap trades and lending markets. Underlying assets can be redeemed at any time. mStable aims to be a foundational layer for DeFi applications.
 
-Some potential applications that can be created using the mStable protocol are
+### Whats sort of stuff can be built? <a id="bb4f"></a>
 
-* Deriving a yield for any application that accepts DAI, USDT, TUSD or USDC
+Essentially anything that **builds on top** of ****or **extends** the ****mStable protocol, or simply utilises mAssets to their potential. We would also welcome any application utilising the system token MTA.
+
+Some ideas to build on top of mStable:
+
 * A no loss lottery \(e.g. PoolTogether\)
-* Utilising mStable as part of an trading bot
 * A derivative using mStable SAVE or mUSD \(e.g. CHAI\)
-* Wrapping MINT/SWAP/REDEEM in something \(e.g. 'accept anything and produce mUSD'\)
+* A derivative using mAssets as the **settlement** **layer**
+* Deriving a yield for any application that accepts DAI, USDT, TUSD or USDC
+* Utilising mStable MINT/SWAP as part of an trading bot
+* Wrapping MINT/SWAP/REDEEM in something \(e.g. ‘accept anything and produce mUSD’\)
+* An interest bearing stablecoin product for custodied stablecoins \(e.g. a CEX\)
+
+Some ideas to **utilise** mAssets or MTA:
+
+* Using mAssets to collateralise synthetic instruments
 * An application that uses mUSD as collateral
 * An application that uses MTA as collateral
 * An index fund using MTA or mStable, where the SAVE product contributes to the yield
-* An interest bearing stablecoin product for custodied stablecoins \(e.g. a CEX\). 
-
-## 
 
