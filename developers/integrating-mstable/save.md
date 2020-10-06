@@ -4,20 +4,17 @@ description: "\U0001F4C8 Earning yield on minted mAssets"
 
 # SAVE
 
-## Deposit and redeem mAssets
+## Deposit and redeem mAssets from SAVE
 
-After [minting](mint.md), mAssets \(e.g. mUSD\) may be deposited into the relevant SAVE contract to earn a yield. Once deposited, mAsset is held on the SAVE contract but may be redeemed at any time. 
+mAssets \(e.g. mUSD\) may be deposited into the relevant SAVE contract to earn a yield. Once deposited, mAsset is held on the SAVE contract but may be redeemed at any time. Balances are represented internally through `credits`, but these **do not** have an ERC20 token attached.
 
-To deposit and redeem, interact with the `SAVE` contract. You can discover the deployed addresses for [the SAVE contract here](../deployed-addresses.md). There are two functions available depositing and redeeming
+To deposit and redeem, interact with the `SAVE` contract. You can discover the deployed addresses for [the SAVE contract here](../deployed-addresses.md). A deposit flow would look like:
 
-* `depositSavings`
-* `redeem` 
+* `approve` the `SAVE` address to spend the input mAsset
+* call [`depositSavings`](save.md#depositsavings) to deposit the mAsset
+* check balance in mAsset terms using [`getSaveBalance`](save.md#getsavebalance) 
 
 You may wish to use the [ISavingsContract Interface](https://github.com/mstable/mStable-contracts/blob/master/contracts/interfaces/ISavingsContract.sol) in your contracts. 
-
-{% hint style="info" %}
-An integrating contract must first call`approve`on the mAsset and give permission for the SAVE contract to spend.
-{% endhint %}
 
 ## SavingsContract
 

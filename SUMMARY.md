@@ -13,7 +13,6 @@
 * [Meta](mstable-assets/functions/README.md)
   * [Governance](mstable-assets/functions/governance.md)
   * [Re-collateralization Proposal](mstable-assets/functions/recollateralisation.md)
-* [mStable Community](mstable-assets/mstable-community.md)
 * [Interfacing with mStable](mstable-assets/interfacing-with-mstable/README.md)
   * [dApp](mstable-assets/interfacing-with-mstable/app.md)
   * [SDK](mstable-assets/interfacing-with-mstable/sdk.md)
@@ -26,12 +25,14 @@
 
 ## Developers
 
-* [Introduction](developers/introduction.md)
-* [Integrating mStable](developers/integrating-mstable/README.md)
+* [Introduction](developers/introduction/README.md)
+  * [Get set up on Ropsten](developers/introduction/get-set-up-on-ropsten.md)
+* [mStable-protocol](developers/integrating-mstable/README.md)
   * [MINT](developers/integrating-mstable/mint.md)
+  * [SWAP](developers/integrating-mstable/developers.md)
   * [SAVE](developers/integrating-mstable/save.md)
   * [REDEEM](developers/integrating-mstable/redeem.md)
-  * [SWAP](developers/integrating-mstable/developers.md)
+* [mStable-js](developers/mstable-js.md)
 * [Deployed addresses](developers/deployed-addresses.md)
 
 ## Protocol

@@ -2,11 +2,13 @@
 description: "\U0001F3D7️ How to integrate mStable into your smart contracts."
 ---
 
-# Integrating mStable
+# mStable-protocol
 
 ## Installation
 
 The mStable protocol contracts are available as an [`npm module`](https://www.npmjs.com/package/@mstable/protocol) that may be included in your projects.
+
+{% embed url="https://www.npmjs.com/package/@mstable/protocol" %}
 
 ### Using npm
 
@@ -20,7 +22,7 @@ npm install @mstable/protocol --save-dev
 yarn add @mstable/protocol --dev
 ```
 
-## Integrating mStable
+## An example
 
 In this following code examples you will learn how to integrate the mStable protocol. This represents a basic integration and more advanced developers may wish to go straight to the nested API docs or the [smart contracts on Github](https://github.com/mstable/mStable-contracts). Deployed contract addresses for Ropsten, Kovan and Mainnet [are listed here](../deployed-addresses.md). 
 
@@ -70,7 +72,7 @@ function mint(
 }
 ```
 
-### Depositing mUSD
+### Depositing into SAVE
 
 {% page-ref page="save.md" %}
 
@@ -104,7 +106,7 @@ function deposit(
 
 ```
 
-### Withdrawing mUSD
+### Withdrawing from SAVE
 
 {% page-ref page="save.md" %}
 
@@ -165,7 +167,12 @@ function redeem(
     address _bAsset,
     uint _bAssetQuanity
 ) external returns (uint256 massetRedeemed) {
-    return IMasset(massetContract).redeem(_bAsset, _bAssetQuanity);
+
+    // application logic
+
+    IMasset(massetContract).redeem(_bAsset, _bAssetQuanity);
+    
+    // application logic
 }
 ```
 

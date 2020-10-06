@@ -109,33 +109,5 @@ function getMaxSwap(
     )
 ```
 
-### Check Redeem Validity
-
-```typescript
-/**
- * @dev Determines if a given Redemption is valid
- * @param _mAsset Address of the given mAsset (e.g. mUSD)
- * @param _mAssetQuantity Amount of mAsset to redeem (in mUSD units)
- * @param _outputBasset Desired output bAsset
- * @return valid
- * @return validity reason
- * @return output in bAsset units
- * @return bAssetQuantityArg - required input argument to the 'redeem' call
- */
-function getRedeemValidity(
-    address _mAsset,
-    uint256 _mAssetQuantity,
-    address _outputBasset
-)
-    public
-    view
-    returns (
-        bool,
-        string memory,
-        uint256 output,
-        uint256 bassetQuantityArg
-    )
-```
-
 
 

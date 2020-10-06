@@ -6,23 +6,30 @@ description: ⬅️ Redeem underlying assets from mAssets (e.g. mUSD)
 
 ## Redeem bAssets
 
-mAssets are [minted](mint.md) using one or more of the constituent assets of the basket that makes up a mAsset. For example, mUSD is comprised of USDT, USDC, TUSD and DAI. These underlying assets may be redeemed at any time. 
+An mAsset can be redeemed for any one of its underlying bAssets, providing that:
 
-To redeem, interact with the `mAsset` contract. You can discover the deployed addresses for [the mAsset contract here](../deployed-addresses.md). There are three functions available for redeeming 
+* the bAsset being redeemed has sufficient liquidity
+* redeeming the bAsset does not push another bAsset beyond its maximum weight
 
-* `redeem`
-* `redeemTo`
-* `redeemMulti` 
+To redeem, interact with the `mAsset` contract. You can discover the deployed addresses for [the mAsset contract here](../deployed-addresses.md). In order to execute the redemption:
 
-You may wish to use the [IMasset Interface ](https://github.com/mstable/mStable-contracts/blob/master/contracts/interfaces/IMasset.sol)in your contracts. 
+* choose a bAsset to redeem or use [`suggestRedeemAsset`](redeem.md#suggestredeemasset) to return an optimal choice
+* verify that the redemption is valid with [`getRedeemValidity`](redeem.md#getredeemvalidity)\`\`
+* call `redeem` to execute
+
+You may wish to use the [IMasset Interface ](https://github.com/mstable/mStable-contracts/blob/master/contracts/interfaces/IMasset.sol)in your contracts.
+
+{% hint style="info" %}
+Redeeming applies a SWAP fee to the output. If the SWAP fee is 0.01%, this means redeeming 1 mAsset would net 0.9999 of the defined bAsset 
+{% endhint %}
 
 ## Masset
 
 ### redeem
 
-| Input arg | Output arg | Estimated gas cost |
-| :--- | :--- | :--- |
-| bAsset quantities | mAsset Quantity | ~180-340k |
+| Estimated gas cost |
+| :--- |
+| ~180-340k |
 
 ```javascript
  /**
@@ -41,9 +48,9 @@ You may wish to use the [IMasset Interface ](https://github.com/mstable/mStable-
 
 ### redeemTo
 
-| Input arg | Output arg | Estimated gas cost |
-| :--- | :--- | :--- |
-| bAsset quantities | mAsset Quantity | ~180-340k |
+| Estimated gas cost |
+| :--- |
+| ~180-340k |
 
 ```javascript
 /**
@@ -65,9 +72,9 @@ You may wish to use the [IMasset Interface ](https://github.com/mstable/mStable-
 
 ### redeemMulti
 
-| Input | Output | Estimated gas cost |
-| :--- | :--- | :--- |
-|  | bAssets |  |
+| Estimated gas cost |
+| :--- |
+| ~140-320k per bAsset |
 
 ```javascript
 /**
@@ -93,9 +100,35 @@ The mStable Helper contract provides the `getRedeemValidity` function to ascerta
 
 See [Deployed addresses](../deployed-addresses.md) for the current address of the `MStableHelper`.
 
-_NB: This helper is not optimised for gas_
+_**NB: This helper is not optimised for gas**_
+
+### suggestRedeemAsset
+
+This function returns the most optimal bAsset to redeem, in terms of price and availability.
+
+```typescript
+/**
+ * @dev Returns a valid bAsset to redeem
+ * @param _mAsset Masset addr
+ * @return valid bool
+ * @return string message
+ * @return address of bAsset to redeem
+*/
+function suggestRedeemAsset(
+    address _mAsset
+)
+    external
+    view
+    returns (
+        bool,
+        string memory,
+        address
+    );
+```
 
 ### getRedeemValidity
+
+This function determines if a given redemption is valid, and shows the `output` that would be given if the redemption were to be executed with the specified `_mAssetQuantity`
 
 ```typescript
 /**
@@ -120,28 +153,6 @@ function getRedeemValidity(
         string memory,
         uint256 output,
         uint256 bassetQuantityArg
-    );
-```
-
-### suggestRedeemAsset
-
-```typescript
-/**
- * @dev Returns a valid bAsset to redeem
- * @param _mAsset Masset addr
- * @return valid bool
- * @return string message
- * @return address of bAsset to redeem
-*/
-function suggestRedeemAsset(
-    address _mAsset
-)
-    external
-    view
-    returns (
-        bool,
-        string memory,
-        address
     );
 ```
 

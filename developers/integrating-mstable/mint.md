@@ -8,17 +8,13 @@ description: ➡️ How to mint mAssets like mUSD
 
 mAssets represent a basket of underlying bAssets and that be minted using any of the bAssets that make up the basket. Developers may mint mAssets using a single bAsset or a combination of more than one.
 
-To mint, interact with the `mAsset` contract. You can discover the deployed addresses for [the mAsset contract here](../deployed-addresses.md). There are three functions available for minting 
+To mint, interact with the `mAsset` contract. You can discover the deployed addresses for [the mAsset contract here](../deployed-addresses.md). In order to execute the mint:
 
-* `mint`
-* `mintTo` 
-* `mintMulti`.
+* choose a bAsset to mint with, or select optimally with [`suggestMintAsset`](mint.md#suggestmintasset)  
+* `approve` the `mAsset` address to spend the input asset
+* call [`mint`](mint.md#mint) to execute
 
 You may wish to use the [IMasset Interface ](https://github.com/mstable/mStable-contracts/blob/master/contracts/interfaces/IMasset.sol)in your contracts. 
-
-{% hint style="info" %}
-An integrating contract must first call`approve`on the bAsset and give permission for the `mAsset`contract to spend.
-{% endhint %}
 
 {% hint style="warning" %}
 Minting with a bAsset cannot push this asset past its maximum weight.

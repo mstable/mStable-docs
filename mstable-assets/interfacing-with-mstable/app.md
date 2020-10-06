@@ -24,15 +24,3 @@ The App is the first product built using the [mStable SDK](sdk.md). Common funct
 
 Built using `React (Context/Hooks)`, [`web3-react`](https://github.com/NoahZinsmeister/web3-react/), `ethers.js` and `Typescript`. It will be be open source.
 
-## mStable Dashboard
-
-### What?
-
-mStable dashboard provides a comprehensive interface into the mStable protocol. 
-
-Aside from the core functionality of minting and redemption, the Dashboard provides visibility and metrics on all on-chain information including [Basket composition](../massets/minting-and-redemption/rebalancing.md), Forge velocity, and [Governance](../functions/governance.md) votes. 
-
-### When?
-
-See [Roadmap](../../appendix/roadmap.md).
-
