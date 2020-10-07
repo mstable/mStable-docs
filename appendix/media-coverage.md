@@ -24,7 +24,7 @@ description: "\U0001F4FD mStable in the media and cryptoverse"
 ### 2020
 
 * [What is mStable?](https://messari.io/asset/mstable/profile) _\(Messari Database\)_
-* [mStable DeFi Guide: Ultimate Stablecoin Solution](https://www.asiacryptotoday.com/mstable/) \(Asia Crypto Today\)
+* [mStable DeFi Guide: Ultimate Stablecoin Solution](https://www.asiacryptotoday.com/mstable/) _\(Asia Crypto Today\)_
 * [Introducing mStable – meta-assets with native yield and zero slippage swaps](https://defipulse.com/blog/introducing-mstable/) _\(DeFi Pulse\)_
 * [mStable Review](https://defirate.com/mstable/) _\(DeFi Rate\)_
 * [mStable Launches mUSD Stablecoin Protocol on Ethereum Mainnet](https://defirate.com/mstable-launch/) _\(DeFi Rate\)_
