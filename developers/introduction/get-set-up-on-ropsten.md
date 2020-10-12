@@ -37,7 +37,7 @@ The mStable protocol on Ropsten uses the following stablecoins.
 
 * DAI `0xb5e5d0f8c0cba267cd3d7035d6adc8eba7df7cdd` \(Old Compound\)
 * USDC `0x8a9447df1fb47209d36204e6d56767a33bf20f9f` \(Old Compound\)
-* TUSD `0xa2ea00df6d8594dbc76b79befe22db9043b8896f` \(New Aave\)
+* TUSD `0xa2ea00df6d8594dbc76b79befe22db9043b8896f` \(Current Aave\)
 * USDT `0xB404c51BBC10dcBE948077F18a4B8E553D160084` \(Current Aave\)
 
 TUSD/USDT can be obtained from the [Aave Faucet](https://testnet.aave.com/faucet/) \(pro tip: you can change the data sent in the faucet function to mint more than the default amount\). Compounds Faucet is a bit tricky, which is why an old deployment is used that had sufficient liquidity. If you wish to get DAI/USDC it would be better to first use the Aave faucet, or request `mUSD` from the mStable team via Discord.
