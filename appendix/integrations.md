@@ -4,29 +4,41 @@ This is a non-exhaustive list of projects, companies, wallets and dApps that hav
 
 Wallets
 
+* Argent
 * Dharma
 * MEET.ONE
 
+dApps and Liquidity Pools
+
+* Aave
+* Balancer
+* Curve
+* Compound
+* Rari Capital
+
 Exchanges
 
+* 1inch
+* Balancer
+* Bibox
+* BiKi
+* Bilaxy
 * BKEX
 * FTX
+* Gate.io
+* Hotbit
 * Huobi Global
 * Huobi Korea
-* Mooniswap
-* Uniswap
-* Poloniex
-* Hotbit
 * LBank
-* Balancer
-* BiKi
+* Matcha
+* Mooniswap
 * MXC
-* Bilaxy
-* Bibox
+* OpenDAO's Open Market
+* Poloniex
 * TomoDEX
-* Gate.io
-* 
-dApps
+* Uniswap
+
+
 
 
 
