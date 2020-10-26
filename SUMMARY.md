@@ -49,6 +49,7 @@
 * [Roadmap](appendix/roadmap.md)
 * [Glossary of Terms](appendix/glossary-of-terms.md)
 * [Media Coverage](appendix/media-coverage.md)
+* [Integrations](appendix/integrations.md)
 
 ## Additional Resources
 
