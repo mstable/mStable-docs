@@ -12,6 +12,8 @@ description: "\U0001F4FD mStable in the media and cryptoverse"
 * [Crypto Tonight DeFi Ep2](https://play.yunxi.tv/livestream/flash?id=966607730116440896260b019d1030cc#/) _\(Sep 2020\)_
 * [REIMAGINE 2020 v3.0 - James Simpson - mStable - MUSD](https://www.youtube.com/watch?v=KwSPs5pvUVk) _\(Sep 2020\)_
 * \_\_[ACDX x mStable AMA](https://www.pscp.tv/w/1mrGmERpnpvGy) _\(Sep 2020\)_
+* [mStable Innovative Stablecoin](https://www.youtube.com/watch?v=3W0t9k8IFho) _\(Sep 2020\)_
+* [How to Earn Interest Savings Stablecoins with mStable](https://www.youtube.com/watch?v=2FL7sw_EqcY) _\(Jun 2020\)_
 
 ## **Podcasts**
 
