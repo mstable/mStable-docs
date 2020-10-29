@@ -2,13 +2,13 @@
 
 This is a non-exhaustive list of projects, companies, wallets and dApps that have integrated MTA or mUSD. Please note that mStable does not support or endorse any one integration, this list exists solely for informational purposes.
 
-Wallets
+### Wallets
 
 * Argent
 * Dharma
 * MEET.ONE
 
-dApps and Liquidity Pools
+### dApps and Liquidity Pools
 
 * Aave
 * Balancer
@@ -16,7 +16,7 @@ dApps and Liquidity Pools
 * Compound
 * Rari Capital
 
-Exchanges
+### Exchanges
 
 * 1inch
 * Balancer
