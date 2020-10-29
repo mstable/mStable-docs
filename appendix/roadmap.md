@@ -34,13 +34,25 @@ These dates are provisional and subject to change. The items on the list is by n
   * ~~MTA released~~
   * ~~~~[~~Ecosystem rewards~~](../meta-rewards-1/introduction/ecosystem.md) ~~begin with EARN~~
   * ~~MTA Staking & Governance v1~~
-    * [mStable v1 Staking Launch](https://medium.com/mstable/mstable-v1-staking-launch-33a0a8f5da27)
-    * [MTA Staking V1: Voting Weights and Rewards](https://medium.com/mstable/mta-staking-v1-voting-weights-and-rewards-3a25d1d42124)
+    * ~~~~[~~mStable v1 Staking Launch~~](https://medium.com/mstable/mstable-v1-staking-launch-33a0a8f5da27)~~~~
+    * ~~~~[~~MTA Staking V1: Voting Weights and Rewards~~](https://medium.com/mstable/mta-staking-v1-voting-weights-and-rewards-3a25d1d42124)~~\~~
+
+#### Q4 2020:
+
+* ~~SAVE Liquidator contract~~
+* Cache and gas efficiency improvements
+* Upgraded AMM
+* mStable on IPFS via ENS
+* DAO decentralisation
+
+#### Q1 2021:
+
+* mBTC
 
 #### Ongoing/future:
 
 * [mStable SDK](../mstable-assets/interfacing-with-mstable/sdk.md) enables integrations into CeFi and DeFi
-* mGLD, mBTC
+* mGLD
 * Phase 2 - Testnet Launch
 * Phase 2 - Mainnet Launch
   * [Re-collateralization](../mstable-assets/functions/recollateralisation.md) enabled
