@@ -18,7 +18,7 @@ _For more notes on the purpose of modules picture here, check out the descriptio
 
 ## Phase 1
 
-This is the initial implementation of the mStable protocol, and facilitates the core functionality surrounding mASSET usage, while also setting the framework for the transition into later phases.
+This is the initial implementation of the mStable protocol, and facilitates the core functionality surrounding mASSET usage, while also setting the framework for the transition into later phases. This phase includes the launch of MTA staking V1 in September 2020, and the first steps towards MTA token holder participation via on-chain signalling on mStable's [snapshot page](https://snapshot.page/#/mstable).
 
 ### Governance
 
@@ -26,13 +26,13 @@ This is the initial implementation of the mStable protocol, and facilitates the 
 
 ## Phase 2
 
-Due to Meta price discovery and fair token distribution achieved through the [rewards mechanism](../meta-rewards-1/introduction/), it is feasible to begin to introduce both a more decentralized version of governance, and enable the re-collateralization functionality. 
+With the Meta token in circulation and being distributed through public rewards and staking returns, mStable will implement its first version of decentralized governance. Phase 2 will be marked by the implementation of the re-collateralization module and MTA staking V2. 
 
-Phase 2 sees the introduction of [Re-collateralization](../mstable-assets/functions/recollateralisation.md) into the system through the `Recol` module, and the introduction of staking into the actual functionality of the system.
+Phase 2 will see the introduction of [Re-collateralization](../mstable-assets/functions/recollateralisation.md) into the system through the `Recol` module, and the introduction of staking V2 into the functionality of the system.
 
 ### Governance
 
-[Company Aragon DAO](https://github.com/aragon/dao-templates/tree/master/templates/company) orchestrated by an initial council of Governors - both core team members and community members. Instead of merely introducing external governors in the system, there are additional intermediary steps we can take to make the transition easier \(such as limiting vote proposals to a specific group, such as core team and investors at the beginning\).
+[Company Aragon DAO](https://github.com/aragon/dao-templates/tree/master/templates/company) orchestrated by an initial council of Governors - both core team members, advisors, investors, and community members. Instead of merely introducing external governors in the system, there are additional intermediary steps we can take to make the transition easier \(such as limiting vote proposals to a specific group, such as core team and investors at the beginning\).
 
 ### Transition Plan
 
