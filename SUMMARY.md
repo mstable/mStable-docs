@@ -16,6 +16,7 @@
 * [Interfacing with mStable](mstable-assets/interfacing-with-mstable/README.md)
   * [dApp](mstable-assets/interfacing-with-mstable/app.md)
   * [SDK](mstable-assets/interfacing-with-mstable/sdk.md)
+* [Brand Assets](mstable-assets/brand-assets.md)
 
 ## Meta Rewards and Grants <a id="meta-rewards-1"></a>
 
@@ -48,7 +49,6 @@
 * [Contributors](appendix/about-us.md)
 * [Roadmap](appendix/roadmap.md)
 * [Glossary of Terms](appendix/glossary-of-terms.md)
-* [Brand Assets](appendix/brand-assets.md)
 * [Media Coverage](appendix/media-coverage.md)
 * [Integrations](appendix/integrations.md)
 
