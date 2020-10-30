@@ -48,6 +48,7 @@
 * [Contributors](appendix/about-us.md)
 * [Roadmap](appendix/roadmap.md)
 * [Glossary of Terms](appendix/glossary-of-terms.md)
+* [Brand Assets](appendix/brand-assets.md)
 * [Media Coverage](appendix/media-coverage.md)
 * [Integrations](appendix/integrations.md)
 
