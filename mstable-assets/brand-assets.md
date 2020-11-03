@@ -41,7 +41,7 @@ Tangerine yellow \(\#FAB41F\), navy blue \(\#0061E3\), Smokey white \(\#F8F5F2\)
 ### Please Do
 
 * Use all caps MTA when discussing trading pairs \(ETH/MTA\) and displaying amounts \(14.75 MTA\).
-* Use a lowercase m on mUSD when discussing trading pairs \(ETH/mUSD\) and displaying amounts \(1,000 mUSD\).
+* Use a lowercase `m` on mUSD when discussing trading pairs \(ETH/mUSD\) and displaying amounts \(1,000 mUSD\).
 
 ### Please Do Not
 
