@@ -34,7 +34,7 @@ mStable is a protocol that unites stablecoins, lending and swapping into one sta
 
 ## Colours
 
-Tangerine yellow \(\#FFB634\), navy blue \(\#0061E3\), Smokey white \(\#F8F5F2\), and black \(\#000000\) are mStable's primary brand colours.
+Tangerine yellow \(\#FAB41F\), navy blue \(\#0061E3\), Smokey white \(\#F8F5F2\), and black \(\#000000\) are mStable's primary brand colours.
 
 ![](../.gitbook/assets/mstable-colours.png)
 
