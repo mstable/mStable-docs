@@ -27,8 +27,6 @@ The maximum weight can be adjusted through mStable’s governance system in resp
 
 New bASSETS can be added should they be deemed secure and stable by the governance system. Conversely, a bASSET can be removed should the governance system consider it too risky for inclusion in a basket. 
 
-**Every mASSET is protected by the protocol token** [**Meta**](../functions/) **which serves as a backstop for all mStable assets.**
-
 Possible future mAssets:
 
 * mBTC Ⓑ
