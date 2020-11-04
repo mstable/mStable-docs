@@ -49,9 +49,9 @@
 ## Appendix
 
 * [Contributors](appendix/about-us.md)
-* [Roadmap](appendix/roadmap.md)
 * [Glossary of Terms](appendix/glossary-of-terms.md)
 * [Media Coverage](appendix/media-coverage.md)
+* [Roadmap](appendix/roadmap.md)
 * [Integrations](appendix/integrations.md)
 
 ## Additional Resources
