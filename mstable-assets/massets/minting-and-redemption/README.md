@@ -13,31 +13,23 @@ Each mASSET will use a smart contract to facilitate minting and redemption and h
 
 * To mint an mStable asset, a user calls the `mint` function of that mASSET contract. 
 * The user then sends any of the underlying whitelisted tokens to the smart contract of that asset. 
-  * For the USD asset, the underlying bASSET could be USDC, TUSD, USDT, DAI, and so on.
+  * For the USD asset, the underlying bASSET could be USDC, TUSD, USDT, DAI, or sUSD.
 * A mint is valid if it does not push any of the bASSET collateral levels past their predefined maximum weight. 
 
 Minting a mASSET offers optionality and immediate 1:1 \(zero slippage\) conversion of a bASSET into its corresponding mASSET. 
 
-For example, if you send 100 DAI to the mUSD contract, you will receive 100 redeemable mUSD back. Minting costs you nothing but gas .
+For example, if you send 100 DAI to the mUSD contract, you will receive 100 redeemable mUSD back. Minting costs you nothing but gas . Users must have a mASSET in order to take advantage of mStable's [native interest rate](../native-interest-rate.md).
 
-The newly minting mASSET is more secure than the corresponding bASSET as it is backed by several other assets as well as by the [mStable protocol token](../../functions/recollateralisation.md) Meta. Users must have a mASSET in order to take advantage of mStable [native interest rate](../native-interest-rate.md).
-
-The mASSET is ERC20 compliant and the user is able to [redeem](./#redemption) it for the underlying bASSETS at any time. 
+All mASSETs are ERC20 compliant and redeemable for the underlying bASSET\(s\) at any time. 
 
 ## Redemption
 
 In reverse, users redeem their mASSET by calling a `redeem` function on the mASSET contract. 
 
 * The user is able to specify which bASSET they wish to receive in return for an equivalent amount of their mASSET \(which is then burned\).
-* A redemption is valid so long as the given bASSET\(s\) does not push any of the other bASSETS over their maximum weights. When redeeming for a single bASSET, a fee equal to the swap fee is charged. 
+* A redemption is valid so long as the given bASSET\(s\) does not push any of the other bASSETS over their maximum weights. When redeeming for a single bASSET, a fee is charged. 
 * If a bASSET is at maximum weight, the system enforces "multi-proportional redemption". At no fee, the user receives a proportional representation of bASSETS.
-* This means that even in the event of a peg loss, the system retains value without requiring oracles. 
-
-## DEX Integrations
-
-To provide further optionality during the Forging process, we can capitalise on existing on-chain exchanges \(or “DEXs”\).  These exchanges can facilitate minting across a broad variety of assets \(such as ETH\), which will then be used to purchase the most optimal bASSET for minting.
-
-The same mechanism can be used in the redemption process wherein the user may wish to receive a particular output token\(s\). These tokens would then be traded on a DEX before ultimately returning the output to the user. This can be enabled in one transaction.
+* This means that even in the event of a peg loss, the system protects value without requiring oracles. 
 
 ## Examples
 
