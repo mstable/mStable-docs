@@ -38,10 +38,12 @@
 
 ## Protocol
 
-* [mStable Improvement Proposals \(MIPs\)](protocol/mstable-improvement-proposals-mips.md)
 * [Security](protocol/security/README.md)
   * [mStable Bug Bounty](protocol/security/mstable-bug-bounty.md)
   * [Architecture](protocol/security/architecture.md)
+* [Upgrades](protocol/upgrades/README.md)
+  * [MIPs](protocol/upgrades/mstable-improvement-proposals-mips.md)
+  * [MCCPs](protocol/upgrades/mccps.md)
 * [Governance Roadmap](protocol/versioning.md)
 
 ## Appendix
