@@ -1,20 +1,20 @@
 ---
-description: "\U0001F4C8 mASSETS within the mStable ecosystem earn interest that is the average of interest earned on composite bASSETS plus platform fees and other income sources."
+description: "\U0001F4C8 mAssets within the mStable ecosystem earn interest that is the average of interest earned on composite bAssets plus platform fees and other income sources."
 ---
 
 # SAVE
 
-All mStable assets will earn a native interest rate. This is done by the lending of underlying bASSETS on decentralised lending markets such as Compound or AAVE, combined with mStable's swap fees and other sources of income \(such as token liquidations described in [MIP2](https://mips.mstable.org/MIPS/mip-2.html)\). 
+All mStable assets will earn a native interest rate. This is done by the lending of underlying bAssets on decentralised lending markets such as Compound or AAVE, combined with mStable's swap fees and other sources of income \(such as token liquidations described in [MIP2](https://mips.mstable.org/MIPS/mip-2.html)\). 
 
-As interest and fees accrue, new mASSETS are minted and sent to the relevant SAVE contract. Users who opt in to receiving interest by depositing a mASSET balance into the contract receive these newly minted mASSETS. This means that mStable assets retain their peg and are therefore both liquidity shares and tokenized assets in their own right.
+As interest and fees accrue, new mAssets are minted and sent to the relevant SAVE contract. Users who opt in to receiving interest by depositing a mAsset balance into the contract receive these newly minted mAssets. This means that mStable assets retain their peg and are therefore both liquidity shares and tokenized assets in their own right.
 
-There will always be a portion of circulating mASSETS being used as a medium of exchange, held offline, or not deposited in the SAVE contract for some other reason. This "leveraged" dynamic, combined with platform fees, should make the interest earned on mASSETS greater than on other yield products. 
+There will always be a portion of circulating mAssets being used as a medium of exchange, held offline, or not deposited in the SAVE contract for some other reason. This "leveraged" dynamic, combined with platform fees, should make the interest earned on mAssets greater than on other yield products. 
 
 ### Savings balance increase
 
-When you deposit a mASSET into the SAVE contract, you are internally credited with `Savings Credits` based on the current `exchange rate`. Each time a Saver deposits, the interest is collected from the mASSET and deposited here, increasing the `exchange rate` at the benefit of existing Savers.
+When you deposit a mAsset into the SAVE contract, you are internally credited with `Savings Credits` based on the current `exchange rate`. Each time a Saver deposits, the interest is collected from the mAsset and deposited here, increasing the `exchange rate` at the benefit of existing Savers.
 
-`Credits` become increasingly valuable as new deposits are made and the `exchange rate` increases. You can see the function definition from the below solidity snippet. This further explains the relationship between credits, mASSET and the exchange rate.
+`Credits` become increasingly valuable as new deposits are made and the `exchange rate` increases. You can see the function definition from the below solidity snippet. This further explains the relationship between credits, mAsset and the exchange rate.
 
 ```text
 /**
@@ -33,17 +33,13 @@ function depositSavings(uint256 _amount)
 
 SAVE shows a historical 7 day moving average APY that has accrued to savers over the last week.
 
-**Technically?**
-
-More info to come.
-
 **Who has benefited from this rate?**
 
 Savers who had funds in the SAVE contract for the **full** previous 7 days.
 
 **Is this indicative of future yield?**
 
-This rate has benefited those Savers over the past 7 days, but given the short time between the timestamps, is likely to fluctuate on a regular basis. It is **not** a prediction of future savings rates. There are a lot of factors that regularly affect the rate - basket composition \(and thus yield generated from the bASSETS\), SWAP fees and the % of the total mASSETs that are held in the Savings contract.
+This rate has benefited those Savers over the past 7 days, but given the short time between the timestamps, is likely to fluctuate on a regular basis. It is **not** a prediction of future savings rates. There are a lot of factors that regularly affect the rate - basket composition \(and thus yield generated from the bAssets\), SWAP fees and the % of the total mAssets that are held in the Savings contract.
 
 **Is there more data on SAVE rates?**
 
@@ -51,7 +47,7 @@ We have added [platform analytics](https://app.mstable.org/analytics) moving tha
 
 ## Lending Platforms
 
- mStable will launch with a diversity of integrated lending platforms. This reduces the concentration of risk inherent in lending all bASSETS on one protocol. Lending platforms can be added or removed and will be decided by [Governance](../functions/governance.md). 
+ mStable will launch with a diversity of integrated lending platforms. This reduces the concentration of risk inherent in lending all bAssets on one protocol. Lending platforms can be added or removed and will be decided by [Governance](../functions/governance.md). 
 
 A current list of platforms used by mStable is below:
 
@@ -60,7 +56,7 @@ A current list of platforms used by mStable is below:
 
 ## Platform Fees
 
-The mStable platform can charge fees for users to redeem bASSETs and swap bASSETS. As these fees accrue, they are allocated to the SAVE contract as another part of the native interest rate.
+The mStable platform can charge fees for users to redeem bAssets and swap bAssets. As these fees accrue, they are allocated to the SAVE contract as another part of the native interest rate.
 
 ## Other contributions to APY
 
