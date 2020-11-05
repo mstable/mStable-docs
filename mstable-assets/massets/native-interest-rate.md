@@ -60,7 +60,7 @@ A current list of platforms used by mStable is below:
 
 ## Platform Fees
 
-The mStable platform can charge fees for users to single bASSET redeem and swap bASSETS. As these fees accrue, they are allocated to the SAVE contract as another part of the native interest.
+The mStable platform can charge fees for users to redeem bASSETs and swap bASSETS. As these fees accrue, they are allocated to the SAVE contract as another part of the native interest rate.
 
 ## Other contributions to APY
 
@@ -68,7 +68,7 @@ There are other sources of value that may also be directed to the SAVE APY. A re
 
 ## Example
 
-A basket with a total value of 1000 mUSD, comprised of equal parts DAI, USDC, USDT, and TUSD bASSETS earns interest at the following APY:
+A basket with a total value of 1000 mUSD, comprised of equal parts DAI, USDC, USDT, and TUSD earns interest at the following APY:
 
 * DAI - 5%
 * USDC - 4%
@@ -83,5 +83,5 @@ During this period, the platform also collects 10 mUSD in total as fees across s
 
 Our user, having contributed one fifth of the total USD in the savings contract over 6 months, earns a corresponding 5.5 mUSD in interest, at an effective APY of 11%.
 
-_NB - This example assumes most of the system to be static over this 6 month term. Realistically, the mStable system is a dynamic one, and returns will be influenced by multiple factors in the system changing on a regular basis. It also omits the portion of interest and platform fees that may be earned in staking rewards by governors after mStable achieves sufficient decentralisation._  
+_NB - This example assumes most of the system to be static over this 6 month term. Realistically, the mStable system is a dynamic one, and returns will be influenced by multiple factors in the system changing on a regular basis._
 
