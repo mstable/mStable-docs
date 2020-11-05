@@ -4,7 +4,7 @@
 
 ## mStable <a id="mstable-assets"></a>
 
-* [mASSETS](mstable-assets/massets/README.md)
+* [mAssets](mstable-assets/massets/README.md)
   * [MINT](mstable-assets/massets/minting-and-redemption/README.md)
     * [Basket Adjustment](mstable-assets/massets/minting-and-redemption/rebalancing.md)
   * [SWAP](mstable-assets/massets/swapping.md)
