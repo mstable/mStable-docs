@@ -14,12 +14,12 @@ We recommend accessing the contracts through:
 
 The first [mStable App](https://app.mstable.org/) is a lite, user focussed web application that allows users to:
 
-* [Mint and Redeem](../massets/minting-and-redemption/) mASSETS
+* [Mint and Redeem](../massets/minting-and-redemption/) mAssets
 * Earn [Rewards](../../meta-rewards-1/introduction/) for contributing to the growth of mStable
 
 ### A custom dApp or partner DeFi project
 
-dApps or partner DeFi projects wishing to interact with mStable in order to access mASSET and bASSET liquidity, participate in the rewards schemes, capitalise on arbitrage or simply to create an app in their own style can do so. 
+dApps or partner DeFi projects wishing to interact with mStable in order to access mAsset and bAsset liquidity, participate in the rewards schemes, capitalise on arbitrage or simply to create an app in their own style can do so. 
 
 Our protocol exists as open-access [Smart Contracts ](https://en.wikipedia.org/wiki/Smart_contract)on the [Ethereum](https://ethereum.org) blockchain. You can simply use a JS tool like [ethers.js ](https://github.com/ethers-io/ethers.js/)to connect your web application to Ethereum.
 
@@ -35,9 +35,9 @@ It is possible, but not recommended to communicate directly through a Wallet pro
 Use a robust application \(e.g. the mStable App\) to interact with the mStable protocol
 {% endhint %}
 
-## Using mASSETS
+## Using mAssets
 
-While [mASSETS](../massets/) are produced and managed through the mStable protocol, they comply with the [ERC20 standard ](https://docs.ethhub.io/built-on-ethereum/erc-token-standards/erc20/)meaning it is easy to use mASSETS in any dApp or wallet that supports ERC20 tokens. 
+While [mAssets](../massets/) are produced and managed through the mStable protocol, they comply with the [ERC20 standard ](https://docs.ethhub.io/built-on-ethereum/erc-token-standards/erc20/)meaning it is easy to use mAssets in any dApp or wallet that supports ERC20 tokens. 
 
-**Importantly, you don't need to mint mASSETS.** There are markets for them ****on the secondary market through third party exchanges such as [Uniswap](https://uniswap.exchange/swap) and [Balancer](https://pools.balancer.exchange/#/pool/0x72Cd8f4504941Bf8c5a21d1Fd83A96499FD71d2C).
+**Importantly, you don't need to mint mAssets.** There are markets for them ****on the secondary market through third party exchanges such as [Uniswap](https://uniswap.exchange/swap) and [Balancer](https://pools.balancer.exchange/#/pool/0x72Cd8f4504941Bf8c5a21d1Fd83A96499FD71d2C).
 
