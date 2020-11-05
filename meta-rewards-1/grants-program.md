@@ -10,6 +10,8 @@ This post will aim to answer some of the initial questions you might have about 
 
 ## What Are We Funding? <a id="7e66"></a>
 
+### Software Development Grants
+
 The mStable grants team is looking to mainly fund development efforts from members of the community. More specifically we’re looking to fund the following broad verticals:
 
 * MTA integration into applications \(MTA utility\)
@@ -19,6 +21,8 @@ The mStable grants team is looking to mainly fund development efforts from membe
 {% embed url="https://medium.com/mstable/mstable-developer-grants-program-50k-max-funding-c7fe8f9a3ad" %}
 
 {% embed url="https://github.com/mstable/mStable-dev-grants" %}
+
+### Community Building Grants
 
 
 
