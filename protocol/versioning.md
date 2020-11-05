@@ -26,9 +26,9 @@ This is the initial implementation of the mStable protocol, and facilitates the 
 
 ## Phase 2
 
-With the Meta token in circulation and being distributed through public rewards and staking returns, mStable will implement its first version of decentralized governance. Phase 2 will be marked by the implementation of the re-collateralization module and MTA staking V2. 
+With the Meta token in circulation and being distributed through public rewards and staking returns, mStable will implement its first version of decentralized governance.
 
-Phase 2 will see the introduction of [Re-collateralization](../mstable-assets/functions/recollateralisation.md) into the system through the `Recol` module, and the introduction of staking V2 into the functionality of the system.
+Phase 2 may also see the potential introduction of [Re-collateralization](../mstable-assets/functions/recollateralisation.md) into the system through the `Recol` module, and the introduction of staking V2 into the functionality of the system.
 
 ### Governance
 
@@ -39,7 +39,6 @@ Phase 2 will see the introduction of [Re-collateralization](../mstable-assets/fu
 * Deploy a [Company Aragon DAO](https://github.com/aragon/dao-templates/tree/master/templates/company) integrated by an initial council of Governors:
   * The DAO will have a [Token Manager app](https://wiki.aragon.org/archive/dev/apps/token-manager/) using a custom token that will be distributed between the initial governors of the council allowing them to vote
   * There will be a [Staking app](https://github.com/aragon/staking) as a middle layer in charge of ensuring that only Governors that have staked some Meta token are allowed to vote
-  * The re-collateralization will use the [Voting app](https://wiki.aragon.org/archive/dev/apps/voting/) built-in in the Aragon DAO
   * The Governor will be the [Agent app](https://hack.aragon.org/docs/guides-use-agent) of the DAO allowing the DAO to call the mStable system when decided by the council
 * Transfer the Governor address to the council DAO
 
@@ -58,7 +57,6 @@ _There are a number of intermediary steps we can take throughout this deployment
   * There will be a [Staking app](https://github.com/aragon/staking) as a middle layer in charge of ensuring that only governors that have staked some Meta token are allowed to vote
   * Tweak the Voting app to decide which conditions need to take place in order to be allowed to submit Voting proposals
   * Implementation of delayed upgrades, i.e. 1-2 week implementation buffer before key system parameters are decided upon
-  * The re-collateralization will use the new [Voting app](https://wiki.aragon.org/archive/dev/apps/voting/) built-in in the Aragon DAO
   * The Governor will be the [Agent app](https://hack.aragon.org/docs/guides-use-agent) of the DAO allowing the DAO to call the mStable system when decided by the community
 * Transfer the Governor address to the community DAO
 

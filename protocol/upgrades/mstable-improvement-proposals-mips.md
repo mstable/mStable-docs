@@ -2,7 +2,7 @@
 description: >-
   mStable Improvement Proposals (MIPs) describe standards for the mStable
   platform, including core protocol specifications, client APIs, and contract
-  standards. These MIPs are supported by   MCCPs
+  standards. These MIPs are supported by MCCPs
 ---
 
 # MIPs
