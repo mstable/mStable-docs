@@ -1,3 +1,7 @@
+---
+description: "\U0001F504 Integrations across the ecosystem"
+---
+
 # Integrations
 
 This is a non-exhaustive list of projects, companies, wallets and dApps that have integrated MTA or mUSD. Please note that mStable does not support or endorse any one integration, this list exists solely for informational purposes.
