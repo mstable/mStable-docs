@@ -28,7 +28,7 @@ In reverse, users redeem their mASSET by calling a `redeem` function on the mASS
 
 * The user is able to specify which bASSET they wish to receive in return for an equivalent amount of their mASSET \(which is then burned\).
 * A redemption is valid so long as the given bASSET\(s\) does not push any of the other bASSETS over their maximum weights. When redeeming for a single bASSET, a fee is charged. 
-* If a bASSET is at maximum weight, the system enforces "multi-proportional redemption". At no fee, the user receives a proportional representation of bASSETS.
+* If a bASSET is at maximum weight, the system enforces "multi-proportional redemption". The user receives a proportional representation of bASSETS, and pays a fee. This fee is always smaller than for a single bASSET redemption.
 * This means that even in the event of a peg loss, the system protects value without requiring oracles. 
 
 ## Examples
