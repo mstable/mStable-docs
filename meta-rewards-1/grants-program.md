@@ -24,7 +24,10 @@ The mStable grants team is looking to mainly fund development efforts from membe
 
 ### Community Building Grants
 
+The mStable Community grants team is looking to fund organic and grassroots community initiatives to build and strengthen mStable's community of members and Governors. We are seeking to fund and encourage community initiatives that cover:
 
+* Chinese language translation and community building 
+* Grassroots marketing campaigns
 
 
 
