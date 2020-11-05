@@ -13,7 +13,7 @@ description: "\U0001F4D6 List of deployed contract addresses"
 | mStable Helper | [0xe15aad5d6b7433e5988415274529311f6bf6e8a3](https://etherscan.io/address/0xe15aad5d6b7433e5988415274529311f6bf6e8a3) |
 | mUSD Basket Manager | [0x66126B4aA2a1C07536Ef8E5e8bD4EfDA1FdEA96D](https://etherscan.io/address/0x66126B4aA2a1C07536Ef8E5e8bD4EfDA1FdEA96D) |
 | MTA | [0xa3bed4e1c75d00fa6f4e5e6922db7261b5e9acd2](https://etherscan.io/address/0xa3bed4e1c75d00fa6f4e5e6922db7261b5e9acd2) |
-| MTA Staking | [0xae8bc96da4f9a9613c323478be181fdb2aa0e1bf](https://etherscan.io/address/0xae8bc96da4f9a9613c323478be181fdb2aa0e1bf) |
+| MTA Staking V1 | [0xae8bc96da4f9a9613c323478be181fdb2aa0e1bf](https://etherscan.io/address/0xae8bc96da4f9a9613c323478be181fdb2aa0e1bf) |
 | Nexus | [0xAFcE80b19A8cE13DEc0739a1aaB7A028d6845Eb3](https://etherscan.io/address/0xAFcE80b19A8cE13DEc0739a1aaB7A028d6845Eb3) |
 | Proxy Admin | [0x5C8eb57b44C1c6391fC7a8A0cf44d26896f92386](https://etherscan.io/address/0x5C8eb57b44C1c6391fC7a8A0cf44d26896f92386) |
 {% endtab %}
