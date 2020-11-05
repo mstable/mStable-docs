@@ -18,17 +18,17 @@ These swaps incur no price slippage, and so long as they do not breach weight re
 
 ## A new AMM
 
-mStable's swap product will soon be upgraded with an new automatic market maker \(AMM\). More detail on this can be found in the AMM section. This is expected to be implemented by the end of 2020.
+mStable's swap product will soon be upgraded with a new automatic market maker \(AMM\). This upgrade will impact fees, max weights, and minting & redemption rules. More detail on this can be found in the [Upgraded AMM section](../roadmap/upgraded-amm.md). This is expected to be implemented by the end of 2020.
 
 ## How?
 
-mStable pools stablecoins and tokenized assets of similar value. For example, mUSD will pool USD stablecoins, mBTC will pool tokenized BTC and so on. This has important implications, one being: any deviation from the peg is highly likely to be impermanent. 
+mStable pools stablecoins and tokenized assets of similar value. For example, mUSD will pool USD stablecoins, mBTC will pool tokenized BTC and so on. These tokenized assets are selected by mStable governors and are deemed to have adequate security guarantees against peg loss. This has important implications, one being: any deviation from the peg of an underlying asset is highly likely to be impermanent. 
 
-Take USD stablecoins as an example. Say we allow 4 USD stablecoins in the basket. These stablecoins will constantly move slightly from their $1.00 peg, but over time they are very likely to trade around $1.00. For any given time period, each stablecoin will will look something like this:
+Take USD stablecoins as an example. Say we allow 4 USD stablecoins in the basket. These stablecoins will constantly move slightly from their $1.00 peg, but over time they are very likely to trade around $1.00. For any given period, each stablecoin's price over time will will look something like this:
 
 ![Price of USDC, source: Messari](../../.gitbook/assets/screen-shot-2020-05-04-at-10.56.27-am.png)
 
-So far, 100% of the peg deviations of the major USD stablecoins have been impermanent. Since losses are only impermanent, we can allow our bonding curve to be constant, namely:
+So far, 100% of the peg deviations of the major USD stablecoins have been impermanent. Since these losses are impermanent, we can allow our bonding curve to be constant, namely:
 
 _q\(x\)+q\(y\)=k_
 
@@ -48,13 +48,13 @@ The `swap`function can be used to arbitrage between bASSETS when a spread exists
 * When the price differential is greater than the swap fee plus its gas cost. 
 * There is excess room in the system between a bASSET and its max weights to allow mStable to take on more of that undervalued asset.
 
-This persistent arbitrage implies that the price of the mASSET will track the value of the lowest price underlying assets at their maximum weights. We do not judge this to be an issue, as we believe **impermanent losses** between stablecoins are an inherent and normal part of the DeFi ecosystem. In fact, it is a core pillar of mStable [SAVE](native-interest-rate.md) product, which is in part built to compensate liquidity providers for thier exposure to impermanent loss. 
+This persistent arbitrage implies that the price of the mASSET will track the value of the lowest price underlying assets at their maximum weights. We do not judge this to be an issue, as we believe **impermanent losses** between stablecoins are an inherent and normal part of the DeFi ecosystem. In fact, it is a core pillar of mStable [SAVE](native-interest-rate.md) product, which is in part built to compensate mUSD holders for their exposure to this impermanent loss. 
 
 mStable should positively contribute to the efficiency of stablecoin markets, whilst simultaneously allowing arbitrageurs and the platform to profit from normal and safe oscillations in stablecoin prices.
 
 ## Maximum Weights
 
-Allowing users to swap bASSETS at 1:1 introduces risks into the system that must be managed.  As a result of this, the system has been built so that no individual bASSET can exceed a maximum weight for any given bASSET \(35%, of total, for example\). If an underlying bASSET has hit its maximum weight, the rules within the system change, so that minting, redemption and swap rules are altered. 
+Allowing users to swap bASSETS at 1:1 introduces risks into the system that must be managed.  As a result of this, the system has been built so that no individual bASSET can exceed a maximum weight for any given bASSET \(35%, of total, for example\). If an underlying bASSET has hit its maximum weight, the rules governing the system change, so that minting, redemption and swap rules are altered. 
 
 ### Swaps at maximum weight
 
