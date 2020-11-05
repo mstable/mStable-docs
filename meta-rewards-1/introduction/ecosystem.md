@@ -4,7 +4,7 @@ description: >-
   Meta.
 ---
 
-# Ecosystem
+# EARN Rewards
 
 Part of what makes DeFi so powerful is its composability. In DeFi, lending services, derivatives markets and exchange functionality can be mixed and matched with tokenised assets to create novel systems and applications. We support the growth of the DeFi ecosystem as a whole, and want to reward applications and users for contributing to this growth. 
 
