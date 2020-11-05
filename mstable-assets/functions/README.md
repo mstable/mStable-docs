@@ -1,7 +1,7 @@
 ---
 description: >-
   Ⓜ Meta lies at the heart of the mStable Standard. It is what drives token
-  governance, incentivises public rewards, and will in future ensure the
+  governance, incentivises public rewards, and may in future ensure the
   integrity of the system in the event of permanent loss.
 ---
 
