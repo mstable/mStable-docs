@@ -12,6 +12,7 @@
   * [EARN](mstable-assets/massets/earn.md)
 * [Meta](mstable-assets/functions/README.md)
   * [Governance](mstable-assets/functions/governance.md)
+  * [MTA Staking](mstable-assets/functions/mta-staking.md)
   * [Re-collateralization Proposal](mstable-assets/functions/recollateralisation.md)
 * [Interfacing with mStable](mstable-assets/interfacing-with-mstable/README.md)
   * [dApp](mstable-assets/interfacing-with-mstable/app.md)

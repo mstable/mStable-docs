@@ -10,7 +10,7 @@ These docs are still being worked on. Some parts may be unfinished or pending up
 
 ## What is mStable?
 
-mStable provides autonomous and non-custodial stablecoin infrastructure.
+mStable provides **autonomous** and **non-custodial** stablecoin infrastructure.
 
 Three major problems confront stablecoin users: 
 

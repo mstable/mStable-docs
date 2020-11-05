@@ -27,10 +27,6 @@ The mStable [Public Rewards](../../meta-rewards-1/introduction/), Staking V1, an
 
 More granular information about Meta's distribution can be found on our [medium page](https://medium.com/mstable). 
 
-## Staking
-
-Once sufficiently decentralised, mStable will be controlled not by a single entity but by a global community of Meta Governors. Each system parameter will be determined by these governors.To participate in governance, users must stake Meta and vote on proposals. By staking Meta and voting, a user becomes a Meta Governor.
-
 {% page-ref page="../../protocol/versioning.md" %}
 
 
