@@ -2,7 +2,7 @@
 description: "\U0001F5FA️ What stage is the project? What are the key dates on the roadmap?"
 ---
 
-# Roadmap
+# Live Roadmap
 
 {% hint style="warning" %}
 These dates are provisional and subject to change. The items on the list is by no means exhaustive but should show a rough outline of some key things we have planned for the core protocol
@@ -25,37 +25,37 @@ These dates are provisional and subject to change. The items on the list is by n
 
 * ~~Phase 1 - Testnet Launch~~
 * ~~Phase 1 - Mainnet Launch~~
-  * ~~~~[~~mStable App~~](../mstable-assets/interfacing-with-mstable/app.md) ~~is released~~
+  * ~~~~[~~mStable App~~](../../mstable-assets/interfacing-with-mstable/app.md) ~~is released~~
   * ~~Code open sourced on~~ [~~GitHub~~](https://github.com/mstable)~~~~
 
 #### Q3 2020:
 
 * ~~Phase 1.1~~
   * ~~MTA released~~
-  * ~~~~[~~Ecosystem rewards~~](../meta-rewards-1/introduction/ecosystem.md) ~~begin with EARN~~
-  * ~~MTA Staking & Governance v1~~
+  * ~~~~[~~Ecosystem rewards~~](../../meta-rewards-1/introduction/ecosystem.md) ~~begin with EARN~~
+  * ~~~~[~~MTA Staking & Governance V1~~](../../mstable-assets/functions/mta-staking.md#staking-v1)~~~~
     * ~~~~[~~mStable v1 Staking Launch~~](https://medium.com/mstable/mstable-v1-staking-launch-33a0a8f5da27)~~~~
-    * ~~~~[~~MTA Staking V1: Voting Weights and Rewards~~](https://medium.com/mstable/mta-staking-v1-voting-weights-and-rewards-3a25d1d42124)~~\~~
+    * ~~~~[~~MTA Staking V1: Voting Weights and Rewards~~](https://medium.com/mstable/mta-staking-v1-voting-weights-and-rewards-3a25d1d42124)
 
 #### Q4 2020:
 
-* ~~SAVE Liquidator contract~~
-* Cache and gas efficiency improvements
-* Upgraded AMM
-* mStable on IPFS via ENS
+* ~~~~[~~SAVE Liquidator contract~~](https://mips.mstable.org/MIPS/mip-2)~~~~
+* [Cache and gas efficiency improvements](gas-optimizations.md)
+* [Upgraded AMM](upgraded-amm.md)
+* [mStable on IPFS via ENS](mstable-on-ipfs-via-ens.md)
 * DAO decentralisation
 
 #### Q1 2021:
 
-* mBTC
+* [mBTC](../mbtc.md)
 
 #### Ongoing/future:
 
-* [mStable SDK](../mstable-assets/interfacing-with-mstable/sdk.md) enables integrations into CeFi and DeFi
+* [mStable SDK](../../mstable-assets/interfacing-with-mstable/sdk.md) enables integrations into CeFi and DeFi
 * mGLD
 * Phase 2 - Testnet Launch
 * Phase 2 - Mainnet Launch
-  * [Re-collateralization](../mstable-assets/functions/recollateralisation.md) enabled
+  * [Re-collateralization](../../mstable-assets/functions/recollateralisation.md) enabled
   * Token based governance begins
   * mStable Governance Dashboard
 * Phase 3 - Testnet Launch

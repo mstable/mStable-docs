@@ -18,7 +18,7 @@ These swaps incur no price slippage, and so long as they do not breach weight re
 
 ## Upcoming AMM Upgrade
 
-mStable's swap product will soon be upgraded with a new automatic market maker \(AMM\). This upgrade will impact fees, max weights, and minting & redemption rules. More detail on this can be found in the [Upgraded AMM section](../roadmap/upgraded-amm.md). This is expected to be implemented by the end of 2020.
+mStable's swap product will soon be upgraded with a new automatic market maker \(AMM\). This upgrade will impact fees, max weights, and minting & redemption rules. More detail on this can be found in the [Upgraded AMM section](../../appendix/roadmap/upgraded-amm.md). This is expected to be implemented by the end of 2020.
 
 ## How?
 

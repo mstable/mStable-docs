@@ -16,13 +16,13 @@ The mStable SDK is very much still under development. This will be shaped over t
 
 ### Why?
 
-Stablecoin diversity has created a fractured environment in which exchanges and aApps must cater to a multitude of USD-pegged tokens, even if they represent the same asset.
+Stablecoin diversity has created a fractured environment in which exchanges and dApps must cater to a multitude of USD-pegged tokens, even if they represent the same asset.
 
 The mStable SDK is built to solve this problem. 
 
 If you have an exchange or dApp that wants to simplify user experience, please get in touch through our [Discord](https://discord.gg/7n3m7Tz).
 
 {% hint style="info" %}
-These docs are still being worked on. Lower level information will be available soon.
+This section is still being worked on. Lower level information will be available soon.
 {% endhint %}
 
