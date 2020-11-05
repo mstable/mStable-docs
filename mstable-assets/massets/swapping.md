@@ -14,6 +14,11 @@ These swaps incur no price slippage, and so long as they do not breach weight re
 * USDC
 * USDT 
 * TUSD
+* sUSD
+
+## A new AMM
+
+mStable's swap product will soon be upgraded with an new automatic market maker \(AMM\). More detail on this can be found in the AMM section. This is expected to be implemented by the end of 2020.
 
 ## How?
 
