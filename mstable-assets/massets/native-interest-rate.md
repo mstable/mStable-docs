@@ -1,18 +1,18 @@
 ---
-description: "\U0001F4C8 mASSETS within the mStable ecosystem earn interest that is the average of interest earned on composite bASSETS plus platform fees."
+description: "\U0001F4C8 mASSETS within the mStable ecosystem earn interest that is the average of interest earned on composite bASSETS plus platform fees and other income sources."
 ---
 
 # SAVE
 
-All mStable assets will be able to earn a native interest rate. This is done by the lending of underlying bASSETS on decentralised lending markets such as Compound or AAVE, combined with mStable's swap fees. 
+All mStable assets will earn a native interest rate. This is done by the lending of underlying bASSETS on decentralised lending markets such as Compound or AAVE, combined with mStable's swap fees and other sources of income \(such as token liquidations described in [MIP2](https://mips.mstable.org/MIPS/mip-2.html)\). 
 
 As interest and fees accrue, new mASSETS are minted and sent to the relevant SAVE contract. Users who opt in to receiving interest by depositing a mASSET balance into the contract receive these newly minted mASSETS. This means that mStable assets retain their peg and are therefore both liquidity shares and tokenized assets in their own right.
 
-There will always be a portion of circulating mASSETS being used as a medium of exchange, held offline, or not deposited in the SAVE contract for some other reason. This dynamic, combined with platform fees, should make the interest earned on mASSETS greater than on other yield products. 
+There will always be a portion of circulating mASSETS being used as a medium of exchange, held offline, or not deposited in the SAVE contract for some other reason. This "leveraged" dynamic, combined with platform fees, should make the interest earned on mASSETS greater than on other yield products. 
 
 ### Savings balance increase
 
-When you deposit an mASSET into the SAVE contract, you are internally credited with `Savings Credits` based on the current `exchange rate`. Each time a Saver deposits, the interest is collected from the mASSET and deposited here, increasing the `exchange rate` at the benefit of existing Savers.
+When you deposit a mASSET into the SAVE contract, you are internally credited with `Savings Credits` based on the current `exchange rate`. Each time a Saver deposits, the interest is collected from the mASSET and deposited here, increasing the `exchange rate` at the benefit of existing Savers.
 
 `Credits` become increasingly valuable as new deposits are made and the `exchange rate` increases. You can see the function definition from the below solidity snippet. This further explains the relationship between credits, mASSET and the exchange rate.
 
@@ -29,32 +29,21 @@ When you deposit an mASSET into the SAVE contract, you are internally credited w
 function depositSavings(uint256 _amount)
 ```
 
-### How is the 24h APY calculated?
+### How is the APY displayed?
 
-**Retrospective** 24 hour APY \(Annual percentage yield\) calculations are shown on the SAVE page of the mStable app. This number is derived from two `exchange rate` changes in the SAVE contract \(see above\) from the **past 24 hours**. 
-
-We plan to add 7 day APY rates and historical 7 day moving average rates to the mStable dApp once sufficient data becomes available.
+SAVE shows a historical 7 day moving average APY that has accrued to savers over the last week.
 
 **Technically?**
 
-Two exchange rates roughly 24 hours apart are taken, and the percentage increase in the rate is calculated \(for example 0.05% in this ~24 hour window\). This rate is then extrapolated to determine what the APY would be if this increase were to happen at this rate for a full year.
-
-The below function calculates the APY, with a compounding interval of the ~24 period:
-
-`apy = ((1 + percentageRateChange)^(compoundIntervalCountPerYear)) - 1`
-
-Where `percentageRateChange` is the % increase in rate over the past 24 hours \(e.g. 0.5%\)  
-Where `compoundIntervalCountPerYear` is the number of those 24 hour periods in a year \(based on the actual timestamps of the two data points, so ~365, but **rounded down** to be conservative\)
-
-e.g. `apy = ((1 + 0.0005)^(365))-1 = 19.95%` 
+More info to come.
 
 **Who has benefited from this rate?**
 
-Savers who had funds in the SAVE contract for the **full** previous 24 hours.
+Savers who had funds in the SAVE contract for the **full** previous 7 days.
 
 **Is this indicative of future yield?**
 
-This rate has benefited those Savers over the past 24 hours, but given the short time between the timestamps, is likely to fluctuate on a regular basis. It is **not** a prediction of future savings rates. There are a lot of factors that regularly affect the rate - basket composition \(and thus yield generated from the bASSETS\), SWAP fees and the % of the total mASSETs that are held in the Savings contract.
+This rate has benefited those Savers over the past 7 days, but given the short time between the timestamps, is likely to fluctuate on a regular basis. It is **not** a prediction of future savings rates. There are a lot of factors that regularly affect the rate - basket composition \(and thus yield generated from the bASSETS\), SWAP fees and the % of the total mASSETs that are held in the Savings contract.
 
 **Is there more data on SAVE rates?**
 
