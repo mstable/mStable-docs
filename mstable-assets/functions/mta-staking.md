@@ -20,7 +20,9 @@ More information about Staking V1 can be found [here](https://medium.com/mstable
 
 ## Staking V2
 
-
+{% hint style="info" %}
+**This feature has not been fully specified and is not yet implemented.** mStable stakeholders may propose this feature to be launched in [Phase 2](../../protocol/versioning.md#phase-2) of the protocol
+{% endhint %}
 
 
 

@@ -5,7 +5,7 @@ description: "\U0001F3E5  Re-collateralization would protect mStable assets in t
 # Re-collateralization Proposal
 
 {% hint style="info" %}
-**This feature has not been fully specified is not implemented.** mStable stakeholders may propose this feature to be launched in [Phase 2](../../protocol/versioning.md#phase-2) of the protocol
+**This feature has not been fully specified and is not yet implemented.** mStable stakeholders may propose this feature to be launched in [Phase 2](../../protocol/versioning.md#phase-2) of the protocol
 {% endhint %}
 
 ## Summary
