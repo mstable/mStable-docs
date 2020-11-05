@@ -39,5 +39,5 @@ Use a robust application \(e.g. the mStable App\) to interact with the mStable p
 
 While [mAssets](../massets/) are produced and managed through the mStable protocol, they comply with the [ERC20 standard ](https://docs.ethhub.io/built-on-ethereum/erc-token-standards/erc20/)meaning it is easy to use mAssets in any dApp or wallet that supports ERC20 tokens. 
 
-**Importantly, you don't need to mint mAssets.** There are markets for them ****on the secondary market through third party exchanges such as [Uniswap](https://uniswap.exchange/swap) and [Balancer](https://pools.balancer.exchange/#/pool/0x72Cd8f4504941Bf8c5a21d1Fd83A96499FD71d2C).
+**Importantly, you don't need to mint mAssets.** There are markets for them ****on the secondary market through third party exchanges such as [Curve](https://www.curve.fi/musd/), [Uniswap](https://uniswap.exchange/swap), and [Balancer](https://pools.balancer.exchange/#/pool/0x72Cd8f4504941Bf8c5a21d1Fd83A96499FD71d2C).
 
