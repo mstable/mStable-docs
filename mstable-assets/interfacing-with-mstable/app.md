@@ -12,8 +12,8 @@ description: "\U0001F4C0 The mStable App is a lite application to interface with
 
 The [mStable App](app.md) is a slim, user focussed web application that allows users to:
 
-* [MINT](../massets/minting-and-redemption/) and redeem effortlessly mAssets, allowing you to convert bAssets into mAssets for free
-* [SWAP](../massets/swapping.md) between bAssets at zero slippage
+* [MINT](../massets/minting-and-redemption/) and redeem mAssets, allowing you to convert bAssets into mAssets for free
+* [SWAP](../massets/swapping.md) between bAssets
 * [SAVE](../massets/native-interest-rate.md) mAssets in the mStable Savings Contract
 * [EARN](../functions/) rewards for contributing to the growth of mStable
   * View the reward pools and the history of their allocations
