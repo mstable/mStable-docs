@@ -6,7 +6,7 @@ description: "\U0001F5F3️ Fully decentralized governance is a critical goal fo
 
 ## Role of governance in mStable
 
-Governors of the mStable protocol can update parameters of the system - for example changing platform fees, [assigning rewards](../meta-rewards-1/introduction/), changing bASSET maximum weights or introducing new mASSETS or bASSETS to the system. It is important that we can fully rely on our governors to make good decisions.  A critical part of the project roadmap is our decentralization plan and an appropriate incentive/penalty system.
+Governors of the mStable protocol can update parameters of the system - for example changing platform fees, [assigning rewards](../meta-rewards-1/introduction/), changing bAsset maximum weights or introducing new mAssets or bAssets to the system. It is important that we can fully rely on our governors to make good decisions.  A critical part of the project roadmap is our decentralization plan and an appropriate incentive/penalty system.
 
 Implementing a mature, fully decentralized governance system is impossible to implement overnight, but a realistic plan is critical. 
 
@@ -18,7 +18,7 @@ _For more notes on the purpose of modules picture here, check out the descriptio
 
 ## Phase 1
 
-This is the initial implementation of the mStable protocol, and facilitates the core functionality surrounding mASSET usage, while also setting the framework for the transition into later phases. This phase includes the launch of MTA staking V1 in September 2020, and the first steps towards MTA token holder participation via on-chain signalling on mStable's [snapshot page](https://snapshot.page/#/mstable).
+This is the initial implementation of the mStable protocol, and facilitates the core functionality surrounding mAsset usage, while also setting the framework for the transition into later phases. This phase includes the launch of MTA staking V1 in September 2020, and the first steps towards MTA token holder participation via on-chain signalling on mStable's [snapshot page](https://snapshot.page/#/mstable).
 
 ### Governance
 
