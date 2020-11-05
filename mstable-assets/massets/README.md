@@ -1,5 +1,5 @@
 ---
-description: "\U0001F4B0 mStable unites stablecoins and other tokenised assets into more useful and higher yielding instruments. Our first asset is a fiat currency (mUSD)."
+description: "\U0001F4B0 mStable unites stablecoins and other tokenised assets into more useful and higher yielding instruments. Our first mAsset is a fiat currency (mUSD)."
 ---
 
 # mAssets
