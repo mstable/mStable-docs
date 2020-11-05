@@ -1,14 +1,12 @@
 ---
-description: >-
-  Official mStable, mUSD and MTA logos, badges, product screenshots, and
-  leadership team photos.
+description: 'Ⓜ️ Official mStable, mUSD and MTA logos, badges, and product screenshots.'
 ---
 
 # Brand Assets
 
 ## About mStable
 
-mStable is a protocol that unites stablecoins, lending and swapping into one standard. By reducing complexity and fragmentation, mStable is a step-change in the usability of stablecoins.
+mStable is a protocol for autonomous and non-custodial stablecoin infrastructure.
 
 ## Logo Kits
 
@@ -20,7 +18,7 @@ mStable is a protocol that unites stablecoins, lending and swapping into one sta
 
 ![](../.gitbook/assets/mstable_logo_long_small.png)
 
-**mStable logo**: to be used when referencing mStable the company
+**mStable logo**: to be used when referencing mStable the platform and protocol
 
 ![](../.gitbook/assets/mstable_logo_circle_m_black_smaller.png)
 
