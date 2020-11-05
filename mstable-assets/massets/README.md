@@ -6,11 +6,9 @@ description: "\U0001F4B0 mStable unites stablecoins and other tokenised assets i
 
 ## Overview
 
-mStable can support numerous mAsset. Each mAsset is pegged to a unique asset, such as fiat currency \(US Dollar\) or a cryptocurrency like Bitcoin. 
+mStable can support numerous mAssets. Each mAsset is pegged to a unique asset, such as fiat currency \(US Dollar\) or a cryptocurrency like Bitcoin. mAssets are backed by a basket of existing whitelisted tokenised assets of that same peg, and held by the user \(ie they are non-custodial\). 
 
-Each mAsset is backed by a basket of existing whitelisted tokenised assets of that same peg. 
-
-mASSETS are [minted/redeemed](minting-and-redemption/) permissionlessly and on-chain via the mStable smart contracts. 
+mAssets are [minted/redeemed](minting-and-redemption/) permissionlessly and on-chain via the mStable smart contracts. 
 
 * **To** [**mint**](minting-and-redemption/#minting) **an mUSD**, for example, a user sends 1 USDT and receives 1 mUSD in return. ****
 * **To** [**redeem**](minting-and-redemption/#redemption)**,** the user sends an mUSD to the contract and can choose which bAsset to receive in return for the swap fee. In the current implementation, if maximum weights are reached, the user will receive a mix of bAssets that are reflective of the current basket composition at no fee. The mAsset is then burned \(i.e. taken out of circulation\). 
@@ -19,7 +17,6 @@ Each bAsset will have a max weight that determines its highest possible weightin
 
 A maximum weight is important because:
 
-* The impact on Meta in the event of a peg loss and re-collateralisation is capped;
 * It creates an upper-bound to the amount of mAssets a user may mint for an undervalued bAsset. 
 * It creates an upper-bound to the amount of bAssets a user may swap in pursuit of arbitrage profits. 
 
