@@ -1,8 +1,5 @@
 ---
-description: >-
-  mStable Configuration Change Proposals (MCCPs) detail and record changes made
-  to mStable system parameters such as swap fees, max weights, and bAsset
-  addition or removal
+description: "\U0001F527 mStable Configuration Change Proposals (MCCPs) detail and record changes made to mStable system parameters such as swap fees, max weights, and bAsset addition or removal"
 ---
 
 # MCCPs
@@ -26,5 +23,5 @@ MCCPs can cover a wide variety of system variables within the mStable ecosystem.
 
 ### Current and historical MCCPs
 
-* Can be found [here](https://mips.mstable.org/all-mccp)
+* Listed [here](https://mips.mstable.org/all-mccp)
 

@@ -1,8 +1,5 @@
 ---
-description: >-
-  mStable Improvement Proposals (MIPs) describe proposed upgrades or changes to
-  the mStable platform, including core protocol specifications, client APIs, and
-  contract standards.
+description: "\U0001F9F5 mStable Improvement Proposals (MIPs) describe proposed upgrades or changes to the mStable platform, including core protocol specifications, client APIs, and contract standards."
 ---
 
 # MIPs
