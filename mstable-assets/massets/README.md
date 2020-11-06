@@ -6,7 +6,7 @@ description: "\U0001F4B0 mStable unites stablecoins and other tokenised assets i
 
 ## Overview
 
-mStable can support numerous mAssets. Each mAsset is pegged to a unique asset, such as fiat currency \(US Dollar\) or a cryptocurrency like Bitcoin. mAssets are backed by a basket of existing whitelisted tokenised assets of that same peg, and held by the user \(ie they are non-custodial\). 
+mStable can support numerous mAssets. Each mAsset is pegged to a unique asset, such as fiat currency \(US Dollar\) or a cryptocurrency like Bitcoin. mAssets are backed by a basket of existing whitelisted tokenised assets of that same peg, and held by the user \(ie they are **non-custodial**\). 
 
 mAssets are [minted/redeemed](minting-and-redemption/) permissionlessly and on-chain via the mStable smart contracts. 
 
