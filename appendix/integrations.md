@@ -8,17 +8,17 @@ This is a non-exhaustive list of projects, companies, wallets and dApps that hav
 
 ### Wallets
 
-* Argent
-* Dharma
-* MEET.ONE
+* [Argent](https://www.argent.xyz/)
+* [Dharma](https://www.dharma.io/)
+* [MEET.ONE](https://meet.one/)
 
 ### dApps and Liquidity Pools
 
-* Aave
-* Compound
-* Balancer
-* Curve
-* Rari Capital
+* [Aave](https://aave.com/)
+* [Compound](https://compound.finance/)
+* [Balancer](https://balancer.exchange/)
+* [Curve](https://curve.fi)
+* [Rari Capital](https://v2.rari.capital/)
 
 ### Exchanges
 
