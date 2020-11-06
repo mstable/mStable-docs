@@ -36,7 +36,7 @@ A multi-token smart contract system developed by Stability Labs that is future-p
 
 #### mStable Assets / mAssets 
 
-The meta-stablecoins created on The mStable Standard, beginning with mUSD and mBTC.  
+The non-custodial meta-stablecoins created on The mStable Standard, beginning with mUSD and mBTC.  
 
 
 #### mUSD

@@ -1,5 +1,5 @@
 ---
-description: "\U0001F310 Interacting with the mStable protocol is permissionless - anyone can build a service to capitalize on the composibility offered through our Smart Contracts"
+description: "\U0001F310 Interacting with the mStable protocol is permissionless and non-custodial - anyone can build a service to capitalize on the composibility offered through our Smart Contracts"
 ---
 
 # Interfacing with mStable
@@ -15,7 +15,7 @@ We recommend accessing the contracts through:
 The first [mStable App](https://app.mstable.org/) is a lite, user focussed web application that allows users to:
 
 * [Mint and Redeem](../massets/minting-and-redemption/) mAssets
-* Earn [Rewards]() for contributing to the growth of mStable
+* Earn [Rewards](../../ecosystem.md) for contributing to the growth of mStable
 
 ### A custom dApp or partner DeFi project
 
