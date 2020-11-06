@@ -1,8 +1,8 @@
 ---
-description: Getting set up on Ropsten
+description: "\U0001F9EA Getting set up on the Ropsten testnet"
 ---
 
-# Get set up on Ropsten
+# Ropsten
 
 This walk-through will show you
 
