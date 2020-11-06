@@ -42,7 +42,7 @@ Those who hold Meta can stake their tokens to become governors, allowing them to
 
 * **Yield and Return**
   * mAssets earn an outsized yield \(interest + swap fees + other income\). See [SAVE](mstable-assets/massets/native-interest-rate.md).
-  * mStable is built so that those that use it or contribute to its growth are rewarded for doing so. See [Meta Rewards]().
+  * mStable is built so that those that use it or contribute to its growth are rewarded for doing so. See[ Public Rewards](ecosystem.md).
 * **Traders & Arbitrageurs** 
   * Significant arbitrage opportunities exist using mStable's Zero Slippage swaps. See [SWAP](mstable-assets/massets/swapping.md).
 *  **Stablecoin Users** 
@@ -55,7 +55,7 @@ Those who hold Meta can stake their tokens to become governors, allowing them to
 * [Minting and Redemption](mstable-assets/massets/minting-and-redemption/#redemption)
 * [Swaps](mstable-assets/massets/swapping.md)
 * [Native Interest Rate](mstable-assets/massets/native-interest-rate.md)
-* [Rewards]()
+* [Public Rewards](ecosystem.md)
 * [Meta Governance](mstable-assets/functions/governance.md) 
 
 {% hint style="success" %}
