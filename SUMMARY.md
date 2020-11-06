@@ -58,7 +58,7 @@
   * [EARN pool & MTA Emission Restructuring](appendix/roadmap/earn-pool-and-mta-emission-restructuring.md)
   * [Gas optimizations](appendix/roadmap/gas-optimizations.md)
   * [mStable on IPFS via ENS](appendix/roadmap/mstable-on-ipfs-via-ens.md)
-* [mBTC](appendix/mbtc.md)
+  * [mBTC](appendix/roadmap/mbtc.md)
 * [Integrations](appendix/integrations.md)
 
 ## Additional Resources

@@ -47,7 +47,7 @@ These dates are provisional and subject to change. The items on the list is by n
 
 #### Q1 2021:
 
-* [mBTC](../mbtc.md)
+* [mBTC](mbtc.md)
 
 #### Ongoing/future:
 

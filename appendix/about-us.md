@@ -1,3 +1,7 @@
+---
+description: Meet the team and individuals building mStable
+---
+
 # Contributors
 
 ## Core Team
