@@ -1,5 +1,5 @@
 ---
-description: "\U0001F4FD mStable in the media and cryptoverse"
+description: "\U0001F4FD mStable in the media and broader crypto ecosystem"
 ---
 
 # Media Coverage
