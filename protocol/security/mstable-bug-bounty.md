@@ -1,5 +1,5 @@
 ---
-description: "\U0001F4BD Open reward pool for discovering and reporting vulnerabilities in the mStable protocol."
+description: "\U0001F41B Open reward pool for discovering and reporting vulnerabilities in the mStable protocol."
 ---
 
 # mStable Bug Bounty
