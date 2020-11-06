@@ -71,4 +71,5 @@
 * [Twitter](https://twitter.com/mstable_)
 * [Telegram](https://t.me/mstableofficial)
 * [Forum](http://forum.mstable.org/)
+* [Snapshot](https://snapshot.page/#/mstable)
 
