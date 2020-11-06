@@ -10,7 +10,7 @@ description: "\U0001F3E5  Re-collateralization would protect mStable assets in t
 
 ## Summary
 
-If a collateral basket asset - a bAsset - loses its peg, mStable could purge that asset and recover lost value by using Meta. Numerous approaches as to how to execute this have been proposed, and it is yet to be decided which approach would be taken if this were to be implemented. This feature's implementation will be decided on by mStable governors participating in decentralised governance. 
+If a bAsset loses its peg, mStable could purge that asset and recover lost value in various ways. Numerous approaches as to how to execute this have been proposed, and it is yet to be decided which approach would be taken if this were to be implemented. This feature's implementation will be decided on by mStable governors participating in decentralised governance in future. 
 
 This functionality is still in development, and will be described in more detail as implementation approaches.
 
