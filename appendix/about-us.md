@@ -1,5 +1,5 @@
 ---
-description: Meet the team and individuals building mStable
+description: "\U0001F46A Meet the team and individuals building mStable"
 ---
 
 # Contributors
