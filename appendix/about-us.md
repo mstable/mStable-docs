@@ -19,7 +19,7 @@ description: Meet the team and individuals building mStable
 ## Advisors
 
 * 🇸🇪 [Henrik Andersson ](https://www.linkedin.com/in/henrikandersson/)- Research & Co-Founder
-* 🇦🇺 [Anthony Sassano](https://www.linkedin.com/in/asassano/) 
+* 🇦🇺 [Anthony Sassano](https://www.linkedin.com/in/asassano/)
 * 🇦🇺 [Zhuoxun Yin](https://www.linkedin.com/in/zhuoxun-yin-3ba93728)
 * 🇦🇺 [Flex Dapps](https://www.linkedin.com/company/flex-dapps/) 
 

@@ -1,19 +1,17 @@
 ---
 description: >-
-  mStable Improvement Proposals (MIPs) describe standards for the mStable
-  platform, including core protocol specifications, client APIs, and contract
-  standards. These MIPs are supported by MCCPs
+  mStable Improvement Proposals (MIPs) describe proposed upgrades or changes to
+  the mStable platform, including core protocol specifications, client APIs, and
+  contract standards.
 ---
 
 # MIPs
 
-### What is an MIP? <a id="what-is-an-mip"></a>
+### What is a MIP? <a id="what-is-an-mip"></a>
 
-MIP stands for mStable Improvement Proposal, it has been adapted from the EIP \(Ethereum Improvement Proposal\). The purpose of this process is to ensure changes to mStable are transparent and well governed. An MIP is a design document providing information to the mStable community about a proposed change to the system. The author is responsible for building consensus within the community and documenting dissenting opinions.
+MIPs have been adapted from the EIP \(Ethereum Improvement Proposal\) standard. The purpose of this process is to ensure changes to mStable are transparent and well governed. A MIP is a design document providing information to the mStable community about a proposed improvement to the system. The author is responsible for building consensus within the community and documenting opinions.
 
-### What is an MCCP? <a id="what-is-an-mccp"></a>
-
-MCCP stands for mStable Configuration Change Proposal. MCCP’s are documents for making a case for modifying one of the system configuration variables. The intent is to provide a clear and detailed history behind each configuration change and the rationale behind it at the time it was implemented. The author of the document is responsible for building consensus within the community and documenting dissenting opinions.
+###  <a id="what-is-an-mccp"></a>
 
 ### Contributing
 
@@ -32,13 +30,12 @@ When you believe your MIP is mature and ready to progress past the WIP phase, yo
 
 ### Current and historical MIPs
 
-* MIP 1 - [https://mips.mstable.org/MIPS/mip-1.html](https://mips.mstable.org/MIPS/mip-1.html)
-* MIP 2 - [https://mips.mstable.org/MIPS/mip-2.html](https://mips.mstable.org/MIPS/mip-2.html)
+* Listed [here](https://mips.mstable.org/all-mip)
 
 ### Relevant Links
 
 * MIPs page - [https://mips.mstable.org/](https://mips.mstable.org/)
 * Github - [https://github.com/mstable/MIPs/blob/master/mip-X.md](https://github.com/mstable/MIPs/blob/master/mip-X.md)
-* 
+
 
 

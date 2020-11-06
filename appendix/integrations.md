@@ -15,15 +15,18 @@ This is a non-exhaustive list of projects, companies, wallets and dApps that hav
 ### dApps and Liquidity Pools
 
 * Aave
+* Compound
 * Balancer
 * Curve
-* Compound
 * Rari Capital
 
 ### Exchanges
 
+* Uniswap
 * 1inch
 * Balancer
+* Matcha
+* Mooniswap
 * Bibox
 * BiKi
 * Bilaxy
@@ -34,13 +37,10 @@ This is a non-exhaustive list of projects, companies, wallets and dApps that hav
 * Huobi Global
 * Huobi Korea
 * LBank
-* Matcha
-* Mooniswap
 * MXC
 * OpenDAO's Open Market
 * Poloniex
 * TomoDEX
-* Uniswap
 
 
 

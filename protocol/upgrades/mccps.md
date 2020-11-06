@@ -1,5 +1,8 @@
 ---
-description: mStable Configuration Change Proposals (MCCPs)
+description: >-
+  mStable Configuration Change Proposals (MCCPs) detail and record changes made
+  to system parameters such as swap fees, max weights, and bAsset addition or
+  removal
 ---
 
 # MCCPs
