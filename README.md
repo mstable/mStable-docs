@@ -46,7 +46,7 @@ Those who hold Meta can stake their tokens to become governors, allowing them to
 * **Traders & Arbitrageurs** 
   * Significant arbitrage opportunities exist using mStable's Zero Slippage swaps. See [SWAP](mstable-assets/massets/swapping.md).
 *  **Stablecoin Users** 
-  * mStable issues assets that are more secure than the sum of their parts. Each mAsset diversifies risk between different asset issuers and stability mechanisms. The system itself is effectively __over-collateralised due to each mAsset being ultimately backed by Meta. See [EARN](mstable-assets/functions/).
+  * mStable issues assets that are more secure than the sum of their parts. Each mAsset diversifies risk between different asset issuers and stability mechanisms.
 * **SDK Integrations** 
   * mStable allows dApps to accept several assets while presenting them in a more secure and user friendly way. This product is yet to be built, but may have potential applications for DeFi dApps and crypto exchanges. 
 
