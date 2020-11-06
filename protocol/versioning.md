@@ -6,7 +6,7 @@ description: "\U0001F5F3️ Fully decentralized governance is a critical goal fo
 
 ## Role of governance in mStable
 
-Governors of the mStable protocol can update parameters of the system - for example changing platform fees, [assigning rewards](../meta-rewards-1/introduction/), changing bAsset maximum weights or introducing new mAssets or bAssets to the system. It is important that we can fully rely on our governors to make good decisions.  A critical part of the project roadmap is our decentralization plan and an appropriate incentive/penalty system.
+Governors of the mStable protocol can update parameters of the system - for example changing platform fees, [assigning rewards](), changing bAsset maximum weights or introducing new mAssets or bAssets to the system. It is important that we can fully rely on our governors to make good decisions.  A critical part of the project roadmap is our decentralization plan and an appropriate incentive/penalty system.
 
 Implementing a mature, fully decentralized governance system is impossible to implement overnight, but a realistic plan is critical. 
 

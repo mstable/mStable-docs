@@ -36,13 +36,13 @@ Those who hold Meta can stake their tokens to become governors, allowing them to
 * **Robust** - Collateral is diversified, with risk management for underlying assets. 
 * **Stable** - mStable's liquidity shares are tokenized assets in their own right. 
 * **Decentralized** - Meta embeds the incentives required to govern a decentralized system.
-* **Built for Rapid Scaling** - The majority of Meta will be emitted via[ Public Rewards](meta-rewards-1/introduction/). 
+* **Built for Rapid Scaling** - The majority of Meta will be emitted via[ Public Rewards](). 
 
 ### Use cases
 
 * **Yield and Return**
   * mAssets earn an outsized yield \(interest + swap fees + other income\). See [SAVE](mstable-assets/massets/native-interest-rate.md).
-  * mStable is built so that those that use it or contribute to its growth are rewarded for doing so. See [Meta Rewards](meta-rewards-1/introduction/).
+  * mStable is built so that those that use it or contribute to its growth are rewarded for doing so. See [Meta Rewards]().
 * **Traders & Arbitrageurs** 
   * Significant arbitrage opportunities exist using mStable's Zero Slippage swaps. See [SWAP](mstable-assets/massets/swapping.md).
 *  **Stablecoin Users** 
@@ -55,7 +55,7 @@ Those who hold Meta can stake their tokens to become governors, allowing them to
 * [Minting and Redemption](mstable-assets/massets/minting-and-redemption/#redemption)
 * [Swaps](mstable-assets/massets/swapping.md)
 * [Native Interest Rate](mstable-assets/massets/native-interest-rate.md)
-* [Rewards](meta-rewards-1/introduction/)
+* [Rewards]()
 * [Meta Governance](mstable-assets/functions/governance.md) 
 
 {% hint style="success" %}

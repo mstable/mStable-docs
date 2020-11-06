@@ -11,5 +11,5 @@ Meta can be rewarded to:
 * users that ‘lock-up’ their mASSETs in utility generating DeFi services, such as liquidity pools. 
 * applications that integrate the mStable SDK or mStable assets. 
 
-For more information on how these rewards function, visit the [EARN](../../mstable-assets/massets/earn.md) page.
+For more information on how these rewards function, visit the [EARN](mstable-assets/massets/earn.md) page.
 

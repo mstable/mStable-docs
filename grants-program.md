@@ -1,5 +1,5 @@
 ---
-description: "\U0001F4B8 Get paid to build applications on mStable or support the Community through our grants programme"
+description: "\U0001F6E0️ Get paid to build applications on mStable or support the Community through our grants programme"
 ---
 
 # Grants Program

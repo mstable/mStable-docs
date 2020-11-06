@@ -21,9 +21,10 @@
 
 ## Meta Rewards and Grants <a id="meta-rewards-1"></a>
 
-* [Public MTA Rewards](meta-rewards-1/introduction/README.md)
-  * [Public Rewards](meta-rewards-1/introduction/ecosystem.md)
-* [Grants Program](meta-rewards-1/grants-program.md)
+---
+
+* [Public Rewards](ecosystem.md)
+* [Grants Program](grants-program.md)
 
 ## Developers
 

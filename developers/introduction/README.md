@@ -52,6 +52,6 @@ Some ideas to **utilise** mAssets or MTA:
 * An index fund using MTA or mStable, where the SAVE product contributes to the yield
 
 {% hint style="info" %}
-If you'd like to build upon one of the ideas above or an idea of your own, you may be able to get funding from an mStable Software Development [Grant](../../meta-rewards-1/grants-program.md).
+If you'd like to build upon one of the ideas above or an idea of your own, you may be able to get funding from an mStable Software Development [Grant](../../grants-program.md).
 {% endhint %}
 

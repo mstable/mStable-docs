@@ -32,7 +32,7 @@ These dates are provisional and subject to change. The items on the list is by n
 
 * ~~Phase 1.1~~
   * ~~MTA released~~
-  * ~~~~[~~Ecosystem rewards~~](../../meta-rewards-1/introduction/ecosystem.md) ~~begin with EARN~~
+  * ~~~~[~~Ecosystem rewards~~](../../ecosystem.md) ~~begin with EARN~~
   * ~~~~[~~MTA Staking & Governance V1~~](../../mstable-assets/functions/mta-staking.md#staking-v1)~~~~
     * ~~~~[~~mStable v1 Staking Launch~~](https://medium.com/mstable/mstable-v1-staking-launch-33a0a8f5da27)~~~~
     * ~~~~[~~MTA Staking V1: Voting Weights and Rewards~~](https://medium.com/mstable/mta-staking-v1-voting-weights-and-rewards-3a25d1d42124)
