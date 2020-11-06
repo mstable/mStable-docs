@@ -1,10 +1,8 @@
 ---
-description: >-
-  ⚙️ dApps, exchanges and users that integrate or deposit mStable assets earn
-  Meta.
+description: "\U0001F4B8 dApps, exchanges and users that integrate or deposit mStable assets can be eligible to earn Meta."
 ---
 
-# EARN Rewards
+# Public Rewards
 
 Part of what makes DeFi so powerful is its composability. In DeFi, lending services, derivatives markets and exchange functionality can be mixed and matched with tokenised assets to create novel systems and applications. We support the growth of the DeFi ecosystem as a whole, and want to reward applications and users for contributing to this growth. 
 
