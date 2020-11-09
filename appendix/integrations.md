@@ -28,6 +28,7 @@ This is a non-exhaustive list of projects, companies, wallets and dApps that hav
 * [Balancer](https://balancer.exchange/#/swap/0xa3bed4e1c75d00fa6f4e5e6922db7261b5e9acd2)
 * [Matcha](https://matcha.xyz/markets/MTA)
 * [Mooniswap](https://mooniswap.exchange/#/swap?outputCurrency=0xa3bed4e1c75d00fa6f4e5e6922db7261b5e9acd2)
+* [Zerion](https://app.zerion.io/invest/asset/MTA-0xa3bed4e1c75d00fa6f4e5e6922db7261b5e9acd2)
 * [AEX](https://www.aex.com/page/trade.html?mk_type=USDT&trade_coin_name=MTA#/)
 * [Bibox](https://www.bibox.com/exchange?coinPair=MTA_USDT)
 * [BiKi](https://www.biki.com/trade/MTA_USDT)
