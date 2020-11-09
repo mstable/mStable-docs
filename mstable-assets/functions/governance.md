@@ -23,7 +23,7 @@ Once fully built out, the proposal system will automatically govern the paramete
 
 Robust governance includes a large and decentralised stakeholder-base. A single entity or a small group of closely aligned entities would centralize mStable and potentially create a dangerous single point of failure. It is a core project aim to ensure a broad Meta distribution so that mStable becomes sufficiently decentralised as soon as possible.
 
-The mStable [Public Rewards](), [Staking](mta-staking.md), and [Grants Program](../../grants-program.md) are our first steps in this direction, rewarding those who positively contribute to mStable.
+The mStable[ Public Rewards](../../ecosystem.md), [Staking](mta-staking.md), and [Grants Program](../../grants-program.md) are our first steps in this direction, rewarding those who positively contribute to mStable.
 
 More granular information about Meta's distribution can be found on our [medium page](https://medium.com/mstable). 
 
