@@ -8,10 +8,10 @@ description: "\U0001F46A Meet the team and individuals building mStable"
 
 * 🇦🇺 [James Simpson](https://www.linkedin.com/in/jamesronaldsimpson/) - Co-Founder
 * 🇦🇺 [James Eddington](https://twitter.com/jwpeddington) - Operations
-* 🇮🇪 [Alex Scott](https://www.linkedin.com/in/alex-scott-0341a976/) -  Lead Developer
-* 🇬🇧 [James Lefrère](https://www.linkedin.com/in/james-lefrere/) -  dApp Developer
+* 🇮🇪 [Alex Scott](https://github.com/alsco77) -  Lead Developer
+* 🇬🇧 [James Lefrère](https://github.com/JamesLefrere) -  dApp Developer
 * 🇭🇷 [Lovro Biljeskovic](https://github.com/lovrobiljeskovic) - Frontend Developer
-* 🇬🇧 Chris Fulford - Frontend Developer
+* 🇬🇧 [Chris Fulford](https://github.com/chrisjgf) - Frontend Developer
 * 🇹🇷 [Onur Solmaz](https://twitter.com/onurhsolmaz) - Protocol/Token Engineering R&D
 * 🇨🇦 Derek Silva - Communications & Marketing Manager
 * 🇸🇬 Derrick Chin - Community & Governance coordinator
@@ -19,7 +19,7 @@ description: "\U0001F46A Meet the team and individuals building mStable"
 ## Advisors
 
 * 🇸🇪 [Henrik Andersson ](https://www.linkedin.com/in/henrikandersson/)- Research & Co-Founder
-* 🇦🇺 [Anthony Sassano](https://www.linkedin.com/in/asassano/)
+* 🇦🇺 [Anthony Sassano](https://twitter.com/sassal0x)
 * 🇦🇺 [Zhuoxun Yin](https://www.linkedin.com/in/zhuoxun-yin-3ba93728)
 * 🇦🇺 [Flex Dapps](https://www.linkedin.com/company/flex-dapps/) 
 
