@@ -48,6 +48,14 @@
   * [MCCPs](protocol/upgrades/mccps.md)
 * [Governance Roadmap](protocol/versioning.md)
 
+## Community
+
+* [Community Development](community/community-development.md)
+* [Community Grants](community/community-grants/README.md)
+  * [Growth Initiative](community/community-grants/growth-initiative.md)
+  * [Translations Initiative](community/community-grants/translations-initiative.md)
+  * [Process for Community Grants](community/community-grants/process-for-community-grants.md)
+
 ## Appendix
 
 * [Contributors](appendix/about-us.md)
