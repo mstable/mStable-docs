@@ -13,7 +13,7 @@ description: "\U0001F46A Meet the team and individuals building mStable"
 * 🇭🇷 [Lovro Biljeskovic](https://github.com/lovrobiljeskovic) - Frontend Developer
 * 🇬🇧 [Chris Fulford](https://github.com/chrisjgf) - Frontend Developer
 * 🇹🇷 [Onur Solmaz](https://twitter.com/onurhsolmaz) - Protocol/Token Engineering R&D
-* 🇨🇦 Derek Silva - Communications & Marketing Manager
+* 🇨🇦 [Derek Silva](https://twitter.com/DerekSilva) - Communications & Marketing Manager
 * 🇸🇬 Derrick Chin - Community & Governance coordinator
 
 ## Advisors
