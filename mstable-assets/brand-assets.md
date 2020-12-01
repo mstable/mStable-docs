@@ -30,6 +30,12 @@ mStable is a protocol for autonomous and non-custodial stablecoin infrastructure
 
 **mUSD logo**: to be used when referencing the mUSD stable coin on websites and UIs
 
+### mBTC
+
+![](../.gitbook/assets/mstable_logo_square_btc_black.png)
+
+**mBTC logo**: to be used when referencing the mBTC stable coin on websites and UIs
+
 ## Colours
 
 Black \(\#000000\), Navy Blue \(\#0061E3\), Smokey White \(\#F8F5F2\), and Tangerine Yellow \(\#FAB41F\) are mStable's primary brand colours.
