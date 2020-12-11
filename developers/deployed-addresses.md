@@ -26,7 +26,7 @@ description: "\U0001F4D6 List of deployed contract addresses"
 | mStable Helper | 0x1c0de4e659e76d3c876813ff2ba9dc2da07ab658 |
 | mUSD Basket Manager | 0x7AE685713D0dcccccE3D936D3E0FA382639839Df |
 | MTA | 0x273bc479E5C21CAA15aA8538DecBF310981d14C0 |
-| MTA Staking |  |
+| MTA Staking | 0x77f9bf80e0947408f64faa07fd150920e6b52015 |
 | Nexus | 0xeD04Cd19f50F893792357eA53A549E23Baf3F6cB |
 | Proxy Admin | 0x2d369F83E9DC764a759a74e87a9Bc542a2BbfdF0 |
 {% endtab %}
