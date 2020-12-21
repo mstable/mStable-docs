@@ -41,13 +41,13 @@ These dates are provisional and subject to change. The items on the list is by n
 
 * ~~~~[~~SAVE Liquidator contract~~](https://mips.mstable.org/MIPS/mip-2)~~~~
 * [Cache and gas efficiency improvements](gas-optimizations.md)
-* [Upgraded AMM](upgraded-amm.md)
-* [mStable on IPFS via ENS](mstable-on-ipfs-via-ens.md)
-* DAO decentralisation
 
 #### Q1 2021:
 
 * [mBTC](mbtc.md)
+* [Upgraded AMM](upgraded-amm.md)
+* [mStable on IPFS via ENS](mstable-on-ipfs-via-ens.md)
+* DAO decentralisation
 
 #### Ongoing/future:
 
