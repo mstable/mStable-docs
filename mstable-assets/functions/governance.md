@@ -8,7 +8,7 @@ description: "\U0001F5F3 Meta Governors will be responsible for the setting and 
 
 The Meta token aims to coordinate decentralised governance by incentivising stakeholders to act in the best interests of mStable. Meta holders will be incentivised to maximise the overall growth, use and stability of mStable given:
 
-Governance decisions were initially be determined by the core team, but are [shifting to a community-based proposal system](../../protocol/versioning.md) as mStable decentralises. Currently, discussion of governance topics takes place in our [discord](https://discord.com/invite/pgCVG7e) and [forum](https://forum.mstable.org/), with token holders signalling their vote preferences on [snapshot](https://snapshot.page/#/mstable). Only changes that have passed through a snapshot vote can be implemented. 
+Governance decisions were initially determined by the core team, but are [shifting to a community-based proposal system](../../protocol/versioning.md) as mStable decentralises. Currently, discussion of governance topics takes place in our [discord](https://discord.com/invite/pgCVG7e) and [forum](https://forum.mstable.org/), with token holders signalling their vote preferences on [snapshot](https://snapshot.page/#/mstable). Only changes that have passed through a snapshot vote can be implemented. 
 
 Once fully built out, the proposal system will automatically govern the parameters of and execute actions in mStable, encompassing the: 
 
