@@ -1,7 +1,5 @@
 ---
-description: >-
-  Legal text and disclaimers relevant to users of the mStable protocol and its
-  applications
+description: "\U0001F4C4Legal text and disclaimers relevant to users of the mStable protocol and its applications"
 ---
 
 # App Usage Terms and Conditions
