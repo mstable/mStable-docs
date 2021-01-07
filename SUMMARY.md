@@ -69,6 +69,7 @@
   * [mStable on IPFS via ENS](appendix/roadmap/mstable-on-ipfs-via-ens.md)
   * [mBTC](appendix/roadmap/mbtc.md)
 * [Integrations](appendix/integrations.md)
+* [App Usage Terms and Conditions](appendix/app-usage-terms-and-conditions.md)
 
 ## Additional Resources
 
