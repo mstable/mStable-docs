@@ -6,7 +6,7 @@ description: Here are some of the things we do to ensure protocol security
 
 ## Keeping things secure
 
-Ensuring the security and optimisation of a live protocol requires a multi faceted approach. In addition to a macro-level architecture and a [robust governance decentralization](../versioning.md) plan, the micro-level architecture, code formatting, documentation, [testing procedures](./#testing) and auditing play vital roles in the process.
+Ensuring the security and optimisation of a live protocol requires a multi faceted approach. In addition to a macro-level architecture and a [robust governance decentralization]() plan, the micro-level architecture, code formatting, documentation, [testing procedures](./#testing) and auditing play vital roles in the process.
 
 ## Bug bounty
 

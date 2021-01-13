@@ -42,7 +42,6 @@
 * [Upgrades](protocol/upgrades/README.md)
   * [MIPs](protocol/upgrades/mstable-improvement-proposals-mips.md)
   * [MCCPs](protocol/upgrades/mccps.md)
-* [Governance Roadmap](protocol/versioning.md)
 
 ## Community
 

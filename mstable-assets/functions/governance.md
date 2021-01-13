@@ -25,7 +25,5 @@ Robust governance includes a large and decentralised stakeholder-base. A single 
 
 The mStable Public Rewards, Staking, Grants Program are our first steps in this direction.
 
-{% page-ref page="../../protocol/versioning.md" %}
-
 
 

@@ -28,8 +28,6 @@ We are formalising the process for community grants, which will be similar to ho
 
 Grants will be visible and transparent to the community.
 
-In the meantime, you can reach out to our community mods \(**@derc** or **@dereksilva**\) in Discord for a chat.
-
 ## How do I get started?
 
 Come say hello in our Discord and share your ideas. You can also suggest ideas in the forum.
