@@ -23,7 +23,7 @@ mStable's code has undergone various audits to test the security of the protocol
 
 If one of the stablecoins being used as a bAsset in the mStable basket experiences a significant price movement below its peg without returning, it will effectively mean that the mStable contracts hold a portion of that bAsset at maximum weight. Those holding the corresponding mAsset could in this scenario experience a loss of value of the associated mAsset token. 
 
-If [Recollateralisation](../mstable-assets/functions/recollateralisation.md) is implemented, the mStable protocol will have extra layers of protection to ensure that mAsset holders are protected in the event of a peg loss. This clause will be updated to factor for this should that happen.
+If [Recollateralisation]() is implemented, the mStable protocol will have extra layers of protection to ensure that mAsset holders are protected in the event of a peg loss. This clause will be updated to factor for this should that happen.
 
 ### Terms of Service
 

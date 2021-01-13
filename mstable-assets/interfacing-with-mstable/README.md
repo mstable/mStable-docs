@@ -1,21 +1,24 @@
 ---
-description: "\U0001F310 Interacting with the mStable protocol is permissionless and non-custodial - anyone can build a service to capitalize on the composibility offered through our Smart Contracts"
+description: "\U0001F310 Interacting with the mStable protocol is permissionless and non-custodial - anyone can build a service to capitalize on the composibility offered through mStable's smart contracts"
 ---
 
 # Interfacing with mStable
 
-## How can I access the mStable protocol?
+#### **How can I access the mStable protocol?**
 
-The protocol exists as open-access [Smart Contracts ](https://en.wikipedia.org/wiki/Smart_contract)on the [Ethereum](https://ethereum.org) blockchain, meaning interacting with the protocol is permissionless - anyone can build a DApp layer or communicate directly with the blockchain to access the mStable protocol. 
+The protocol exists as open-access [smart contracts](https://en.wikipedia.org/wiki/Smart_contract) on the [Ethereum](https://ethereum.org/) blockchain, meaning interacting with the protocol is permissionless - anyone can build a dApp layer or communicate directly with the blockchain to access the mStable protocol.
 
 We recommend accessing the contracts through:
 
-### Our App
+The [mStable App](https://docs.mstable.org/mstable-assets/interfacing-with-mstable/app) which is a slim, user focussed web application that allows users to:
 
-The first [mStable App](https://app.mstable.org/) is a lite, user focussed web application that allows users to:
+* [MINT](https://docs.mstable.org/mstable-assets/massets/minting-and-redemption) and redeem mAssets, allowing you to convert bAssets into mAssets for free
+* [SWAP](https://docs.mstable.org/mstable-assets/massets/swapping) between bAssets
+* [SAVE](https://docs.mstable.org/mstable-assets/massets/native-interest-rate) mAssets in the mStable Savings Contract
+* [EARN](https://docs.mstable.org/mstable-assets/functions) rewards for contributing to the growth of mStable
+  * View the reward pools and the history of their allocations
 
-* [Mint and Redeem](../massets/minting-and-redemption/) mAssets
-* Earn [Rewards](../../ecosystem.md) for contributing to the growth of mStable
+The App is the first product built using the [mStable SDK](https://docs.mstable.org/mstable-assets/interfacing-with-mstable/sdk). Common functionality used here will be dissected, repackaged and re-purposed for the initial integration partners. The dApp is open source.
 
 ### A custom dApp or partner DeFi project
 
@@ -30,14 +33,4 @@ Do you **want to integrate with mStable?** Smart contract integration details ar
 ### Communicate directly
 
 It is possible, but not recommended to communicate directly through a Wallet provider \(e.g. [Metamask](https://metamask.io/), [MyCrypto](https://mycrypto.com)\). Doing so means writing your own transaction, which is something you should avoid doing.
-
-{% hint style="warning" %}
-Use a robust application \(e.g. the mStable App\) to interact with the mStable protocol
-{% endhint %}
-
-## Using mAssets
-
-While [mAssets](../massets/) are produced and managed through the mStable protocol, they comply with the [ERC20 standard ](https://docs.ethhub.io/built-on-ethereum/erc-token-standards/erc20/)meaning it is easy to use mAssets in any dApp or wallet that supports ERC20 tokens. 
-
-**Importantly, you don't need to mint mAssets.** There are markets for them ****on the secondary market through third party exchanges such as [Curve](https://www.curve.fi/musd/), [Uniswap](https://uniswap.exchange/swap), and [Balancer](https://pools.balancer.exchange/#/pool/0x72Cd8f4504941Bf8c5a21d1Fd83A96499FD71d2C).
 

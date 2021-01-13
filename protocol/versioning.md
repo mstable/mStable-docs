@@ -28,7 +28,7 @@ This is the initial implementation of the mStable protocol, and facilitates the 
 
 With the Meta token in circulation and being distributed through public rewards and staking returns, mStable will implement its first version of decentralized governance.
 
-Phase 2 may also see the potential introduction of [Re-collateralization](../mstable-assets/functions/recollateralisation.md) into the system through the `Recol` module, and the introduction of staking V2 into the functionality of the system.
+Phase 2 may also see the potential introduction of [Re-collateralization]() into the system through the `Recol` module, and the introduction of staking V2 into the functionality of the system.
 
 ### Governance
 
