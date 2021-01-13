@@ -1,5 +1,7 @@
 ---
-description: "\U0001F4C4Legal text and disclaimers relevant to users of the mStable protocol and its applications"
+description: >-
+  Legal text and disclaimers relevant to users of the mStable protocol and its
+  applications
 ---
 
 # App Usage Terms and Conditions
@@ -23,13 +25,9 @@ mStable's code has undergone various audits to test the security of the protocol
 
 If one of the stablecoins being used as a bAsset in the mStable basket experiences a significant price movement below its peg without returning, it will effectively mean that the mStable contracts hold a portion of that bAsset at maximum weight. Those holding the corresponding mAsset could in this scenario experience a loss of value of the associated mAsset token. 
 
-If [Recollateralisation]() is implemented, the mStable protocol will have extra layers of protection to ensure that mAsset holders are protected in the event of a peg loss. This clause will be updated to factor for this should that happen.
+**Acceptance of Terms**
 
-### Terms of Service
-
-#### Acceptance of Terms
-
-By using or accessing the mStable services/site/applications, you represent and warrant that you understand that there are inherent risks associated with cryptocurrencies and stablecoins, You agree that the mStable genesis team is not responsible for any losses or damages associated with these risks. You specifically acknowledge and agree that the mStable services/site/applications are **non custodial**, and facilitate your interaction with decentralized networks and technology and, as such, the mStable genesis team cannot and do not guarantee that any transactions you submit or receive via our services will be confirmed on the relevant blockchain and do not have the ability to effectuate any cancellation or modification requests regarding your transactions.
+By using or accessing the mStable services/site/applications, you represent and warrant that you understand that there are inherent risks associated with cryptocurrencies and stablecoins. You agree that the mStable genesis team is not responsible for any losses or damages associated with these risks. You specifically acknowledge and agree that the mStable services/site/applications are non custodial, and facilitate your interaction with decentralised networks and technology and, as such, the mStable genesis team cannot and do not guarantee that any transactions you submit or receive via the mStable protocol  will be confirmed on the relevant blockchain and do not have the ability to effectuate any cancellation or modification requests regarding your transactions.
 
 You agree to:
 
@@ -108,5 +106,5 @@ We may use your data listed above only for:
 * Our internal and operational purposes, when: ensuring security, identifying irregular website behaviour, preventing fraudulent activity and improving security at all possible levels
 * Assessing and improving the performance of the services we provide using the mStable protocol
 
-To clear any doubts, we may use the data described above or any other information only at your request and consent for particularly-tailored purposes you may require from us. In no event will the mStable genesis team ever ask you to share your private keys or wallet seed. **Never trust anyone or any site that asks you to enter your private keys or wallet seed.**
+To clear any doubts, the genesis team may use the data described above or any other information only at your request and consent for particularly-tailored purposes you may require from us. In no event will the mStable genesis team ever ask you to share your private keys or wallet seed. **Never trust anyone or any site that asks you to enter your private keys or wallet seed.**
 

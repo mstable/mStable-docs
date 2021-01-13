@@ -1,5 +1,5 @@
 ---
-description: "\U0001F64A Common terminology used throughout the mStable suite"
+description: Common terminology used throughout the mStable suite
 ---
 
 # Glossary of Terms
