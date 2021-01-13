@@ -10,45 +10,44 @@ These docs are still being worked on. Some parts may be unfinished or pending up
 
 ## What is mStable?
 
-mStable provides **autonomous** and **non-custodial** stablecoin infrastructure.
+mStable is a collection of **autonomous, decentralised,** and **non-custodial** smart contracts. It is built on Ethereum.
 
-Three major problems confront stablecoin users: 
+mStable was created to address three major problems that confront stablecoin users:
 
-* significant fragmentation in same-peg assets
-* lack of native yield when it is being increasingly demanded by users
-* lack of protection against permanent capital loss
+* significant fragmentation in same-peg stablecoins \(there are currently over 5 major USD pegged stablecoins on Ethereum for example\)
+* lack of yield in fiat currencies and stablecoins
+* lack of protection against permanent capital loss in stablecoins
 
-Our products \(MINT, SWAP, SAVE, and EARN\) are built specifically to address these pain-points. 
+mStable assets \(hereafter mAssets\) represent some underlying value peg and are minted/redeemed on-chain via smart contracts.
 
-[mStable assets](mstable-assets/massets/) \(hereafter mAssets\) represent some underlying value peg and are [minted/redeemed](mstable-assets/massets/minting-and-redemption/) on-chain via smart contracts. mAssets are backed 1:1 by a basket of existing tokenised same-base assets \(hereafter bAssets\).
+A user minting an mAsset interacts only with the mStable contracts, which are non-custodial. This means that no third party ever takes custody of a user's assets. In other words, mStable is a "peer to pool" protocol, where the pool "lives" in a non-custodial smart contract.
 
-**Each mAsset is a liquidity share for its asset pool as well as a medium of exchange, unit of account and store of value in its own right.** 
+mAssets are fully backed by a basket of existing tokenised same-base assets \(hereafter bAssets\).
 
-Each mAsset has an outsized [native interest rate](mstable-assets/massets/native-interest-rate.md) that is derived from lending bAssets on third party lending protocols, fees collected from mStable's SWAP product, and other sources of income. 
+Each mAsset represents a share of liquidity in that mAsset's pool as well as a stablecoin in its own right. A mAsset can be used as a medium of exchange, unit of account and store of value.
 
-Users can [swap](mstable-assets/massets/swapping.md) between bAssets with **zero price slippage,** regardless of order size. For example, in mUSD, uses are able to swap 1 DAI for 1 USDC at no cost, except gas and a small fee. 
+Each mAsset should produce an outsized native interest rate \(although this of course if never guaranteed\). This rate is derived from the mStable contracts autonomously and programatically lending bAssets to third party lending protocols, generating interest income. The mStable contracts simultaneously allow for bAssets to be exchanged or "swapped" for a fee. All interest and exchange income is automatically and programmatically sent to mAsset _savers_.
 
-Those who hold Meta can stake their tokens to become governors, allowing them to participate in governance of the system. In order to achieve long-term value of Meta, these governors are motivated to seek stability through the growth and diversification of mStable.
+The mStable protocol is governed by Meta \(`MTA`\) Governors. Those who have the `MTA` token can stake \(i.e. deposit in a governance smart contract\) their tokens to become protocol governors, allowing them to govern the mStable protocol.
+
+**Every participant who interacts with mStable has the option to earn** `MTA`**, either through contributing to its utility \(through EARN\) or by saving a mAsset \(through SAVE\).** `MTA` **is emitted in this way to facilitate decentralised, collective and user-driven governance.**
 
 ### **Characteristics**
 
-* **Easy** - mStable is a one-stop solution for stablecoin users.
-* **Robust** - Collateral is diversified, with risk management for underlying assets. 
-* **Stable** - mStable's liquidity shares are tokenized assets in their own right. 
-* **Decentralized** - Meta embeds the incentives required to govern a decentralized system.
-* **Built for Rapid Scaling** - The majority of Meta will be emitted via [Public Rewards](ecosystem.md).
+* **Non Custodial** - mStable users always have custody of their funds.
+* **Robust** - Collateral is diversified across multiple stablecoins.
+* **Stable** - mAsset are stablecoins in their own right.
+* **Decentralised** - `MTA` governs mStable. Every user can earn `MTA` and participate in mStable's collective governance.
 
 ### Use cases
 
-* **Yield and Return**
-  * mAssets earn an outsized yield \(interest + swap fees + other income\). See [SAVE](mstable-assets/massets/native-interest-rate.md).
-  * mStable is built so that those that use it or contribute to its growth are rewarded for doing so. See [Public Rewards](ecosystem.md).
-* **Traders & Arbitrageurs** 
-  * Significant arbitrage opportunities exist using mStable's Zero Slippage swaps. See [SWAP](mstable-assets/massets/swapping.md).
-*  **Stablecoin Users** 
-  * mStable issues assets that are more secure than the sum of their parts. Each mAsset diversifies risk between different asset issuers and stability mechanisms.
-* **SDK Integrations** 
-  * mStable allows dApps to accept several assets while presenting them in a more secure and user friendly way. This product is yet to be built, but may have potential applications for DeFi dApps and crypto exchanges. 
+* **Composable** **Yield**
+  * mAssets should earn an outsized yield \(derived from interest income + swap fees + other income\). See SAVE.
+* **Traders & Arbitrageurs**
+  * Arbitrage opportunities exist using mStable's swap. See SWAP.
+  * Traders can swap stablecoins efficiently using SWAP.
+* **Security conscious stablecoin users**
+  * mStable issues assets that are designed to be more secure than the sum of their parts. Each mAsset diversifies risk between different asset issuers and stability mechanisms, and caps exposure to any one asset.
 
 ### Features
 
