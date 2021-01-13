@@ -1,5 +1,8 @@
 ---
-description: "\U0001F44B Welcome to mStable's docs. This is a live document that will be updated as mStable evolves. Currently, we aim to provide a high level overview of the protocol and its existing components."
+description: >-
+  Welcome to mStable's docs. This is a live document that will be updated as
+  mStable evolves. Currently, we aim to provide a high level overview of the
+  protocol and its existing components.
 ---
 
 # Getting Started
