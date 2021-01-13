@@ -25,7 +25,7 @@ These dates are provisional and subject to change. The items on the list is by n
 
 * ~~Phase 1 - Testnet Launch~~
 * ~~Phase 1 - Mainnet Launch~~
-  * ~~~~[~~mStable App~~](../../mstable-assets/interfacing-with-mstable/app.md) ~~is released~~
+  * ~~~~[~~mStable App~~]() ~~is released~~
   * ~~Code open sourced on~~ [~~GitHub~~](https://github.com/mstable)~~~~
 
 #### Q3 2020:
@@ -51,7 +51,7 @@ These dates are provisional and subject to change. The items on the list is by n
 
 #### Ongoing/future:
 
-* [mStable SDK](../../mstable-assets/interfacing-with-mstable/sdk.md) enables integrations into CeFi and DeFi
+* [mStable SDK]() enables integrations into CeFi and DeFi
 * mGLD
 * Phase 2 - Testnet Launch
 * Phase 2 - Mainnet Launch

@@ -1,5 +1,5 @@
 ---
-description: 'Ⓜ️ Official mStable, mUSD and MTA logos, badges, and product screenshots.'
+description: 'mStable, mUSD and MTA logos, badges, and product screenshots.'
 ---
 
 # Brand Assets
@@ -56,10 +56,4 @@ Black \(\#000000\), Navy Blue \(\#0061E3\), Smokey White \(\#F8F5F2\), and Tange
 {% file src="../.gitbook/assets/mstable-product-screenshots-04nov2020.zip" caption="Download Product Screenshots" %}
 
 ![Example Screenshot of mStable MINT](../.gitbook/assets/mstable-mint02-product-web.png)
-
-### Contact
-
-For more information or assistance, send an email with your request to [derek@mstable.org](mailto:derek@mstable.org).
-
-
 
