@@ -16,11 +16,10 @@
 * [Interfacing with mStable](mstable-assets/interfacing-with-mstable.md)
 * [Brand Assets](mstable-assets/brand-assets.md)
 
-## Meta Rewards and Grants <a id="meta-rewards-1"></a>
+## Grants <a id="meta-grants"></a>
 
 ---
 
-* [Public Rewards](ecosystem.md)
 * [Grants Program](grants-program.md)
 
 ## Developers

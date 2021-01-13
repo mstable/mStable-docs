@@ -1,10 +1,12 @@
 ---
-description: "\U0001F6E0️ Get paid to build applications on mStable or support the Community through our grants programme"
+description: >-
+  Get paid to build applications on mStable or support the Community through our
+  grants programme
 ---
 
 # Grants Program
 
-Through this initiative, we’ll be looking to distribute up to USD $200k over the next 12 months to relevant and valuable contributors to the mStable project and community.
+Through this initiative, the mStable GrantsDAO is looking to distribute up to US$200,000 over the next 12 months to relevant and valuable contributors to the mStable project and community.
 
 This post will aim to answer some of the initial questions you might have about the program. Further information can be found on our [GitHub repository](http://github.com/mstable/dev-grants), which you should read before applying.
 
@@ -12,10 +14,10 @@ This post will aim to answer some of the initial questions you might have about 
 
 ### Software Development Grants
 
-The mStable grants team is looking to mainly fund development efforts from members of the community. More specifically we’re looking to fund the following broad verticals:
+The mStable GrantsDAO is looking to mainly fund development efforts from members of the community. More specifically we’re looking to fund the following broad verticals:
 
-* MTA integration into applications \(MTA utility\)
 * mUSD / mBTC integrations \(mAsset utility\)
+* MTA integration into applications \(MTA utility\)
 * Community tools \(explorers, wallets, .info sites, forums, etc.\)
 
 {% embed url="https://medium.com/mstable/mstable-developer-grants-program-50k-max-funding-c7fe8f9a3ad" %}
@@ -28,6 +30,4 @@ The mStable Community grants team is looking to fund organic and grassroots comm
 
 * Chinese language translation and community building 
 * Grassroots marketing campaigns
-
-
 
