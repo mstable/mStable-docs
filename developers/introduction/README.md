@@ -1,5 +1,5 @@
 ---
-description: "\U0001F91D Getting to know the mStable protocol"
+description: Getting to know the mStable protocol
 ---
 
 # Introduction
@@ -26,25 +26,25 @@ See [mStable-js](../mstable-js.md) for more info on ways to retrieve, parse and 
 
 ## Why mStable?
 
-mStable Assets \(mAssets\) are built to an autonomous and non-custodial stablecoin layer for DeFi. The first mAsset, mUSD, comprises of USDT, TUSD, DAI, sUSD and USDC. mAssets can be minted with any of the underlying and used as a trustworthy base layer with which one could, for example, collateralise synthetic assets or loans. [Read more about mAssets](https://docs.mstable.org/mstable-assets/massets).
+mStable Assets \(mAssets\) are built to an autonomous and non-custodial stablecoin layer for DeFi. The first mAsset, mUSD, comprises of USDT, TUSD, DAI, sUSD and USDC. mAssets can be minted with any of the underlying and used as a trustworthy base layer with which one could, for example, collateralise synthetic assets or loans.
 
 mAssets produce a native yield through the SAVE contract. Yield is derived from AMM swap trades, lending markets, and other income sources. Underlying assets can be redeemed at any time.
 
 ### Whats sort of stuff can be built? <a id="bb4f"></a>
 
-Essentially anything that **builds on top** of ****or **extends** the ****mStable protocol, or simply utilises mAssets. We would also welcome any application utilising the system token MTA.
+Essentially anything that builds on top of or extends the mStable protocol, or utilises mAssets. 
 
 Some ideas to build on top of mStable:
 
 * A no loss lottery \(e.g. PoolTogether\)
 * A derivative using mStable SAVE or mUSD \(e.g. CHAI\)
-* A derivative using mAssets as the **settlement** **layer**
+* A derivative using mAssets as the settlement layer
 * Deriving a yield for any application that accepts DAI, USDT, TUSD, sUSD, or USDC
 * Utilising mStable MINT/SWAP as part of an trading bot
 * Wrapping MINT/SWAP/REDEEM in something \(e.g. ‘accept anything and produce mUSD’\)
 * An interest bearing stablecoin product for stablecoins held in custody \(e.g. a CEX\)
 
-Some ideas to **utilise** mAssets or MTA:
+Some ideas to utilise mAssets or MTA:
 
 * Using mAssets to collateralise synthetic instruments
 * An application that uses mUSD as collateral

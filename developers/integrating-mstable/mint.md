@@ -1,5 +1,5 @@
 ---
-description: ➡️ How to mint mAssets like mUSD
+description: How to mint mAssets like mUSD
 ---
 
 # MINT

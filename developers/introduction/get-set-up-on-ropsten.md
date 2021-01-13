@@ -1,5 +1,5 @@
 ---
-description: "\U0001F9EA Getting set up on the Ropsten testnet"
+description: Getting set up on the Ropsten testnet
 ---
 
 # Ropsten

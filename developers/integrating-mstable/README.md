@@ -1,5 +1,5 @@
 ---
-description: "\U0001F3D7️ How to integrate mStable into your smart contracts."
+description: How to integrate mStable into your smart contracts.
 ---
 
 # mStable-protocol
@@ -33,8 +33,6 @@ The examples given here are also available as a single contract in the [mStable 
 {% endhint %}
 
 **These examples showcase a basic integration using the npm module and are not considered safe.** Your application should build in relevant access control and safety checks.
-
-### 
 
 ### Minting mUSD
 

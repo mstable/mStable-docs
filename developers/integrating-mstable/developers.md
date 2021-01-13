@@ -1,12 +1,12 @@
 ---
-description: "\U0001F501 Integration details for interacting with mStable"
+description: Integration details for interacting with mStable
 ---
 
 # SWAP
 
 ## Swapping bAssets
 
-mAssets \(e.g. mUSD\) facilitate the **swapping of the underlying bAssets**, on a **1:\(1-fee\)** basis. In the example of mUSD, this means that all bAssets \(**DAI / USDT / TUSD / USDC**\) have open pairs, subject to availability. `bAsset` -&gt; `mAsset` \(e.g. `DAI` -&gt; `mUSD`\) swaps are also supported in the same function and are always 1:1.
+mAssets \(e.g. mUSD\) facilitate the swapping of the underlying bAssets, on a 1:\(1-fee\) basis. In the example of mUSD, this means that all bAssets \(DAI / USDT / TUSD / USDC\) have open pairs, subject to availability. `bAsset` -&gt; `mAsset` \(e.g. `DAI` -&gt; `mUSD`\) swaps are also supported in the same function and are always 1:1.
 
 In order to execute the trade:
 
