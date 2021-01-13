@@ -1,6 +1,6 @@
 ---
 description: >-
-  ⚖️ mStable governors can alter bAsset maximum weights according to new market
+  mStable governors can alter bAsset maximum weights according to new market
   conditions or information.
 ---
 

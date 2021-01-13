@@ -1,5 +1,5 @@
 ---
-description: "\U0001F4C8 mStable’s SAVE aims to be an accessible, reliable and high-yielding."
+description: 'mStable’s SAVE aims to be an accessible, reliable and high-yielding.'
 ---
 
 # SAVE

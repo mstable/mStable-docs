@@ -1,8 +1,8 @@
 ---
 description: >-
-  ➡️ Forging (Minting & Redeeming) is the exchange of a whitelisted bAsset for
-  its corresponding mAsset at a 1:1 ratio. Forging increases or decreases the
-  number of mAssets in circulation.
+  Forging (Minting & Redeeming) is the exchange of a whitelisted bAsset for its
+  corresponding mAsset at a 1:1 ratio. Forging increases or decreases the number
+  of mAssets in circulation.
 ---
 
 # MINT

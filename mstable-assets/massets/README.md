@@ -1,5 +1,7 @@
 ---
-description: "\U0001F4B0 mStable unites stablecoins and other tokenised assets into non custodial, yielding instruments. mStable's first mAsset is mUSD"
+description: >-
+  mStable unites stablecoins and other tokenised assets into non custodial,
+  yielding instruments. mStable's first mAsset is mUSD
 ---
 
 # mAssets

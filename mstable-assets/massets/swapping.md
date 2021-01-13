@@ -1,5 +1,7 @@
 ---
-description: "\U0001F504 Swapping is the exchange between one whitelisted bAsset and another at a 1:1 ratio. Swaps do not affect the number of mAssets in circulation."
+description: >-
+  Swapping is the exchange between one whitelisted bAsset and another at a 1:1
+  ratio. Swaps do not affect the number of mAssets in circulation.
 ---
 
 # SWAP
