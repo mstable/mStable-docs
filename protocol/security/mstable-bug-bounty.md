@@ -1,10 +1,14 @@
 ---
-description: "\U0001F41B Open reward pool for discovering and reporting vulnerabilities in the mStable protocol."
+description: >-
+  Open reward pool for discovering and reporting vulnerabilities in the mStable
+  protocol.
 ---
 
 # mStable Bug Bounty
 
-An **ongoing** bug bounty for the smart contracts of the mStable protocol is now live. We intend for hackers to look for smart contract vulnerabilities in our system that can lead to loss of collateral, unfair payouts or locked components. We want mStable to be as resilient as possible - submit a bug and earn a reward of up to **US$25,000** \(or more in extreme circumstances\)**.** _Submissions ****must adhere to the_ [_bug bounty rules**.**_](mstable-bug-bounty.md#rules)_\*\*\*\*_
+An **ongoing** bug bounty for the smart contracts of the mStable protocol is now live. mStable intends for hackers to look for smart contract vulnerabilities in our system that can lead to loss of collateral, unfair payouts or locked components. mStable must be as resilient as possible. Please submit a bug and earn a reward of up to US$25,000 ****\(or more in extreme circumstances\)**.** 
+
+_Submissions ****must adhere to the_ [_bug bounty rules**.**_](mstable-bug-bounty.md#rules)_\*\*\*\*_
 
 {% hint style="info" %}
 Found a bug? Follow the [responsible disclosure guidelines](mstable-bug-bounty.md#responsible-disclosure) to submit to mStable
@@ -12,11 +16,11 @@ Found a bug? Follow the [responsible disclosure guidelines](mstable-bug-bounty.m
 
 ## **Rewards**
 
-Rewards will be awarded at the sole discretion of the mStable team. Quality of the report and reproduction instructions can impact the reward. Rewards are denominated in USD and will be paid out in mUSD.
+Rewards will be awarded at the sole discretion of the mStableDAO. Quality of the report and reproduction instructions can impact the reward. Rewards are denominated mUSD and will be paid out in mUSD.
 
-_The bug bounty program is ongoing and has been running since June 05th, 2020._
+The bug bounty program is ongoing and has been running since June 05th, 2020.
 
-_NB: Payout amounts increased \(max 25k\) as of July 14th, 2020._ 
+NB: Payout amounts increased \(max 25k\) as of July 14th, 2020. 
 
 **The reward will be based on the following severity scheme, based on the** [**OWASP risk rating**](https://owasp.org/www-community/OWASP_Risk_Rating_Methodology) **methodology:**
 

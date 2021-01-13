@@ -1,5 +1,5 @@
 ---
-description: ⬅️ Redeem underlying assets from mAssets (e.g. mUSD)
+description: Redeem underlying assets from mAssets (e.g. mUSD)
 ---
 
 # REDEEM

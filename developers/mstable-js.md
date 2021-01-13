@@ -1,5 +1,5 @@
 ---
-description: "\U0001F39B️ Data processing and validation tools for the mStable Protocol."
+description: Data processing and validation tools for the mStable Protocol.
 ---
 
 # mStable-js

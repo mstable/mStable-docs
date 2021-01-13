@@ -1,5 +1,5 @@
 ---
-description: "\U0001F512 Here are some of the things we do to ensure protocol security"
+description: Here are some of the things we do to ensure protocol security
 ---
 
 # Security
@@ -54,13 +54,11 @@ All contracts have undergone static analysis using [Slither](https://github.com/
 
 One of the core principles of our architecture design is the separation of concerns. Many critical modules are immutable, and those modules which are upgradable have an option to be permanently [locked into place](https://app.gitbook.com/@mstable/s/mstable/~/drafts/-M-OWaaE9NNL_1dZ2XvI/protocol/architecture#locking-modules), subject to a governance process. Contracts that implement Open-Zeppelin's Upgradable Proxies are governed and upgraded by a DelayedProxyAdmin, via mStable governance.
 
-We use common standardised contracts, for example `MiniMe` or [Open-Zeppelin](https://openzeppelin.com/contracts/) where possible and learn from previous smart contract systems by applying security measures like `ReentrancyGuard` in `Solc v 0.5.x`. 
+mStable uses common standardised contracts, for example `MiniMe` or [Open-Zeppelin](https://openzeppelin.com/contracts/) where possible and learn from previous smart contract systems by applying security measures like `ReentrancyGuard` in `Solc v 0.5.x`. 
 
 The Nexus supports the system by providing read access of all modules, as a sort of system registry. This centralises the burden for updates and reduces the chance of a mishap. 
 
-### Decentralization plan
-
-_See_ [_governance roadmap_](../versioning.md#phases-of-decentralisation) _for more info._
+### Decentralisation 
 
 ### **Deployment**
 
@@ -68,7 +66,7 @@ Deterministic and battle tested deployment scripts play a vital role in ensuring
 
 ### Code formatting and readability
 
-We believe that code should be easily understandable and so write with the average reader in mind. Our contracts are formatted for optimal comprehension and supplemented with comprehensive comments.
+Code should be easily understandable and so write with the average reader in mind. mStable's contracts are formatted for optimal comprehension and supplemented with comprehensive comments.
 
 For example:
 
