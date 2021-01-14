@@ -6,7 +6,7 @@ description: Here are some of the things we do to ensure protocol security
 
 ## Keeping things secure
 
-Ensuring the security and optimisation of a live protocol requires a multi faceted approach. In addition to a macro-level architecture and a [robust governance decentralization]() plan, the micro-level architecture, code formatting, documentation, [testing procedures](./#testing) and auditing play vital roles in the process.
+Ensuring the security and optimisation of a live protocol requires a multi faceted approach. In addition to a macro-level architecture and a robust governance decentralization plan, the micro-level architecture, code formatting, documentation, [testing procedures](./#testing) and auditing play vital roles in the process.
 
 ## Bug bounty
 
@@ -54,11 +54,9 @@ All contracts have undergone static analysis using [Slither](https://github.com/
 
 One of the core principles of our architecture design is the separation of concerns. Many critical modules are immutable, and those modules which are upgradable have an option to be permanently [locked into place](https://app.gitbook.com/@mstable/s/mstable/~/drafts/-M-OWaaE9NNL_1dZ2XvI/protocol/architecture#locking-modules), subject to a governance process. Contracts that implement Open-Zeppelin's Upgradable Proxies are governed and upgraded by a DelayedProxyAdmin, via mStable governance.
 
-mStable uses common standardised contracts, for example `MiniMe` or [Open-Zeppelin](https://openzeppelin.com/contracts/) where possible and learn from previous smart contract systems by applying security measures like `ReentrancyGuard` in `Solc v 0.5.x`. 
+mStable uses common standardised contracts, for example [Open-Zeppelin](https://openzeppelin.com/contracts/) where possible and learn from previous smart contract systems by applying security measures like `ReentrancyGuard` in `Solc v 0.5.x`. 
 
-The Nexus supports the system by providing read access of all modules, as a sort of system registry. This centralises the burden for updates and reduces the chance of a mishap. 
-
-### Decentralisation 
+The Nexus supports the system by providing read access of all modules, as a sort of system registry. This centralises the burden for updates and reduces the chance of a mishap.  
 
 ### **Deployment**
 

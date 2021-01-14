@@ -19,7 +19,7 @@ Users should do their own research depending on what they intend to use the mSta
 
 #### Audits
 
-mStable's code has undergone various audits to test the security of the protocol. However, security audits do not completely eliminate risk. You can find out more about our audits in the [Security](../protocol/security/) section.
+mStable's code is rigorously tested and has undergone various audits to test the security of the protocol. However, security audits do not completely eliminate smart contract risk. You can find out more about our audits in the [Security](../protocol/security/) section.
 
 #### Permanent loss of a bAsset peg
 
