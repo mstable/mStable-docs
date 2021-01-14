@@ -1,8 +1,8 @@
 ---
 description: >-
-  Forging (Minting & Redeeming) is the exchange of a whitelisted bAsset for its
-  corresponding mAsset at a 1:1 ratio. Forging increases or decreases the number
-  of mAssets in circulation.
+  Minting and redeeming is the exchange of a bAsset for its corresponding mAsset
+  at a 1:1 ratio. Minting and redeeming increases or decreases the number of
+  mAssets in circulation.
 ---
 
 # MINT
@@ -11,11 +11,11 @@ description: >-
 
 Each mAsset uses a smart contract to facilitate minting and redemption and hold its collateral.
 
-* The user sends a bAsset the smart contract of that mAsset asset.
-* For the USD mAsset, the underlying bAsset could be USDC, TUSD, USDT or sUSD stablecoins.
+* The user sends a bAsset the smart contract of that mAsset asset;
+* For the USD mAsset, the underlying bAsset could be USDC, TUSD, USDT or sUSD stablecoins;
 * A mint is valid if it does not push any of the bAsset collateral levels past their predefined maximum weight.
 
-Minting a mAsset offers immediate 1:1 \(zero slippage\) conversion of a bAsset into its corresponding mAsset.
+Minting a mAsset offers immediate zero slippage conversion of a bAsset into its corresponding mAsset.
 
 All mAssets are ERC20 compliant, non custodial, and redeemable for the underlying bAsset\(s\) at any time.
 
@@ -80,6 +80,6 @@ To redeem 100 mExample from the basket:
 * Receive 35 units of Asset A, 30 units of Assets B & C, and 5 units of Asset D.
 
 {% hint style="info" %}
-The Forging process will be analogous for mGLD, mEUR, mBTC and so on.
+Minting and redemption is analogous for possible future mAssets \(e.g. mBTC, mGLD\)
 {% endhint %}
 
