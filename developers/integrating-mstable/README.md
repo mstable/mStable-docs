@@ -72,7 +72,7 @@ function mint(
 
 ### Depositing into SAVE
 
-{% page-ref page="save.md" %}
+{% page-ref page="save/" %}
 
 Once you have minted mUSD a contract may deposit into the SAVE contract to begin earning yield. This example assumes that mUSD is on the contract. After calling the external `deposit` function, mUSD will be deposited into the SAVE contract and begin earning yield.
 
@@ -106,7 +106,7 @@ function deposit(
 
 ### Withdrawing from SAVE
 
-{% page-ref page="save.md" %}
+{% page-ref page="save/" %}
 
 mUSD may be withdrawn from the SAVE contract at any point. This example assumes that the calling contract has deposited into SAVE. Calling the external `withdraw` function returns mUSD from the SAVE contract to the calling contract.
 
