@@ -1,6 +1,6 @@
 ---
 description: >-
-  mStable’s SAVE is non-custodial savings account that aims to be an accessible,
+  mStable’s Save is non-custodial savings account that aims to be an accessible,
   reliable and high-yielding place to earn interest.
 ---
 
