@@ -4,7 +4,7 @@ description: >-
   ratio. Swaps do not affect the number of mAssets in circulation.
 ---
 
-# SWAP
+# Swap
 
 ## **How do swaps work?**
 

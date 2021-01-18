@@ -2,7 +2,7 @@
 description: EARN consolidates all of our incentivised liquidity pools into one place
 ---
 
-# EARN
+# Earn
 
 EARN is the place where a portion of mStable's Public `MTA` are currently distributed. The other place is the "Deposit Box" in SAVE. It is primarily built as a way to distribute Meta tokens and decentralise the governance community of the mStable protocol, while at the same time contributing to the utility of the protocol.
 

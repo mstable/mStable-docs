@@ -5,7 +5,7 @@ description: >-
   mAssets in circulation.
 ---
 
-# MINT
+# Mint
 
 ## Minting
 

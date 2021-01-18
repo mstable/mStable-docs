@@ -5,11 +5,11 @@
 ## mStable <a id="mstable-assets"></a>
 
 * [mAssets](mstable-assets/massets/README.md)
-  * [MINT](mstable-assets/massets/minting-and-redemption/README.md)
+  * [Mint](mstable-assets/massets/minting-and-redemption/README.md)
     * [Basket Adjustment](mstable-assets/massets/minting-and-redemption/rebalancing.md)
-  * [SWAP](mstable-assets/massets/swapping.md)
-  * [SAVE](mstable-assets/massets/native-interest-rate.md)
-  * [EARN](mstable-assets/massets/earn.md)
+  * [Swap](mstable-assets/massets/swapping.md)
+  * [Save](mstable-assets/massets/native-interest-rate.md)
+  * [Earn](mstable-assets/massets/earn.md)
 * [Meta](mstable-assets/functions/README.md)
   * [Governance](mstable-assets/functions/governance.md)
   * [MTA Staking](mstable-assets/functions/mta-staking.md)

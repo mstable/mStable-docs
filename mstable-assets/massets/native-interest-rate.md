@@ -4,17 +4,17 @@ description: >-
   reliable and high-yielding place to earn interest.
 ---
 
-# SAVE
+# Save
 
 ## Save v2 Audit Report 
 
 {% file src="../../.gitbook/assets/rep-mstable\_18\_01\_2020.pdf" caption="Save v2 Audit Report" %}
 
-## **How does SAVE work?**
+## **How does mUSD Save work?**
 
 mStable assets are designed to generate a native interest rate. This is done through the mStable smart contracts programatically depositing bAssets to decentralised lending markets such as Compound or AAVE, combined with mStable's swap fees and other sources of income \(such as token liquidations described in [MIP2](https://mips.mstable.org/MIPS/mip-2.html)\).
 
-As interest and fees accrue, new mAssets are minted and sent to the relevant SAVE contract. This means that `mUSD` is always 1:1 backed. Users who opt in to receive interest by depositing a mAsset balance into the SAVE contract receive these newly minted mAssets. The user then receives another token, called `imUSD` which can be redeemed for the original deposit plus any interest earned, at any time.
+As interest and fees accrue, new mAssets are minted and sent to the relevant Save contract. This means that `mUSD` is always 1:1 backed. Users who opt in to receive interest by depositing a mAsset balance into the Save contract receive these newly minted mAssets. The user then receives another token, called `imUSD` which can be redeemed for the original deposit plus any interest earned, at any time.
 
 All savers are given the option to participate in protocol governance. Ever saver has the option of depositing their `imUSD` in the "deposit box", a place where savers can store their `imUSD` and earn `MTA`. As mStable is a collectively governed protocol, it is important that those receive system revenue as yield have a say in protocol governance. The deposit box is designed to incentivise savers to participate in governance and become Meta Governors \(users who participate in protocol governance earn more `MTA`\).
 
@@ -25,15 +25,15 @@ For more information, please refer to these posts:
 
 ## How is the APY displayed?
 
-SAVE shows a historical 7 day moving average APY that has accrued to savers over the last week.
+Save shows a historical 7 day moving average APY that has accrued to savers over the last week.
 
 **Who has benefited from this rate?**
 
-Savers who had funds in the SAVE contract for the previous 7 days.
+Savers who had funds in the Save contract for the previous 7 days.
 
 **Is this indicative of future yield?**
 
-This rate has benefited those Savers over the past 7 days, but given the short time between the timestamps, is likely to fluctuate on a regular basis. It is **not** a prediction of future savings rates. There are a lot of factors that regularly affect the rate - basket composition \(and thus yield generated from the bAssets\), SWAP fees and the percentage of the total mAssets that are held in the Savings contract.
+This rate has benefited those Savers over the past 7 days, but given the short time between the timestamps, is likely to fluctuate on a regular basis. It is **not** a prediction of future savings rates. There are a lot of factors that regularly affect the rate - basket composition \(and thus yield generated from the bAssets\), Swap fees and the percentage of the total mAssets that are held in the Savings contract.
 
 **Is there more data on SAVE rates?**
 
@@ -48,7 +48,7 @@ A basket with a total value of 1000 `mUSD`, comprised of equal parts DAI, USDC, 
 * USDT - 3%
 * TUSD - 2%
 
-A user deposits 100 `mUSD` into the SAVE contract, alongside others who have already deposited 400 `mUSD`. The SAVE contract has a total of 500 `mUSD` \(50% of mUSD supply\) in it, and over the course of 6 months accrues interest.
+A user deposits 100 `mUSD` into the Save contract, alongside others who have already deposited 400 `mUSD`. The Save contract has a total of 500 `mUSD` \(50% of mUSD supply\) in it, and over the course of 6 months accrues interest.
 
 At the end of 6 months, assuming no bAssets have breached their max weights, the basket is comprised of the following: 256.25 DAI, 255 USDC, 253.75 USDT, and 252.5 TUSD. In total, the basket has accrued 17.5 USD of value in interest at an average rate of 3.5% APY.
 
