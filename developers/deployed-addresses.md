@@ -9,7 +9,7 @@ description: "\U0001F4D6 List of deployed contract addresses"
 | Contract | Address |
 | :--- | :--- |
 | mUSD | [0xe2f2a5C287993345a840Db3B0845fbC70f5935a5](https://etherscan.io/address/0xe2f2a5C287993345a840Db3B0845fbC70f5935a5) |
-| mUSD SAVE | [0xcf3f73290803fc04425bee135a4caeb2bab2c2a1](https://etherscan.io/address/0xcf3f73290803fc04425bee135a4caeb2bab2c2a1) |
+| mUSD SAVE \(imUSD\) | [0x30647a72Dc82d7Fbb1123EA74716aB8A317Eac19](https://etherscan.io/address/0x30647a72Dc82d7Fbb1123EA74716aB8A317Eac19) |
 | mStable Helper | [0xe15aad5d6b7433e5988415274529311f6bf6e8a3](https://etherscan.io/address/0xe15aad5d6b7433e5988415274529311f6bf6e8a3) |
 | mUSD Basket Manager | [0x66126B4aA2a1C07536Ef8E5e8bD4EfDA1FdEA96D](https://etherscan.io/address/0x66126B4aA2a1C07536Ef8E5e8bD4EfDA1FdEA96D) |
 | MTA | [0xa3bed4e1c75d00fa6f4e5e6922db7261b5e9acd2](https://etherscan.io/address/0xa3bed4e1c75d00fa6f4e5e6922db7261b5e9acd2) |
