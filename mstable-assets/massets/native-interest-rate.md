@@ -1,8 +1,14 @@
 ---
-description: 'mStable’s SAVE aims to be an accessible, reliable and high-yielding.'
+description: >-
+  mStable’s SAVE is non-custodial savings account that aims to be an accessible,
+  reliable and high-yielding place to earn interest.
 ---
 
 # SAVE
+
+## Save v2 Audit Report 
+
+{% file src="../../.gitbook/assets/rep-mstable\_18\_01\_2020.pdf" caption="Save v2 Audit Report" %}
 
 ## **How does SAVE work?**
 
@@ -11,6 +17,11 @@ mStable assets are designed to generate a native interest rate. This is done thr
 As interest and fees accrue, new mAssets are minted and sent to the relevant SAVE contract. This means that `mUSD` is always 1:1 backed. Users who opt in to receive interest by depositing a mAsset balance into the SAVE contract receive these newly minted mAssets. The user then receives another token, called `imUSD` which can be redeemed for the original deposit plus any interest earned, at any time.
 
 All savers are given the option to participate in protocol governance. Ever saver has the option of depositing their `imUSD` in the "deposit box", a place where savers can store their `imUSD` and earn `MTA`. As mStable is a collectively governed protocol, it is important that those receive system revenue as yield have a say in protocol governance. The deposit box is designed to incentivise savers to participate in governance and become Meta Governors \(users who participate in protocol governance earn more `MTA`\).
+
+For more information, please refer to these posts:
+
+* [How to Migrate](https://medium.com/mstable/how-to-save-v2-8d102903f03a)
+* [mStable launches Save v2](https://medium.com/mstable/mstable-launches-new-composable-version-of-musd-save-982a814e17d0)
 
 ## How is the APY displayed?
 
