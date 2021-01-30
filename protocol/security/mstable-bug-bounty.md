@@ -6,6 +6,8 @@ description: >-
 
 # mStable Bug Bounty
 
+Our awesome friends over at **Immunefi.com** are the best place to see a quick breakdown of mStable's bug bounty. Check it out [here](https://immunefi.com/bounty/mstable/).
+
 An **ongoing** bug bounty for the smart contracts of the mStable protocol is now live. mStable intends for hackers to look for smart contract vulnerabilities in our system that can lead to loss of collateral, unfair payouts or locked components. mStable must be as resilient as possible. Please submit a bug and earn a reward of up to US$25,000 ****\(or more in extreme circumstances\)**.** 
 
 _Submissions ****must adhere to the_ [_bug bounty rules**.**_](mstable-bug-bounty.md#rules)_\*\*\*\*_
@@ -24,12 +26,12 @@ NB: Payout amounts increased \(max 25k\) as of July 14th, 2020.
 
 **The reward will be based on the following severity scheme, based on the** [**OWASP risk rating**](https://owasp.org/www-community/OWASP_Risk_Rating_Methodology) **methodology:**
 
-![](../../.gitbook/assets/image%20%2812%29.png)
+![](../../.gitbook/assets/screen-shot-2021-01-30-at-1.05.59-pm.png)
 
 ## **Reporting**
 
 {% hint style="info" %}
-Found a bug? Follow the [responsible disclosure guidelines](mstable-bug-bounty.md#responsible-disclosure) to submit to mStable
+Found a bug? Follow the [responsible disclosure guidelines](mstable-bug-bounty.md#responsible-disclosure) to submit to the team at [Immunefi](https://immunefi.com/bounty/mstable/) or directly to the mStable team.
 
 Failure to following the guidelines will result in a finding being ineligible for any bounties
 {% endhint %}
@@ -58,6 +60,8 @@ The bug bounty is applicable to mStable's solidity contract suite, specifically 
 [mStable Docs - GitBook](https://docs.mstable.org)
 
 \*\*\*\*[**mStable GitHub**](https://github.com/mstable/mstable-contracts)\*\*\*\*
+
+\*\*\*\*[Immunefi](https://immunefi.com/)
 
 ## Rules
 
