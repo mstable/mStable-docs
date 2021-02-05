@@ -12,6 +12,8 @@ description: Common terminology used throughout the mStable suite
 
 **imUSD** - imUSD is a token that represents the yield accruing to mUSD deposited into mStable's Save V2 vault. It is an interest-bearing token that can be redeemed for the underlying mUSD plus any interest earned, at any time. As it is composible, imUSD can also be transferred and used as collateral in other DeFi platforms, making it another useful "money lego" in the broader DeFi ecosystem.
 
+**imUSD Vault** - The imUSD Vault acts as a deposit box where savers holding the imUSD token can also receive MTA rewards in proportion to a deposited amount of imUSD and their vMTA balance. 
+
 **Meta-Stablecoin** - A stablecoin that is collateralised and diversified by an underlying basket of stablecoins. 
 
 **Meta / MTA** - The Meta token \(ticker symbol MTA\) is an ERC-20 utility token on Ethereum, coordinating decentralised governance of mStable assets.
@@ -31,6 +33,10 @@ description: Common terminology used throughout the mStable suite
 **mStable protocolDAO** - A multi-signer entity that manages and implements upgrades to the mStable smart contract suite.
 
 **Rebalancing** - The mechanism whereby, after a basket change for a mStable Asset, users will receive quantities of the underlying stablecoins such that there is a movement towards the new basket’s composition.
+
+**Save v1** - The old \(now deprecated\) Save contract. No longer receives APY. If you have funds still in this contract please migrate them to Save v2.
+
+**Save v2** - The current Save contract, that allows users to deposit mUSD to earn APY interest. Balances in the Save v2 contracts are represented by imUSD. 
 
 **Stability Labs** - A software development company developing mStable.
 
