@@ -1,7 +1,7 @@
 ---
 description: >-
-  mStable’s Save is non-custodial savings account that aims to be an accessible,
-  reliable and high-yielding place to earn interest.
+  mStable’s Save is non-custodial savings account that aims to be an accessible
+  and reliable place to earn interest.
 ---
 
 # Save
@@ -10,36 +10,17 @@ description: >-
 
 {% file src="../../.gitbook/assets/rep-mstable\_18\_01\_2020.pdf" caption="Save v2 Audit Report" %}
 
-## **How does mUSD Save work?**
+## **How does Save work?**
 
 mStable assets are designed to generate a native interest rate. This is done through the mStable smart contracts programatically depositing bAssets to decentralised lending markets such as Compound or AAVE, combined with mStable's swap fees and other sources of income \(such as token liquidations described in [MIP2](https://mips.mstable.org/MIPS/mip-2.html)\).
 
-As interest and fees accrue, new mAssets are minted and sent to the relevant Save contract. This means that `mUSD` is always 1:1 backed. Users who opt in to receive interest by depositing a mAsset balance into the Save contract receive these newly minted mAssets. The user then receives another token, called `imUSD` which can be redeemed for the original deposit plus any interest earned, at any time.
+As interest and fees accrue, new mAssets are minted and sent to the relevant Save contract. This means that the `mAsset`is always fully backed with very little deviation. This deviation occurs when the basket does not have an equal weight distribution, and is due to the bonding curve. The parameters are set in a way so that the deviation is smaller than 1%, 99% of the time. Weight limits ensure that the backing ratio will never drop below 95%.
 
-All savers are given the option to participate in protocol governance. Ever saver has the option of depositing their `imUSD` in the "deposit box", a place where savers can store their `imUSD` and earn `MTA`. As mStable is a collectively governed protocol, it is important that those receive system revenue as yield have a say in protocol governance. The deposit box is designed to incentivise savers to participate in governance and become Meta Governors \(users who participate in protocol governance earn more `MTA`\).
+The one-to-oneness of `mAssets` is in contrast with other Automated Market Maker LP tokens which accrue swap fees implicitly and appreciate in value. Thus, `mAssets` can be used as a pegged crypto assets in its own right, whereas LP tokens cannot. Users who opt in to receive interest by depositing a mAsset balance into the Save contract receive these newly minted mAssets. The user then receives another token, a interest bearing mAsset or `imAssets`, which can be redeemed for the original deposit plus any interest earned, at any time.
 
-For more information, please refer to these posts:
+All savers are given the option to participate in protocol governance. Every saver has the option of depositing their `imAsset` in the "Vault", a place where savers can store their `imAsset` and earn `MTA`. As mStable is a collectively governed protocol, it is important that those receive system revenue as yield have a say in protocol governance. The vault is designed to incentivise savers to participate in governance and become Meta Governors \(users who participate in protocol governance earn more `MTA`\).
 
-* [How to Migrate](https://medium.com/mstable/how-to-save-v2-8d102903f03a)
-* [mStable launches Save v2](https://medium.com/mstable/mstable-launches-new-composable-version-of-musd-save-982a814e17d0)
-
-## How is the APY displayed?
-
-Save shows a historical 7 day moving average APY that has accrued to savers over the last week.
-
-**Who has benefited from this rate?**
-
-Savers who had funds in the Save contract for the previous 7 days.
-
-**Is this indicative of future yield?**
-
-This rate has benefited those Savers over the past 7 days, but given the short time between the timestamps, is likely to fluctuate on a regular basis. It is **not** a prediction of future savings rates. There are a lot of factors that regularly affect the rate - basket composition \(and thus yield generated from the bAssets\), Swap fees and the percentage of the total mAssets that are held in the Savings contract.
-
-**Is there more data on SAVE rates?**
-
-mStable has added [platform analytics](https://app.mstable.org/analytics) moving that show average rates over multiple time periods. More data sets will be added to the dApp once sufficient data becomes available.   
-
-## **Example**
+### **Example**
 
 A basket with a total value of 1000 `mUSD`, comprised of equal parts DAI, USDC, USDT, and TUSD earns interest at the following APY derived from the mStable smart contracts automonously lending deposits onto decentralised lending protocols, currently AAVE and Compound.
 
@@ -48,7 +29,7 @@ A basket with a total value of 1000 `mUSD`, comprised of equal parts DAI, USDC, 
 * USDT - 3%
 * TUSD - 2%
 
-A user deposits 100 `mUSD` into the Save contract, alongside others who have already deposited 400 `mUSD`. The Save contract has a total of 500 `mUSD` \(50% of mUSD supply\) in it, and over the course of 6 months accrues interest.
+A user deposits 100 `mUSD` into the SAVE contract, alongside others who have already deposited 400 `mUSD`. The SAVE contract has a total of 500 `mUSD` \(50% of mUSD supply\) in it, and over the course of 6 months accrues interest.
 
 At the end of 6 months, assuming no bAssets have breached their max weights, the basket is comprised of the following: 256.25 DAI, 255 USDC, 253.75 USDT, and 252.5 TUSD. In total, the basket has accrued 17.5 USD of value in interest at an average rate of 3.5% APY.
 
