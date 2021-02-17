@@ -26,7 +26,7 @@ See [mStable-js](../mstable-js.md) for more info on ways to retrieve, parse and 
 
 ## Why mStable?
 
-mStable assets \(mAssets\) are built to an autonomous and non-custodial stablecoin layer for DeFi. The first mAsset, mUSD, comprises of USDT, TUSD, DAI, sUSD and USDC. mAssets can be minted with any of the underlying and used as a trustworthy base layer with which one could, for example, collateralise synthetic assets or loans.
+mStable assets \(mAssets\) are built to an autonomous and non-custodial pegged asset layer for DeFi. The first mAsset, mUSD, comprises of USDT, TUSD, DAI, sUSD and USDC. mAssets can be minted with any of the underlying and used as a trustworthy base layer with which one could, for example, collateralise synthetic assets or loans.
 
 mAssets produce a native yield through the SAVE contract. Yield is derived from AMM swap trades, lending markets, and other income sources. Underlying assets can be redeemed at any time.
 
