@@ -4,7 +4,7 @@ description: Meet the individuals contributing to the mStable protocol
 
 # Contributors
 
-## Core Team
+## Core contributors 
 
 * 🇦🇺 [James Simpson](https://www.linkedin.com/in/jamesronaldsimpson/) - Co-founder 
 * 🇦🇺 [James Eddington](https://twitter.com/jwpeddington) - Operations
