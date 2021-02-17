@@ -31,11 +31,15 @@ The mStable Public Rewards on Earn, Staking v1, the Save vault and the Grants Pr
 
 **Staking** 
 
-* governance.mstable.org 
+* [Governance portal](www.governance.mstable.org)
 
 **Forum**
 
-* forum.mstable.org
+* [mStable Governance Forum](www.forum.mstable.org)
+
+**mStable Improvement Proposals** 
+
+* [MIP page](www.mips.mstable.org)
 
 **Meta Govenor Voting** 
 
