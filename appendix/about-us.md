@@ -6,7 +6,7 @@ description: Meet the individuals contributing to the mStable protocol
 
 ## Core Team
 
-* 🇦🇺 [James Simpson](https://www.linkedin.com/in/jamesronaldsimpson/) - Lead
+* 🇦🇺 [James Simpson](https://www.linkedin.com/in/jamesronaldsimpson/) - Co-founder 
 * 🇦🇺 [James Eddington](https://twitter.com/jwpeddington) - Operations
 * 🇮🇪 [Alex Scott](https://github.com/alsco77) -  Lead Developer
 * 🇦🇺 [Nick Addison](https://www.linkedin.com/in/nick-addison/) - Protocol Developer 
@@ -14,12 +14,13 @@ description: Meet the individuals contributing to the mStable protocol
 * 🇬🇧 [James Lefrère](https://github.com/JamesLefrere) -  Lead Front End Developer
 * 🇭🇷 [Lovro Biljeskovic](https://github.com/lovrobiljeskovic) - Frontend Developer
 * 🇬🇧 [Chris Fulford](https://github.com/chrisjgf) - Frontend Developer
-* 🇨🇦 [Derek Silva](https://twitter.com/DerekSilva) - Communications & Marketing Lead
-* 🇸🇬 Derrick Chin - Community & Governance Lead
+* 🇨🇦🇧🇪[Fauve Alman](https://twitter.com/catctrlalt) - Global Community Lead 
+* 🇨🇦 [Derek Silva](https://twitter.com/DerekSilva) - Communications & Marketing 
+* 🇸🇬 Derrick Chin - Community & Governance 
 
 ## Advisors
 
-* 🇸🇪 [Henrik Andersson ](https://www.linkedin.com/in/henrikandersson/)- Research 
+* 🇸🇪 [Henrik Andersson ](https://www.linkedin.com/in/henrikandersson/) - Co-founder
 * 🇦🇺 [Anthony Sassano](https://twitter.com/sassal0x)
 * 🇦🇺 [Zhuoxun Yin](https://www.linkedin.com/in/zhuoxun-yin-3ba93728)
 

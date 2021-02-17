@@ -20,5 +20,5 @@ mStable Improvement Proposals \(MIPs\) describe standards for the mStable platfo
 
 ### MCCPs <a id="mip--mccp-rationale"></a>
 
-mStable Configuration Change Proposals \(MCCPs\) detail and record changes made to system parameters such as swap fees, max weights, and bAsset addition or removal
+mStable Configuration Change Proposals \(MCCPs\) detail and record changes made to system parameters such as swap fees, max weights, and bAsset addition or removal.
 

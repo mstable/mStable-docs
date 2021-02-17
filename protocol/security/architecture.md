@@ -24,7 +24,7 @@ Module upgrades through the Nexus come in a 2 step process. Step 1 is a successf
 
 #### 2-way Handshakes
 
-Each upgrade to [Governance]() will require a two way handshake, in addition to the above Delayed upgrade. This makes absolutely certain that we are passing the baton to the correct address. A two way handshake is basically a confirmation that both parties \(Governance modules\) have opted in to swap permissions, shown by a transaction to propose and consequently accept the new role as Governor. 
+Each upgrade to Governance will require a two way handshake, in addition to the above Delayed upgrade. This makes absolutely certain that we are passing the baton to the correct address. A two way handshake is basically a confirmation that both parties \(Governance modules\) have opted in to swap permissions, shown by a transaction to propose and consequently accept the new role as Governor. 
 
 #### **Testnet dry runs**
 
