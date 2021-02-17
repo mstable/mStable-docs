@@ -1,15 +1,15 @@
 ---
 description: >-
   Interacting with the mStable protocol is permissionless and non-custodial.
-  Anyone can build a service to capitalize on the composibility offered through
+  Anyone can build a service to capitalise on the composibility offered through
   mStable's smart contracts.
 ---
 
 # Interfacing with mStable
 
-#### **How can I access the mStable protocol?**
+**How can I access the mStable protocol?**
 
-The protocol exists as open-access [smart contracts](https://en.wikipedia.org/wiki/Smart_contract) on the [Ethereum](https://ethereum.org/) blockchain, meaning interacting with the protocol is permissionless - anyone can build a dApp layer or communicate directly with the blockchain to access the mStable protocol. 
+The protocol exists as open-access [smart contracts](https://en.wikipedia.org/wiki/Smart_contract) on the [Ethereum](https://ethereum.org/) blockchain, meaning interacting with the protocol is permissionless - anyone can build a dApp layer or communicate directly with the blockchain to access the mStable protocol.
 
 One such app is the [mStable App](https://docs.mstable.org/mstable-assets/interfacing-with-mstable/app): a slim, user focussed web application that allows users to:
 
@@ -25,5 +25,5 @@ Do you **want to integrate with mStable?** Smart contract integration details ar
 
 ### Communicate directly
 
-It is possible, but not recommended to communicate directly through a Wallet provider \(e.g. [Metamask](https://metamask.io/), [MyCrypto](https://mycrypto.com)\). Doing so means writing your own transaction, which is something you should avoid doing.
+It is possible, but not recommended to communicate directly through a Wallet provider \(e.g. [Metamask](https://metamask.io/), [MyCrypto](https://mycrypto.com)\). Doing so means writing your own transaction, which is something you should generally avoid doing.
 

@@ -1,7 +1,7 @@
 ---
 description: >-
   Get paid to build applications on mStable or support the Community through our
-  grants programme
+  grants program
 ---
 
 # Grants Program

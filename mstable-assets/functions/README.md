@@ -1,7 +1,5 @@
 ---
-description: >-
-  Meta lies at the heart of mStable. It is what co-ordinates collective
-  governance.
+description: Meta co-ordinates mStable's collective governance.
 ---
 
 # Meta
