@@ -36,8 +36,6 @@ The examples given here are also available as a single contract in the [mStable 
 
 ### Minting mUSD
 
-{% page-ref page="mint.md" %}
-
 Minting takes one or more of the supported tokens and issues mUSD. The following is an example that shows how you can add minting mUSD to a smart contract. **This example assumes** there are some supported stablecoins held on the contract.
 
 Suppose we are minting mUSD with USDC in this example. We first send some USDC to the contract and then call the external `mint` function with the address of the USDC contract and the amount to send. The transaction will return the equivalent amount of mUSD to the contract.

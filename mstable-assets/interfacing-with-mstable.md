@@ -20,7 +20,7 @@ One such app is the [mStable App](https://docs.mstable.org/mstable-assets/interf
   * View the reward pools and the history of their allocations
 
 {% hint style="info" %}
-Do you **want to integrate with mStable?** Smart contract integration details are available on the [Developers](../developers/integrating-mstable/developers.md) page
+Do you **want to integrate with mStable?** Smart contract integration details are available on the [Developers]() page
 {% endhint %}
 
 ### Communicate directly

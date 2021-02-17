@@ -27,8 +27,6 @@
 * [Introduction](developers/introduction/README.md)
   * [Ropsten](developers/introduction/get-set-up-on-ropsten.md)
 * [mStable-protocol](developers/integrating-mstable/README.md)
-  * [MINT](developers/integrating-mstable/mint.md)
-  * [SWAP](developers/integrating-mstable/developers.md)
   * [SAVE](developers/integrating-mstable/save/README.md)
     * [Savings Vault](developers/integrating-mstable/save/savings-vault.md)
   * [REDEEM](developers/integrating-mstable/redeem.md)

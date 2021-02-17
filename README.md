@@ -11,9 +11,7 @@ description: >-
 These docs are still being worked on. Some parts may be unfinished or pending updates.
 {% endhint %}
 
-## 
-
-## 1. What is mStable?
+### 1. What is mStable?
 
 mStable is a collection of **autonomous, decentralised,** and **non-custodial** smart contracts. It is built on Ethereum. mStable assets \(mAssets\) are built to an autonomous and non-custodial pegged asset layer for Decentralised Finance \(DeFi\). 
 
