@@ -28,17 +28,15 @@ description: Common terminology used throughout the mStable suite
 
 **Price oracle** - A service/API which provides real-time price data used by mStable's smart contracts to calculate fees and determine de-pegging events. 
 
-**mStable DAO** - A multi-signer entity that manages all public MTA and mUSD treasury on behalf of the mStable community and token holders.
+**mStable DAO** - A multi-signer entity that manages all public MTA and mUSD treasury on behalf of the mStable community and Meta Govenors.
 
-**mStable protocolDAO** - A multi-signer entity that manages and implements upgrades to the mStable smart contract suite.
+**mStable protocolDAO** - A multi-signer entity that executes upgrades to the mStable smart contract suite following Meta Governor approval. 
 
 **Rebalancing** - The mechanism whereby, after a basket change for a mStable Asset, users will receive quantities of the underlying stablecoins such that there is a movement towards the new basket’s composition.
 
 **Save v1** - The old \(now deprecated\) Save contract. No longer receives APY. If you have funds still in this contract please migrate them to Save v2.
 
 **Save v2** - The current Save contract, that allows users to deposit mUSD to earn APY interest. Balances in the Save v2 contracts are represented by imUSD. 
-
-**Stability Labs** - A software development company developing mStable.
 
 **Stablecoin** - Cryptocurrencies designed to minimise the effect of price volatility, usually via pegging to a particular asset class \(e.g. USD or Gold\).
 
