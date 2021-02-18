@@ -15,6 +15,7 @@ This is a non-exhaustive list of projects, companies, wallets and dApps that hav
 ### dApps and Liquidity Pools
 
 * [Aave](https://aave.com/)
+* [ARCx](https://arcx.money/)
 * [Compound](https://compound.finance/)
 * [Balancer](https://balancer.exchange/)
 * [Curve](https://curve.fi)
