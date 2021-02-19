@@ -10,19 +10,37 @@ Ensuring the security and optimisation of a live protocol requires a multi facet
 
 ## Bug bounty
 
-Open reward pool for discovering and reporting vulnerabilities in the mStable protocol.
+Open reward pool for discovering and reporting vulnerabilities in the mStable protocol. It can also be viewed on [Immunefi](https://immunefi.com/bounty/mstable/).
 
 {% page-ref page="mstable-bug-bounty.md" %}
 
 ## Auditing
 
-Audit completed by [Consensys Diligence](https://diligence.consensys.net/) - report available [here](https://diligence.consensys.net/audits/2020/07/mstable-1.1/) or PDF below.
+\*\*\*\*[**Consensys Diligence**](https://diligence.consensys.net/) - Q4 2020
+
+_Report available_ [_here_](https://diligence.consensys.net/audits/2020/07/mstable-1.1/) _or PDF below._
 
 {% file src="../../.gitbook/assets/mstable-audit-2020-07.pdf" %}
 
-Initial audit performed by Bramah Systems.
+**Initial audit performed by Bramah Systems** - Q2 2020
 
 {% file src="../../.gitbook/assets/mstable-audit-bramah-systems.pdf" caption="Audit report" %}
+
+**Certik audit** - Q1 2021
+
+{% file src="../../.gitbook/assets/rep-mstable\_18\_01\_2020.pdf" caption="REP-mStable\_18\_01\_2021" %}
+
+[https://certik.org/projects/mstable](https://certik.org/projects/mstable)
+
+**Peckshield Audit** - Q1 2021
+
+{% file src="../../.gitbook/assets/peckshield-audit-report-mstable-icsmm-v1.0.pdf" caption="Audit report" %}
+
+_This audit was carried out on the previously proposed ISCMM \(an AMM prototype\) which did not make it into production and was instead replaces by_ [_MIP-7_](https://forum.mstable.org/t/mip-7-masset-amm-with-feeders/344)_. The report however is still useful as a broader assessment of mStable's codebase at the time._
+
+**DeFi Safety mStable Process Quality Review - Score: 97%**
+
+[https://docs.defisafety.com/finished-reviews/mstable](https://docs.defisafety.com/finished-reviews/mstable)
 
 ## Testing
 
