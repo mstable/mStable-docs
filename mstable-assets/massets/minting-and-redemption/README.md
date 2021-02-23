@@ -11,7 +11,7 @@ description: >-
 
 Each mAsset uses a smart contract to facilitate minting and redemption and hold its collateral.
 
-* The user sends a bAsset the smart contract of that mAsset asset.
+* The user sends a bAsset to the mAsset's smart contract.
 * For the USD mAsset, the underlying bAssets could be USDC, TUSD, USDT or sUSD pegged crypto assets.
 * A mint is valid if it does not push any of the bAsset collateral levels past their predefined minimum or maximum weight.
 
