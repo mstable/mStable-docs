@@ -19,10 +19,6 @@ One such app is the [mStable App](https://docs.mstable.org/mstable-assets/interf
 * [EARN](https://docs.mstable.org/mstable-assets/functions) rewards for contributing to the growth of mStable
   * View the reward pools and the history of their allocations
 
-{% hint style="info" %}
-Do you **want to integrate with mStable?** Smart contract integration details are available on the [Developers]() page
-{% endhint %}
-
 ### Communicate directly
 
 It is possible, but not recommended to communicate directly through a Wallet provider \(e.g. [Metamask](https://metamask.io/), [MyCrypto](https://mycrypto.com)\). Doing so means writing your own transaction, which is something you should generally avoid doing.

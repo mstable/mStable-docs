@@ -6,7 +6,7 @@ description: >-
 
 # Grants Program
 
-Through this initiative, the mStable GrantsDAO is looking to distribute up to US$200,000 over the next 12 months to relevant and valuable contributors to the mStable project and community.
+Through this initiative, the mStable DAO is looking to distribute up to US$200,000 over the next 12 months to relevant and valuable contributors to the mStable project and community.
 
 This post will aim to answer some of the initial questions you might have about the program. Further information can be found on our [GitHub repository](http://github.com/mstable/dev-grants), which you should read before applying.
 
@@ -14,7 +14,7 @@ This post will aim to answer some of the initial questions you might have about 
 
 ### Software Development Grants
 
-The mStable GrantsDAO is looking to mainly fund development efforts from members of the community. More specifically we’re looking to fund the following broad verticals:
+The mStable DAO is looking to mainly fund development efforts from members of the community. More specifically we’re looking to fund the following broad verticals:
 
 * mUSD / mBTC integrations \(mAsset utility\)
 * MTA integration into applications \(MTA utility\)
