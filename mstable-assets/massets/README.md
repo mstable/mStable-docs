@@ -10,7 +10,7 @@ mStable can support numerous mAssets. Each mAsset is pegged to a unique asset, s
 
 mAssets are minted/redeemed permissionlessly and on-chain via the mStable smart contracts. Prices for minting and redeeming are set by a predetermined formula, known in the industry as a "bonding curve". While computing the prices, the formula takes bAsset weights into account. Minting prices satisfy the law of demand, that is, the lower the weight of a bAsset \(i.e. the more scarce it is\), the higher the amount of mAsset received per bAsset. The price differentiation provided by the formula allows for arbitrage opportunities, and eventually for bAsset prices, as computed by the formula, to track those of the market.
 
-* **To mint an** `mAsset`, for example, a user sends 1 unit of bAsset and receives 1.0017 `mAsset` in return. This whole process is completed autonomously by mStable's smart contracts and the user interacting with those smart contracts.\*\*\*\*
+* **To mint an** `mAsset`, for example, a user sends 1 unit of bAsset and receives 1.0017 `mAsset` in return. This whole process is completed autonomously by mStable's smart contracts and the user interacting with those smart contracts.
 * **To redeem,** the user sends an `mAsset` to the contract and can choose which bAsset to receive in return for the swap fee, which is set by Meta Governors. Once the user receives the bAsset\(s\), the mAsset is then burned, i.e. taken out of circulation. This process is completed autonomously by mStable's smart contracts.
 
 Each bAsset will have a minimum and maximum weight that determines its lowest and highest possible weighting in that basket.

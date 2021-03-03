@@ -70,11 +70,11 @@ In the event of one or more of mExample's bAssets being at minimum or maximum we
 * Asset C - 30%
 * Asset D - 5%
 
-As Asset A is at its maximum weight, users cannot redeem any of the other assets individually \(as this would push Asset A proportionally over 35% of the basket\). For the same reason, they cannot mint with Asset A. In this scenario, "multi" minting is now enforced, when a user wants to mint mAsset with A.
+A user can always mint or redeem, even at minimum or maximum weight by sending or receiving one or a combination of bAssets that move the basket away from its minimum or maximum weight boundaries.
 
-The same is valid for redeeming Asset D. Since its weight cannot drop below 5%, multi redemption is enforced, when a user wants to redeem some mAsset for D.
+One way to redeem at max weights is via multi-redemption:
 
-To redeem 100 mExample from the basket:
+To redeem 100 mExample from the basket via a multi-redemption:
 
 * Call the multi-redeem function `redeemMasset` on the mExample smart contract;
 * Specify that 100 of mExample is to be redeemed.
