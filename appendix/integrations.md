@@ -16,11 +16,12 @@ This is a non-exhaustive list of projects, companies, wallets and dApps that hav
 
 * [Aave](https://aave.com/)
 * [ARCx](https://arcx.money/)
-* [Compound](https://compound.finance/)
 * [Balancer](https://balancer.exchange/)
+* [Compound](https://compound.finance/)
 * [Curve](https://curve.fi)
-* [Rari Capital](https://v2.rari.capital/)
 * [OpenDAO's Open Market](https://opm.opendao.io/)
+* [Rari Capital](https://v2.rari.capital/)
+* [Unit](https://unit.xyz/)
 
 ### Exchanges
 
