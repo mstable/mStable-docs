@@ -6,7 +6,7 @@ description: 'mStable, mUSD and MTA logos, badges, and product screenshots.'
 
 ## About mStable
 
-mStable is a protocol for autonomous and non-custodial stablecoin infrastructure.
+mStable is an autonomous and non-custodial infrastructure for pegged-value crypto assets.
 
 ## Logo Kits
 
@@ -55,5 +55,5 @@ Black \(\#000000\), Navy Blue \(\#0061E3\), Smokey White \(\#F8F5F2\), and Tange
 
 {% file src="../.gitbook/assets/mstable-product-screenshots-04nov2020.zip" caption="Download Product Screenshots" %}
 
-![Example Screenshot of mStable MINT](../.gitbook/assets/mstable-mint02-product-web.png)
+![mStable App](../.gitbook/assets/mstable-screenshots-2.png)
 
