@@ -10,7 +10,7 @@ description: Getting to know the mStable protocol
 
 All contracts are deployed on Mainnet, Ropsten and Kovan. They are open source and available on the GitHub, or as a node package, as specified in the [mStable-protocol page]().
 
-{% page-ref page="../deployed-addresses.md" %}
+{% page-ref page="../deployed-addresses/" %}
 
 ### Parsing data
 

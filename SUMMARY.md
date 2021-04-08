@@ -27,7 +27,16 @@
 * [Introduction](developers/introduction/README.md)
   * [Ropsten](developers/introduction/get-set-up-on-ropsten.md)
 * [mStable-js](developers/mstable-js.md)
-* [Deployed addresses](developers/deployed-addresses.md)
+* [Deployed Addresses](developers/deployed-addresses/README.md)
+  * [mUSD Addresses](developers/deployed-addresses/musd-addresses.md)
+  * [mBTC Addresses](developers/deployed-addresses/mbtc-addresses.md)
+  * [Feeder Pool Addresses](developers/deployed-addresses/feeder-pool-addresses/README.md)
+    * [Binance USD \(BUSD\) Feeder Pool](developers/deployed-addresses/feeder-pool-addresses/binance-usd-busd-feeder-pool.md)
+    * [Gemini USD \(GUSD\) Feeder Pool](developers/deployed-addresses/feeder-pool-addresses/gemini-usd-gusd-feeder-pool.md)
+    * [Huobi BTC \(HBTC\) Feeder Pool](developers/deployed-addresses/feeder-pool-addresses/huobi-btc-hbtc-feeder-pool.md)
+    * [tBTC Feeder Pool](developers/deployed-addresses/feeder-pool-addresses/tbtc-feeder-pool.md)
+  * [Governance Addresses](developers/deployed-addresses/governance-addresses.md)
+  * [Shared Addresses](developers/deployed-addresses/shared-addresses.md)
 
 ## Protocol
 
