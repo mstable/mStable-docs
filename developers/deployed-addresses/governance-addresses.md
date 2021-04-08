@@ -9,6 +9,7 @@
 | Delayed Proxy Admin | [0x5C8eb57b44C1c6391fC7a8A0cf44d26896f92386](https://etherscan.io/address/0x5C8eb57b44C1c6391fC7a8A0cf44d26896f92386) |
 | Rewards Distributor | [0x04dfDfa471b79cc9E6E8C355e6C71F8eC4916C50](https://etherscan.io/address/0x04dfDfa471b79cc9E6E8C355e6C71F8eC4916C50) |
 | mStableDAO Gnosis Safe | [0x3dd46846eed8D147841AE162C8425c08BD8E1b41](https://etherscan.io/address/0x3dd46846eed8D147841AE162C8425c08BD8E1b41) |
+| Ejector | [0x71061E3F432FC5BeE3A6763Cd35F50D3C77A0434](https://etherscan.io/address/0x71061e3f432fc5bee3a6763cd35f50d3c77a0434) |
 {% endtab %}
 
 {% tab title="Ropsten" %}
