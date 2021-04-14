@@ -10,7 +10,7 @@
 | Boost Director | [0x8892d7A5e018cdDB631F4733B5C1654e9dE10aaF](https://etherscan.io/address/0x8892d7A5e018cdDB631F4733B5C1654e9dE10aaF) |
 | Revenue Recipient \(Buy & Make\) | [0xA7824292efDee1177a1C1BED0649cfdD6114fed5](https://etherscan.io/address/0xA7824292efDee1177a1C1BED0649cfdD6114fed5) |
 | Collector \(Buy & Make\) | [0x3F63e5bbB53e46F8B21F67C25Bf2dd78BC6C0e43](https://etherscan.io/address/0x3F63e5bbB53e46F8B21F67C25Bf2dd78BC6C0e43) |
-| mAsset Save Wrapper | [0xd082363752d08c54aB47c248FD5A11f8Ee634BB9](https://etherscan.io/address/0xd082363752d08c54ab47c248fd5a11f8ee634bb9) |
+| mAsset Save Wrapper | [0x0CA7A25181FC991e3cC62BaC511E62973991f325](https://etherscan.io/address/0x0CA7A25181FC991e3cC62BaC511E62973991f325) |
 {% endtab %}
 
 {% tab title="Ropsten" %}
