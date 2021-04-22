@@ -39,6 +39,6 @@ The decisions are made according to governance proposals by Meta Governors.
 Accessible on our [Github](https://github.com/mstable) and verified on [Etherscan](https://etherscan.io).
 
 {% hint style="info" %}
-Got a question about the code? Check out [who wrote it](../../appendix/about-us.md) or talk to us directly on [Discor​​d](https://discord.gg/7n3m7Tz)
+Got a question about the code? Check out [who wrote it](../../appendix/about-us.md) or talk to us directly on [Discor​​d](https://discord.com/invite/pgCVG7e)
 {% endhint %}
 
