@@ -12,6 +12,12 @@
 | Ejector | [0x71061E3F432FC5BeE3A6763Cd35F50D3C77A0434](https://etherscan.io/address/0x71061e3f432fc5bee3a6763cd35f50d3c77a0434) |
 {% endtab %}
 
+{% tab title="Polygon Maininet" %}
+| Contract | Address |
+| :--- | :--- |
+|  |  |
+{% endtab %}
+
 {% tab title="Ropsten" %}
 | Contract | Address |
 | :--- | :--- |
@@ -19,6 +25,12 @@
 | Voting Meta Token \(vMTA\) | 0x77f9bf80e0947408f64faa07fd150920e6b52015 |
 | Delayed Proxy Admin | 0x2d369F83E9DC764a759a74e87a9Bc542a2BbfdF0 |
 | Rewards Distributor | 0x683eB4a6Ddd554A0dB1837E3981be6FFd2C8F333 |
+{% endtab %}
+
+{% tab title="Polygon Mumbai" %}
+| Contract | Address |
+| :--- | :--- |
+| Protocol DAO MultiSig | [0xE1304aA964C5119C98E8AE554F031Bf3B21eC836](https://wallet.gnosis.pm/#/wallet/0xE1304aA964C5119C98E8AE554F031Bf3B21eC836) |
 {% endtab %}
 {% endtabs %}
 
