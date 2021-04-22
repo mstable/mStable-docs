@@ -11,7 +11,7 @@ description: >-
 
 MCCP’s are documents for making a case for modifying one of the mStable system configuration variables. The intent is to provide a clear and detailed history behind each configuration change and the rationale behind it at the time it was implemented. The author of the document is responsible for building consensus within the community and documenting dissenting opinions. 
 
-These MCCPs are labelled and discussed in mStable Community & Governance channels such the Forum, discord, and snapshot page. They are approved through a Meta Governance vote. 
+These MCCPs are labelled and discussed in mStable Community & Governance channels such the Forum, [discord](https://discord.com/invite/pgCVG7e), and snapshot page. They are approved through a Meta Governance vote. 
 
 ### Relevant System Variables
 

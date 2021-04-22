@@ -40,7 +40,7 @@ The mStable protocol on Ropsten uses the following pegged assets.
 * TUSD `0xa2ea00df6d8594dbc76b79befe22db9043b8896f` \(Current Aave\)
 * USDT `0xB404c51BBC10dcBE948077F18a4B8E553D160084` \(Current Aave\)
 
-TUSD/USDT can be obtained from the [Aave Faucet](https://testnet.aave.com/faucet/) \(pro tip: you can change the data sent in the faucet function to mint more than the default amount\). Compounds Faucet is a bit tricky, which is why an old deployment is used that had sufficient liquidity. If you wish to get DAI/USDC it would be better to first use the Aave faucet, or request `mUSD` from the mStable team via Discord.
+TUSD/USDT can be obtained from the [Aave Faucet](https://testnet.aave.com/faucet/) \(pro tip: you can change the data sent in the faucet function to mint more than the default amount\). Compounds Faucet is a bit tricky, which is why an old deployment is used that had sufficient liquidity. If you wish to get DAI/USDC it would be better to first use the Aave faucet, or request `mUSD` from the mStable team via [Discor​​d](https://discord.com/invite/pgCVG7e).
 
 The Tether faucet is known to work so this is recommended. Request some USDT so that you can use the mStable protocol.
 

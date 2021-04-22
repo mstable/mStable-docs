@@ -30,7 +30,7 @@ Grants will be visible and transparent to the community.
 
 ## How do I get started?
 
-Come say hello in our Discord and share your ideas. You can also suggest ideas in the forum.
+Come say hello in our [Discor​​d](https://discord.com/invite/pgCVG7e) and share your ideas. You can also suggest ideas in the forum.
 
 
 
