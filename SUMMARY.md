@@ -68,7 +68,7 @@
 ---
 
 * [Medium](https://medium.com/mstable)
-* [Discord](https://discord.gg/pgCVG7e)
+* [Discord](https://discord.com/invite/pgCVG7e)
 * [Twitter](https://twitter.com/mstable_)
 * [Telegram](https://t.me/mstableofficial)
 * [Forum](http://forum.mstable.org/)
