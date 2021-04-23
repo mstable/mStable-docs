@@ -28,5 +28,5 @@ We are on the lookout for contributors who can write and design content, produce
 
 You can also contribute by helping us manage the community across keeping content updated, taking notes during governance calls, translation efforts and Discord/Forum housekeeping.
 
-If you'd like to contribute, you can reach out to our community team on Discord.
+If you'd like to contribute, you can reach out to our community team on [Discor​​d](https://discord.com/invite/pgCVG7e).
 

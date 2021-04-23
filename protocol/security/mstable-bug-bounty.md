@@ -107,6 +107,6 @@ In case you discover a vulnerability, we would like to know about it immediately
 
 
 {% hint style="info" %}
-Questions? Reach out to us on [Discord](https://discord.gg/7n3m7Tz) or via [Email](mailto:info@mstable.org)
+Questions? Reach out to us on [Discord](https://discord.com/invite/pgCVG7e) or via [Email](mailto:info@mstable.org)
 {% endhint %}
 
