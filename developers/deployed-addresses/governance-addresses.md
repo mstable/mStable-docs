@@ -15,7 +15,7 @@
 {% tab title="Polygon Maininet" %}
 | Contract | Address |
 | :--- | :--- |
-|  |  |
+| Protocol DAO MultiSig | [0x4aA2Dd5D5387E4b8dcf9b6Bfa4D9236038c3AD43](https://wallet.gnosis.pm/#/wallet/0x4aA2Dd5D5387E4b8dcf9b6Bfa4D9236038c3AD43) |
 {% endtab %}
 
 {% tab title="Ropsten" %}
