@@ -8,9 +8,9 @@ description: >-
 
 Our awesome friends over at **Immunefi.com** are the best place to see a quick breakdown of mStable's bug bounty. Check it out [here](https://immunefi.com/bounty/mstable/).
 
-An **ongoing** bug bounty for the smart contracts of the mStable protocol is now live. mStable intends for hackers to look for smart contract vulnerabilities in our system that can lead to loss of collateral, unfair payouts or locked components. mStable must be as resilient as possible. Please submit a bug and earn a reward of up to US$25,000 ****\(or more in extreme circumstances\)**.** 
+An **ongoing** bug bounty for the smart contracts of the mStable protocol is now live. mStable intends for hackers to look for smart contract vulnerabilities in our system that can lead to loss of collateral, unfair payouts or locked components. mStable must be as resilient as possible. Please submit a bug and earn a reward of up to US$25,000 **\*\*\(or more in extreme circumstances\)**.\*\*
 
-_Submissions ****must adhere to the_ [_bug bounty rules**.**_](mstable-bug-bounty.md#rules)_\*\*\*\*_
+_Submissions \*\*must adhere to the_ [_bug bounty rules**.**_](mstable-bug-bounty.md#rules)_\*\*\*\*_
 
 {% hint style="info" %}
 Found a bug? Follow the [responsible disclosure guidelines](mstable-bug-bounty.md#responsible-disclosure) to submit to mStable
@@ -22,7 +22,7 @@ Rewards will be awarded at the sole discretion of the mStableDAO. Quality of the
 
 The bug bounty program is ongoing and has been running since June 05th, 2020.
 
-NB: Payout amounts increased \(max 25k\) as of July 14th, 2020. 
+NB: Payout amounts increased \(max 25k\) as of July 14th, 2020.
 
 **The reward will be based on the following severity scheme, based on the** [**OWASP risk rating**](https://owasp.org/www-community/OWASP_Risk_Rating_Methodology) **methodology:**
 
@@ -38,9 +38,9 @@ Failure to following the guidelines will result in a finding being ineligible fo
 
 ## **Scope**
 
-The bug bounty is applicable to mStable's solidity contract suite, specifically any contracts residing in [**mstable/mStable-contracts/contracts**](https://github.com/mstable/mStable-contracts/tree/master/contracts) ****on "master" branch \(excluding the "z\_mocks" sub-folder\).
+The bug bounty is applicable to mStable's solidity contract suite, specifically any contracts residing in [**mstable/mStable-contracts/contracts**](https://github.com/mstable/mStable-contracts/tree/master/contracts) _\*\*_on "master" branch \(excluding the "z\_mocks" sub-folder\).
 
-{% embed url="https://github.com/mstable/mstable-contracts" %}
+{% embed url="https://github.com/mstable/mstable-contracts" caption="" %}
 
 ### Out of scope
 
@@ -87,7 +87,7 @@ While researching, we’d like to ask you to refrain from:
 
 In case you discover a vulnerability, we would like to know about it immediately so we can take steps to address it as quickly as possible.
 
-**If you discover a vulnerability, please do the following**: 
+**If you discover a vulnerability, please do the following**:
 
 * E-mail your findings to[ security@mstable.org](mailto:security@mstable.org) with the subject "Bug bounty"
 * **Do not** take advantage of the vulnerability or problem you have discovered
@@ -95,7 +95,7 @@ In case you discover a vulnerability, we would like to know about it immediately
 * **Do not** use attacks on physical security, social engineering, distributed denial of service, spam or applications of third parties;
 * **Do** provide sufficient information to reproduce the problem, so we will be able to resolve it as quickly as possible. Complex vulnerabilities may require further explanation so we might ask you for additional information
 
-**We promise the following:** 
+**We promise the following:**
 
 * We will respond to your report with a confirmation of receipt, followed by our evaluation of the report and an expected resolution date within 3 business days 
 * If you have followed the [instructions above](mstable-bug-bounty.md#rules), we will not take any legal action against you in regard to the report
@@ -103,8 +103,6 @@ In case you discover a vulnerability, we would like to know about it immediately
 * If you so wish we will keep you informed of the progress towards resolving the problem;
 * In the public information concerning the problem reported, we will give your name as the discoverer of the problem \(unless you desire otherwise\)
 * We offer a reward for every report of a security problem that was not yet known to us. The amount of the reward will be determined based on the severity of the leak, the quality of the report and any additional assistance you provide
-
-
 
 {% hint style="info" %}
 Questions? Reach out to us on [Discord](https://discord.com/invite/pgCVG7e) or via [Email](mailto:info@mstable.org)

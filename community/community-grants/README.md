@@ -22,7 +22,7 @@ Check out what are the ongoing initiatives or suggest an idea that we can help b
 
 ## What is the process like to contribute?
 
-We are formalising the process for community grants, which will be similar to how development grants are formalised, to be controlled by a multi-sig community DAO. 
+We are formalising the process for community grants, which will be similar to how development grants are formalised, to be controlled by a multi-sig community DAO.
 
 {% page-ref page="process-for-community-grants.md" %}
 
@@ -31,8 +31,4 @@ Grants will be visible and transparent to the community.
 ## How do I get started?
 
 Come say hello in our [Discor​​d](https://discord.com/invite/pgCVG7e) and share your ideas. You can also suggest ideas in the forum.
-
-
-
-
 

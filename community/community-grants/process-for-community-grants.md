@@ -13,7 +13,3 @@ The current process is as follows:
 
 _This process may be improved upon by any member of the community._
 
- 
-
-
-

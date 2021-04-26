@@ -16,6 +16,7 @@
 | Contract | Address |
 | :--- | :--- |
 | Protocol DAO MultiSig | [0x4aA2Dd5D5387E4b8dcf9b6Bfa4D9236038c3AD43](https://wallet.gnosis.pm/#/wallet/0x4aA2Dd5D5387E4b8dcf9b6Bfa4D9236038c3AD43) |
+| Delayed Proxy Admin | [0xCb6E4B67f2cac15c284AB49B6a4A671cdfe66711](https://explorer-mainnet.maticvigil.com/address/0xCb6E4B67f2cac15c284AB49B6a4A671cdfe66711/contracts) |
 {% endtab %}
 
 {% tab title="Ropsten" %}

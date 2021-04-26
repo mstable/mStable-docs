@@ -18,9 +18,7 @@
 
 ## Grants <a id="meta-grants"></a>
 
----
-
-* [Grants Program](grants-program.md)
+* [Grants Program](meta-grants/grants-program.md)
 
 ## Developers
 
@@ -64,8 +62,6 @@
 * [App Usage Terms and Conditions](appendix/app-usage-terms-and-conditions.md)
 
 ## Additional Resources
-
----
 
 * [Medium](https://medium.com/mstable)
 * [Discord](https://discord.com/invite/pgCVG7e)
