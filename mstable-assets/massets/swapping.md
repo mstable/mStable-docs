@@ -12,7 +12,7 @@ The mStable protocol pools pegged crypto assets of similar value. For example, `
 
 Take USD pegged crypto assets as an example. Say we allow 4 USD pegged crypto assets in the basket. These pegged crypto assets will constantly move slightly from their $1.00 peg, but over time they are very likely to trade around $1.00. For any given period, each pegged crypto asset's price over time will will look something like this:
 
-![https://gblobscdn.gitbook.com/assets%2F-LxR8Ppz-\_JQ7mRRKKgl%2F-M6Rez22Fvu5AII\_Dbol%2F-M6RkL8TeAsvmNwXJA3Q%2FScreen Shot 2020-05-04 at 10.56.27 am.png?alt=media&amp;token=25bbff7c-7047-4a5c-b251-6a47dcc3142d](https://gblobscdn.gitbook.com/assets%2F-LxR8Ppz-_JQ7mRRKKgl%2F-M6Rez22Fvu5AII_Dbol%2F-M6RkL8TeAsvmNwXJA3Q%2FScreen%20Shot%202020-05-04%20at%2010.56.27%20am.png?alt=media&token=25bbff7c-7047-4a5c-b251-6a47dcc3142d)
+![](https://gblobscdn.gitbook.com/assets%2F-LxR8Ppz-_JQ7mRRKKgl%2F-M6Rez22Fvu5AII_Dbol%2F-M6RkL8TeAsvmNwXJA3Q%2FScreen%20Shot%202020-05-04%20at%2010.56.27%20am.png?alt=media&token=25bbff7c-7047-4a5c-b251-6a47dcc3142d)
 
 Price of USDC. _source: Messari_
 
