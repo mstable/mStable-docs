@@ -20,9 +20,7 @@ So far, the peg deviations of major USD pegged crypto assets have been very mino
 
 $$An^n \sum x\_i + k = Akn^n  + \frac{k^{n+1}}{n^n\prod x\_i}$$
 
-Stableswap has been developed and first implemented by Curve Finance. Here, `x_i` are bAsset reserves, `n` are the number of bAssets \(e.g. 4\), `k` is the total mAsset supply and `A` is a parameter which controls the width of the low-slippage region. The effect of changing `A` can be observed in the figure below:
-
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4a394a68-1c3f-4d3d-94a1-0eb9c3e08871/Figure\_1.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4a394a68-1c3f-4d3d-94a1-0eb9c3e08871/Figure_1.png)
+Stableswap has been developed and first implemented by Curve Finance. Here, `x_i` are bAsset reserves, `n` are the number of bAssets \(e.g. 4\), `k` is the total mAsset supply and `A` is a parameter which controls the width of the low-slippage region.
 
 Therefore, the USD pegged crypto assets can be exchanged with very low slippage. For same peg assets, Stableswap provides highly efficient trading opportunities, and should maximise income for Savers \(see Save\), compared to other bonding curves, such as Uniswap's.
 
