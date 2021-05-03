@@ -47,4 +47,13 @@ These dates are provisional and subject to change. The items on the list is by n
 * [mBTC]()
 * [Upgraded AMM]()
 * [mStable on IPFS via EN]()
+* [~~Composable Save~~](https://medium.com/mstable/mstable-launches-new-composable-version-of-musd-save-982a814e17d0)~~~~
+
+#### Q2 2021:
+
+* [~~mUSD/mBTC Feeder Pools~~](https://medium.com/mstable/mstable-feeder-pool-launch-2afd985a577a)~~~~
+* [~~Performance-based rewards to Vaults and Feeder Pools~~](https://medium.com/mstable/performance-based-rewards-to-mstable-vaults-and-feeder-pools-ebd4fd76af66)~~~~
+* ~~~~[~~mStable on Polygon~~](https://medium.com/mstable/mstable-is-now-live-on-polygon-590961cd45a9)~~~~
+
+_Updated roadmap coming soon_
 
