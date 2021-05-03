@@ -14,7 +14,7 @@ description: Meet the individuals contributing to the mStable protocol
 * 🇪🇺 [James Lefrère](https://github.com/JamesLefrere) -  Lead Front End Developer
 * 🇬🇧 [Chris Fulford](https://github.com/chrisjgf) - Frontend Developer
 * 🇨🇦🇧🇪[ Fauve Alman](https://twitter.com/catctrlalt) - Global Community Lead 
-* 🇸🇬 Derrick Chin - Community & Governance 
+* 🇸🇬 [Derrick Chin](https://twitter.com/helloderc) - Community & Growth 
 
 ## Advisors
 
