@@ -11,8 +11,6 @@ description: >-
 These docs are still being worked on. Some parts may be unfinished or pending updates.
 {% endhint %}
 
->
-
 ### 1. What is mStable?
 
 mStable is an autonomous and non-custodial infrastructure for pegged-value crypto assets. 
