@@ -1,5 +1,7 @@
 ---
-description: mStable unites stablecoins. mStable's first mAsset is mUSD.
+description: >-
+  mStable is an autonomous and non-custodial infrastructure for pegged-value
+  crypto assets. mStable's first mAsset is mUSD.
 ---
 
 # mAssets

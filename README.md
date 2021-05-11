@@ -56,9 +56,9 @@ The mStable protocol is governed by Meta \(`MTA`\) Governors. Those who have the
 
 ### Features
 
-* [Minting and Redemption](mstable-assets/massets/minting-and-redemption/#redemption)
-* [Swaps](mstable-assets/massets/swapping.md)
-* [Native Interest Rate](mstable-assets/massets/native-interest-rate.md)
+* [Minting and Redemption](mstable-assets/mstable-app/minting-and-redemption/#redemption)
+* [Swaps](mstable-assets/mstable-app/swapping.md)
+* [Native Interest Rate](mstable-assets/mstable-app/native-interest-rate.md)
 * [Meta Governance](mstable-assets/functions/governance.md) 
 
 {% hint style="success" %}
