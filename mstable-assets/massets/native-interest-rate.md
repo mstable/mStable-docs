@@ -6,13 +6,11 @@ description: >-
 
 # Save
 
-## Save v2 Audit Report 
-
-{% file src="../../.gitbook/assets/rep-mstable\_18\_01\_2020.pdf" caption="Save v2 Audit Report" %}
-
 ## **How does Save work?**
 
-mStable assets are designed to generate a native interest rate. This is done through the mStable smart contracts programatically depositing bAssets to decentralised lending markets such as Compound or AAVE, combined with mStable's swap fees and other sources of income \(such as token liquidations described in [MIP2](https://mips.mstable.org/MIPS/mip-2.html)\).
+mStable assets are designed to generate a native interest rate. 
+
+This is done through the mStable smart contracts programatically depositing bAssets to decentralised lending markets such as Compound or AAVE, combined with mStable's swap fees and other sources of income \(such as token liquidations described in [MIP2](https://mips.mstable.org/MIPS/mip-2.html)\).
 
 As interest and fees accrue, new mAssets are minted and sent to the relevant Save contract. This means that the `mAsset`is always fully backed with very little deviation. This deviation occurs when the basket does not have an equal weight distribution, and is due to the bonding curve. The parameters are set in a way so that the deviation is smaller than 1%, 99% of the time. Weight limits ensure that the backing ratio will never drop below 95%.
 
@@ -40,4 +38,49 @@ During this period, the protocol also received $10 worth of Compound tokens from
 Our user, having contributed one fifth of the total USD in the savings contract over 6 months, earns a corresponding 9.5 `mUSD` in interest.
 
 _NB - This example assumes most of the system to be static over this 6 month term. Realistically, the mStable system is a dynamic one, and returns will be influenced by multiple factors in the system changing on a regular basis, such as users minting and redeeming every day._
+
+## Using Save
+
+### How do I use Save?
+
+* Head over to [Save](https://app.mstable.org/#/musd/save) on Ethereum or Polygon
+* Choose your mAsset to Save with, i.e. mUSD or mBTC
+* Deposit supported assets
+  * USDT, USDC, DAI and sUSD deposits will be used to [mint](https://app.gitbook.com/@mstable/s/mstable/~/drafts/-M_RReTmS-qBH2cBBO6m/mstable-assets/massets/minting-and-redemption) `mUSD`
+  * GUSD, BUSD deposits will be used to swap for mUSD through the [Feeder Pools](https://app.gitbook.com/@mstable/s/mstable/~/drafts/-M_RReTmS-qBH2cBBO6m/mstable-assets/massets/pools)
+  * renBTC, sBTC, WBTC deposits will be used to [mint](https://app.gitbook.com/@mstable/s/mstable/~/drafts/-M_RReTmS-qBH2cBBO6m/mstable-assets/massets/minting-and-redemption) `mBTC`
+  * TBTC, HBTC deposits will be used to swap for mBTC through the [Feeder Pools](https://app.gitbook.com/@mstable/s/mstable/~/drafts/-M_RReTmS-qBH2cBBO6m/mstable-assets/massets/pools)
+* Receive `imUSD` or `imBTC` which are yield accruing `mUSD` and `mBTC` and can be transferred and used as collateral in DeFi
+* Optionally, stake them into the Vault to [earn MTA rewards](https://app.gitbook.com/@mstable/s/mstable/~/drafts/-M_RReTmS-qBH2cBBO6m/mstable-assets/functions)
+
+### Why should I use Save?
+
+Save is one of DeFi's best passive savings account with native and reliable yield, i.e. yield is paid in-kind, automatically.
+
+* mUSD - 10% to 20% APY
+* mBTC - 1% to 5% APY
+
+Additionally, yields can be further boosted by staking them in the Savings Vault.
+
+With Save, you do not need to continuously sell rewards and pay expensive gas fees to compound your deposits.
+
+Save deposits are also fully backed by collateral on-chain and redeemable at anytime.
+
+Yield history is fully transparent and trackable on our [dedicated stats page](https://app.mstable.org/#/musd/stats).
+
+### What is the Savings Vault?
+
+* imAssets are now tokenised and can be transferred, e.g. to a third-party protocol for enhanced capital efficiency
+* The Savings Vault is one additional avenue, with baked in MTA incentives providing a ‘boost’ for participants who are also actively staking in [Staking](https://app.gitbook.com/@mstable/s/mstable/~/drafts/-M_RReTmS-qBH2cBBO6m/mstable-assets/functions/mta-staking)
+
+### How do I choose between imUSD/imBTC and imUSD/imBTC Vault?
+
+* As mentioned above, staking `imUSD` and `imBTC` into the Vault brings MTA incentives to the depositor, with the option to boost by staking MTA
+* If left unstaked, the tokenized savings credit can be transferred and used across DeFi, e.g. in [ARCx](https://app.arcx.money) to mint STABLEx
+
+## Save v2 Audit Report 
+
+{% file src="../../.gitbook/assets/rep-mstable\_18\_01\_2020.pdf" caption="Save v2 Audit Report" %}
+
+## \*\*\*\*
 

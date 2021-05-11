@@ -21,7 +21,7 @@ fPools are composed of 50% fAsset \(e.g. BUSD, GUSD\) and 50% mAsset \(e.g. mUSD
 
 Feeder Pools \(fPools\) provide important benefits to mAssets by:
 
-* Free `fAsset` -&gt; `mAsset` swaps \(effectively allowing users to ‘mint’ mAssets with any fAsset\)
+* Freeing `fAsset` -&gt; `mAsset` swaps \(effectively allowing users to ‘mint’ mAssets with any fAsset\)
 * Leveraging the `mAsset` SAVE rate by providing a source of demand for mAssets from within mStable \(thus increasing mAsset SAVE APY\)
 * Feed swap fees back into the `mAsset` by supporting trades between fAsset &lt;-&gt; mAsset bAssets
 
@@ -48,13 +48,13 @@ There are 2 feeder pools currently live for each mAsset:
 
 **mUSD**:
 
-* [mUSD/BUSD](https://app.mstable.org/#/musd/pools/0xfe842e95f8911dcc21c943a1daa4bd641a1381c6)
-* [mUSD/GUSD](https://app.mstable.org/#/musd/pools/0x4fb30c5a3ac8e85bc32785518633303c4590752d)
+* [mUSD/BUSD](https://app.mstable.org/#/musd/pools/0xfe842e95f8911dcc21c943a1daa4bd641a1381c6) \(Ethereum\)
+* [mUSD/GUSD](https://app.mstable.org/#/musd/pools/0x4fb30c5a3ac8e85bc32785518633303c4590752d) \(Ethereum\)
 
 **mBTC**:
 
-* [mBTC/TBTC](https://app.mstable.org/#/mbtc/pools/0xb61a6f928b3f069a68469ddb670f20eeeb4921e0)
-* [mBTC/HBTC](https://app.mstable.org/#/mbtc/pools/0x48c59199da51b7e30ea200a74ea07974e62c4ba7)
+* [mBTC/TBTC](https://app.mstable.org/#/mbtc/pools/0xb61a6f928b3f069a68469ddb670f20eeeb4921e0) \(Ethereum\)
+* [mBTC/HBTC](https://app.mstable.org/#/mbtc/pools/0x48c59199da51b7e30ea200a74ea07974e62c4ba7) \(Ethereum\)
 
 ### What do I earn for providing liquidity into Feeder Pools?
 
