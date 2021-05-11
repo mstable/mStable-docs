@@ -16,7 +16,7 @@ One such app is the [mStable App](https://docs.mstable.org/mstable-assets/interf
 * [MINT](https://docs.mstable.org/mstable-assets/massets/minting-and-redemption) and redeem mAssets, allowing you to convert bAssets into mAssets for free
 * [SWAP](https://docs.mstable.org/mstable-assets/massets/swapping) between bAssets
 * [SAVE](https://docs.mstable.org/mstable-assets/massets/native-interest-rate) mAssets in the mStable Savings Contract and earn yield
-* POOL mAssets and feeder assets into a Feeder Pool and earn rewards
+* [POOL](https://app.gitbook.com/@mstable/s/mstable/~/drafts/-M_RJz4zA8CLNL5jq6k6/mstable-assets/massets/pools) mAssets and feeder assets into a Feeder Pool and earn rewards
 
 ### Communicate directly
 
