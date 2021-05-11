@@ -7,7 +7,7 @@ description: >-
 
 # Interfacing with mStable
 
-**How can I access the mStable protocol?**
+### **How can I access the mStable protocol?**
 
 The protocol exists as open-access [smart contracts](https://en.wikipedia.org/wiki/Smart_contract) on [Ethereum](https://ethereum.org/) and [Polygon](https://polygon.technology), meaning interacting with the protocol is permissionless - anyone can build a dApp layer or communicate directly with the blockchain to access the mStable protocol.
 
@@ -17,6 +17,8 @@ One such app is the [mStable App](https://docs.mstable.org/mstable-assets/interf
 * [SWAP](https://docs.mstable.org/mstable-assets/massets/swapping) between bAssets
 * [SAVE](https://docs.mstable.org/mstable-assets/massets/native-interest-rate) mAssets in the mStable Savings Contract and earn yield
 * [POOL](https://app.gitbook.com/@mstable/s/mstable/~/drafts/-M_RJz4zA8CLNL5jq6k6/mstable-assets/massets/pools) mAssets and feeder assets into a Feeder Pool and earn rewards
+
+{% page-ref page="mstable-app/" %}
 
 ### Communicate directly
 

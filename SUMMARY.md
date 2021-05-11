@@ -11,10 +11,10 @@
   * [Save](mstable-assets/mstable-app/native-interest-rate.md)
   * [Pools](mstable-assets/mstable-app/pools.md)
   * [Swap](mstable-assets/mstable-app/swapping.md)
+* [Interfacing with mStable](mstable-assets/interfacing-with-mstable.md)
 * [Meta](mstable-assets/functions/README.md)
   * [MTA Staking](mstable-assets/functions/mta-staking.md)
   * [Governance](mstable-assets/functions/governance.md)
-* [Interfacing with mStable](mstable-assets/interfacing-with-mstable.md)
 * [Brand Assets](mstable-assets/brand-assets.md)
 
 ## Grants <a id="meta-grants"></a>
