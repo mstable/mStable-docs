@@ -11,8 +11,8 @@
   * [Save](mstable-assets/massets/native-interest-rate.md)
   * [Pools](mstable-assets/massets/pools.md)
 * [Meta](mstable-assets/functions/README.md)
-  * [Governance](mstable-assets/functions/governance.md)
   * [MTA Staking](mstable-assets/functions/mta-staking.md)
+  * [Governance](mstable-assets/functions/governance.md)
 * [Interfacing with mStable](mstable-assets/interfacing-with-mstable.md)
 * [Brand Assets](mstable-assets/brand-assets.md)
 
