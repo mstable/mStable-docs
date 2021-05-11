@@ -46,7 +46,7 @@ The Tether faucet is known to work so this is recommended. Request some USDT so 
 
 ### Interacting with the mStable dApp
 
-You can access the testnet version of the mStable protocol using the [mStable dApp ](https://app-dot-mstable-ropsten.appspot.com/)on Ropsten. Please read [Mint](../../mstable-assets/massets/minting-and-redemption/), [Swap](../../mstable-assets/massets/swapping.md), [Save](../../mstable-assets/massets/native-interest-rate.md) and [Earn](../../mstable-assets/massets/earn.md) for protocol-specific information.
+You can access the testnet version of the mStable protocol using the [mStable dApp ](https://app-dot-mstable-ropsten.appspot.com/)on Ropsten. Please read [Mint](../../mstable-assets/massets/minting-and-redemption/), [Swap](../../mstable-assets/massets/swapping.md), [Save](../../mstable-assets/massets/native-interest-rate.md) and [Earn]() for protocol-specific information.
 
 #### See the [Developers section](get-set-up-on-ropsten.md) to understand how you can build applications on top of the protocol using the smart contract interfaces.
 
