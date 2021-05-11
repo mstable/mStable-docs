@@ -1,8 +1,7 @@
 ---
 description: >-
   Minting and redeeming is the exchange of a bAsset for its corresponding mAsset
-  at a 1:1 ratio. Minting and redeeming increases or decreases the number of
-  mAssets in circulation.
+  and vice versa.
 ---
 
 # Mint
@@ -12,10 +11,9 @@ description: >-
 Each mAsset uses a smart contract to facilitate minting and redemption and hold its collateral.
 
 * The user sends a bAsset to the mAsset's smart contract.
-* For the USD mAsset, the underlying bAssets could be USDC, TUSD, USDT or sUSD pegged crypto assets.
-* A mint is valid if it does not push any of the bAsset collateral levels past their predefined minimum or maximum weight.
+* For the USD mAsset, the underlying bAssets could be USDC, USDT, DAI or sUSD pegged crypto assets.
 
-Minting a mAsset offers immediate low slippage conversion of a bAsset into its corresponding mAsset.
+Minting a mAsset offers immediate low slippage conversion of a bAsset into its corresponding mAsset with rates determined by the AMM that work within the bounds defined by hard limits.
 
 All mAssets are ERC20 compliant, non custodial, and redeemable for the underlying bAsset\(s\) at any time.
 

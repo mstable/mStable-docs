@@ -9,15 +9,14 @@ description: >-
 
 **How can I access the mStable protocol?**
 
-The protocol exists as open-access [smart contracts](https://en.wikipedia.org/wiki/Smart_contract) on the [Ethereum](https://ethereum.org/) blockchain, meaning interacting with the protocol is permissionless - anyone can build a dApp layer or communicate directly with the blockchain to access the mStable protocol.
+The protocol exists as open-access [smart contracts](https://en.wikipedia.org/wiki/Smart_contract) on [Ethereum](https://ethereum.org/) and [Polygon](https://polygon.technology), meaning interacting with the protocol is permissionless - anyone can build a dApp layer or communicate directly with the blockchain to access the mStable protocol.
 
 One such app is the [mStable App](https://docs.mstable.org/mstable-assets/interfacing-with-mstable/app): a slim, user focussed web application that allows users to:
 
 * [MINT](https://docs.mstable.org/mstable-assets/massets/minting-and-redemption) and redeem mAssets, allowing you to convert bAssets into mAssets for free
 * [SWAP](https://docs.mstable.org/mstable-assets/massets/swapping) between bAssets
-* [SAVE](https://docs.mstable.org/mstable-assets/massets/native-interest-rate) mAssets in the mStable Savings Contract
-* [EARN](https://docs.mstable.org/mstable-assets/functions) rewards for contributing to the growth of mStable
-  * View the reward pools and the history of their allocations
+* [SAVE](https://docs.mstable.org/mstable-assets/massets/native-interest-rate) mAssets in the mStable Savings Contract and earn yield
+* POOL mAssets and feeder assets into a Feeder Pool and earn rewards
 
 ### Communicate directly
 

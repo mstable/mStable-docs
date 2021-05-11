@@ -13,7 +13,9 @@ These docs are still being worked on. Some parts may be unfinished or pending up
 
 ### 1. What is mStable?
 
-mStable is a collection of **autonomous, decentralised,** and **non-custodial** smart contracts. It is built on Ethereum. mStable assets \(mAssets\) are built to an autonomous and non-custodial pegged asset layer for Decentralised Finance \(DeFi\). 
+mStable is an autonomous and non-custodial infrastructure for pegged-value crypto assets. 
+
+It is built on Ethereum and Polygon. mStable assets \(mAssets\) are built to an autonomous and non-custodial pegged asset layer for Decentralised Finance \(DeFi\). 
 
 mStable was created to address three major problems that confront pegged crypto asset users:
 
@@ -37,7 +39,7 @@ The mStable protocol is governed by Meta \(`MTA`\) Governors. Those who have the
 
 ### **Characteristics**
 
-* **Non Custodial** - mStable users always have custody of their funds.
+* **Non-custodial** - mStable users always have custody of their funds.
 * **Robust** - Collateral is diversified across multiple pegged crypto assets.
 * **Stable** - mAsset are pegged crypto assets in their own right.
 * **Decentralised** - `MTA` governs mStable. Every user can earn `MTA` and participate in mStable's collective governance.
