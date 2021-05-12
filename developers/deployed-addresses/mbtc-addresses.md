@@ -10,6 +10,7 @@ description: Contract addresses for the mStable BTC related contracts.
 | :--- | :--- |
 | mStable BTC \(mBTC\) | [0x945Facb997494CC2570096c74b5F66A3507330a1](https://etherscan.io/address/0x945Facb997494CC2570096c74b5F66A3507330a1) |
 | Interest Bearing mBTC \(imBTC\) | [0x17d8CBB6Bce8cEE970a4027d1198F6700A7a6c24](https://etherscan.io/address/0x17d8CBB6Bce8cEE970a4027d1198F6700A7a6c24) |
+| mBTC Aave V2 Integration | [0xC9451a4483d1752a3E9A3f5D6b1C7A6c34621fC6](https://etherscan.io/address/0xC9451a4483d1752a3E9A3f5D6b1C7A6c34621fC6) |
 | mBTC Savings Vault \(v-imBTC\) | [0xF38522f63f40f9Dd81aBAfD2B8EFc2EC958a3016](https://etherscan.io/address/0xF38522f63f40f9Dd81aBAfD2B8EFc2EC958a3016) |
 {% endtab %}
 
