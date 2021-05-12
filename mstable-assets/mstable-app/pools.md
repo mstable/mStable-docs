@@ -83,3 +83,15 @@ Feeder pools on mStable have low [impermanent loss risk](https://pintail.medium.
 * The Vault is used to meaure who is providing liquidity and distribute MTA through a smart contract
 * To qualify for MTA rewards, the LP tokens must be staked in the Vault
 
+### Where can I find the old Earn Pools?
+
+* If you have previously deposited into the old Earn Pools, you can find them [here](https://earn.mstable.org/#/musd/earn)
+* These pools include
+  * MTA/WETH Uniswap Pool
+  * mUSD/3Pool Curve Pool
+  * MTA/mUSD 95/5 Balancer Pool
+  * MTA/mUSD 80/20 Balancer Pool
+  * USDC/mUSD 50/50 Balancer Pool
+  * MTA/mUSD 5/95 Balancer Pool
+  * WETH/mUSD 50/50 Balancer Pool
+
