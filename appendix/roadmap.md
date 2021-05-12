@@ -4,6 +4,8 @@ description: "\U0001F5FA️ What stage is the project? What are the key dates on
 
 # Live Roadmap
 
+
+
 {% hint style="warning" %}
 These dates are provisional and subject to change. The items on the list is by no means exhaustive but should show a rough outline of some key things we have planned for the core protocol
 {% endhint %}
@@ -55,5 +57,5 @@ These dates are provisional and subject to change. The items on the list is by n
 * [~~Performance-based rewards to Vaults and Feeder Pools~~](https://medium.com/mstable/performance-based-rewards-to-mstable-vaults-and-feeder-pools-ebd4fd76af66)~~~~
 * ~~~~[~~mStable on Polygon~~](https://medium.com/mstable/mstable-is-now-live-on-polygon-590961cd45a9)~~~~
 
-_Updated roadmap coming soon_
+_Updated roadmap coming soon - please watch this space for updates_
 

@@ -26,8 +26,10 @@ The mStable DAO is looking to mainly fund development efforts from members of th
 
 ### Community Building Grants
 
-The mStable Community grants team is looking to fund organic and grassroots community initiatives to build and strengthen mStable's community of members and Governors. We are seeking to fund and encourage community initiatives that cover:
+We are also looking to fund organic and grassroots community initiatives to build and strengthen mStable's community of members and Governors including:
 
-* Chinese language translation and community building 
-* Grassroots marketing campaigns
+* Translation and content 
+* Marketing campaigns
+* Infographics
+* Community tools and utilities
 

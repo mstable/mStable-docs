@@ -20,7 +20,9 @@ MTA can be earned by using mStable:
 
 ### What's the utility of MTA?
 
-MTA stakers earn staking rewards and can also earn boosted rewards across the protocol to incentivise long-term holders.
+MTA is used for liquidity mining to bootstrap a decentralized community of governors. 
+
+MTA can be staked to earn staking rewards and boosted rewards across the protocol to incentivise long-term holders.
 
 {% page-ref page="mta-staking.md" %}
 
@@ -32,7 +34,5 @@ As the protocol grows, value accrual mechanisms will be used to continuously dri
 
 ### **Where can I buy mStable MTA?**
 
-MTA is traded on major exchanges like Huobi and FTX, and decentralized exchanges like Uniswap.
-
-
+MTA is traded on major exchanges like Huobi and FTX, and decentralized exchanges like Uniswap and Bancor.
 
