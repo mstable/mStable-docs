@@ -12,8 +12,8 @@ On the mStable app, you can interface with mStable contracts such as
 
 * [SAVE](https://docs.mstable.org/mstable-assets/massets/native-interest-rate) 
   * Deposit mAssets in the mStable Savings Contract and earn yield
-* FORGE 
-  * [MINT](https://docs.mstable.org/mstable-assets/massets/minting-and-redemption) and Redeem mAssets, allowing you to convert bAssets into mAssets
+* [FORGE](https://app.gitbook.com/@mstable/s/mstable/mstable-assets/mstable-app/forge) 
+  * [MINT](https://docs.mstable.org/mstable-assets/massets/minting-and-redemption) and Redeem mAssets, allowing you to convert bAssets into mAssets and vice versa
   * [SWAP](https://docs.mstable.org/mstable-assets/massets/swapping) between bAssets
 * [POOL](https://app.gitbook.com/@mstable/s/mstable/~/drafts/-M_RJz4zA8CLNL5jq6k6/mstable-assets/massets/pools) mAssets and feeder assets into a Feeder Pool and earn rewards
 
