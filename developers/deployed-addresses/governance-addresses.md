@@ -10,6 +10,7 @@
 | Rewards Distributor | [0x04dfDfa471b79cc9E6E8C355e6C71F8eC4916C50](https://etherscan.io/address/0x04dfDfa471b79cc9E6E8C355e6C71F8eC4916C50) |
 | mStableDAO Gnosis Safe | [0x3dd46846eed8D147841AE162C8425c08BD8E1b41](https://etherscan.io/address/0x3dd46846eed8D147841AE162C8425c08BD8E1b41) |
 | Ejector | [0x71061E3F432FC5BeE3A6763Cd35F50D3C77A0434](https://etherscan.io/address/0x71061e3f432fc5bee3a6763cd35f50d3c77a0434) |
+| Poker of Boosted Savings Vaults | [0x8E1Fd7F5ea7f7760a83222d3d470dFBf8493A03F](https://etherscan.io/address/0x8E1Fd7F5ea7f7760a83222d3d470dFBf8493A03F) |
 {% endtab %}
 
 {% tab title="Polygon Maininet" %}
