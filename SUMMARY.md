@@ -49,6 +49,8 @@
 
 ## Community
 
+* [Guides](community/guides/README.md)
+  * [Guide to interacting with mStable](community/guides/guide-to-interacting-with-mstable.md)
 * [Community Development](community/community-development.md)
 * [Community Grants](community/community-grants/README.md)
   * [Translations Initiative](community/community-grants/translations-initiative.md)
