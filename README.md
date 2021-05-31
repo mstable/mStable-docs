@@ -31,7 +31,7 @@ mAssets are fully backed by a basket of existing tokenised same-base assets \(he
 
 Each mAsset represents a share of liquidity in that mAsset's pool as well as a pegged crypto asset in its own right. A mAsset can be used as a medium of exchange, unit of account and store of value.
 
-Each mAsset should produce an outsized native interest rate \(although this of course if never guaranteed\). This rate is derived from the mStable contracts autonomously and programatically lending bAssets to third party lending protocols, generating interest income. The mStable contracts simultaneously allow for bAssets to be exchanged or "swapped" for a fee. All interest and exchange income is automatically and programmatically sent to mAsset _savers_.
+Each mAsset should produce an outsized native interest rate \(although this of course is never guaranteed\). This rate is derived from the mStable contracts autonomously and programatically lending bAssets to third party lending protocols, generating interest income. The mStable contracts simultaneously allow for bAssets to be exchanged or "swapped" for a fee. All interest and exchange income is automatically and programmatically sent to mAsset _savers_.
 
 The mStable protocol is governed by Meta \(`MTA`\) Governors. Those who have the `MTA` token can stake \(i.e. deposit in a governance smart contract\) their tokens to become protocol governors, allowing them to govern the mStable protocol.
 
