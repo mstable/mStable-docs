@@ -33,6 +33,7 @@
 | Contract | Address |
 | :--- | :--- |
 | Protocol DAO MultiSig | [0xE1304aA964C5119C98E8AE554F031Bf3B21eC836](https://wallet.gnosis.pm/#/wallet/0xE1304aA964C5119C98E8AE554F031Bf3B21eC836) |
+| Delayed Proxy Admin | 0x41E4fF04e6f931f6EA71C7138A79a5B2B994eF19 |
 {% endtab %}
 {% endtabs %}
 
