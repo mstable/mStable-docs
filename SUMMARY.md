@@ -35,6 +35,7 @@
     * [Gemini USD \(GUSD\) Feeder Pool](developers/deployed-addresses/feeder-pool-addresses/gemini-usd-gusd-feeder-pool.md)
     * [Huobi BTC \(HBTC\) Feeder Pool](developers/deployed-addresses/feeder-pool-addresses/huobi-btc-hbtc-feeder-pool.md)
     * [tBTC Feeder Pool](developers/deployed-addresses/feeder-pool-addresses/tbtc-feeder-pool.md)
+    * [Frax \(FRAX\) Feeder Pool](developers/deployed-addresses/feeder-pool-addresses/frax-frax-feeder-pool.md)
   * [Governance Addresses](developers/deployed-addresses/governance-addresses.md)
   * [Shared Addresses](developers/deployed-addresses/shared-addresses.md)
 

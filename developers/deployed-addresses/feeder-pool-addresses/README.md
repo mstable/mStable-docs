@@ -15,6 +15,14 @@
 | :--- | :--- |
 |  |  |
 {% endtab %}
+
+{% tab title="Polygon" %}
+| Contract | Address |
+| :--- | :--- |
+| Feeder Manager | [0xa0adbAcBc179EF9b1a9436376a590b72d1d7bfbf](https://polygonscan.com/address/0xa0adbAcBc179EF9b1a9436376a590b72d1d7bfbf) |
+| Feeder Logic | [0xc929E040b6C8F2fEFE6B45c6bFEB55508554F3E2](https://polygonscan.com/address/0xc929E040b6C8F2fEFE6B45c6bFEB55508554F3E2) |
+| Feeder Interest Validator | [0x4A268958BC2f0173CDd8E0981C4c0a259b5cA291](https://polygonscan.com/address/0x4A268958BC2f0173CDd8E0981C4c0a259b5cA291) |
+{% endtab %}
 {% endtabs %}
 
 {% page-ref page="binance-usd-busd-feeder-pool.md" %}
