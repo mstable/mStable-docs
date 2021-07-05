@@ -8,7 +8,8 @@
 | Voting Meta Token \(vMTA\) | [0xaE8bC96DA4F9A9613c323478BE181FDb2Aa0E1BF](https://etherscan.io/address/0xae8bc96da4f9a9613c323478be181fdb2aa0e1bf) |
 | Delayed Proxy Admin | [0x5C8eb57b44C1c6391fC7a8A0cf44d26896f92386](https://etherscan.io/address/0x5C8eb57b44C1c6391fC7a8A0cf44d26896f92386) |
 | Rewards Distributor | [0x04dfDfa471b79cc9E6E8C355e6C71F8eC4916C50](https://etherscan.io/address/0x04dfDfa471b79cc9E6E8C355e6C71F8eC4916C50) |
-| mStableDAO Gnosis Safe | [0x3dd46846eed8D147841AE162C8425c08BD8E1b41](https://etherscan.io/address/0x3dd46846eed8D147841AE162C8425c08BD8E1b41) |
+| Protocol DAO Gnosis Safe | [0xF6FF1F7FCEB2cE6d26687EaaB5988b445d0b94a2](https://etherscan.io/address/0xF6FF1F7FCEB2cE6d26687EaaB5988b445d0b94a2) |
+| mStable DAO Gnosis Safe | [0x3dd46846eed8D147841AE162C8425c08BD8E1b41](https://etherscan.io/address/0x3dd46846eed8D147841AE162C8425c08BD8E1b41) |
 | Ejector | [0x71061E3F432FC5BeE3A6763Cd35F50D3C77A0434](https://etherscan.io/address/0x71061e3f432fc5bee3a6763cd35f50d3c77a0434) |
 | Poker of Boosted Savings Vaults | [0x8E1Fd7F5ea7f7760a83222d3d470dFBf8493A03F](https://etherscan.io/address/0x8E1Fd7F5ea7f7760a83222d3d470dFBf8493A03F) |
 {% endtab %}
@@ -19,6 +20,8 @@
 | Meta PoS \(MTA\) | [0xF501dd45a1198C2E1b5aEF5314A68B9006D842E0](https://explorer-mainnet.maticvigil.com/address/0xF501dd45a1198C2E1b5aEF5314A68B9006D842E0) |
 | Protocol DAO MultiSig | [0x4aA2Dd5D5387E4b8dcf9b6Bfa4D9236038c3AD43](https://wallet.gnosis.pm/#/wallet/0x4aA2Dd5D5387E4b8dcf9b6Bfa4D9236038c3AD43) |
 | Delayed Proxy Admin | [0xCb6E4B67f2cac15c284AB49B6a4A671cdfe66711](https://explorer-mainnet.maticvigil.com/address/0xCb6E4B67f2cac15c284AB49B6a4A671cdfe66711/contracts) |
+| WMATIC | [0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270](https://polygonscan.com/address/0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270) |
+| Rewards Distributor | [0x3e9d19ee1893B07e22165C54c205702C90C70847](https://polygonscan.com/address/0x3e9d19ee1893B07e22165C54c205702C90C70847) |
 {% endtab %}
 
 {% tab title="Ropsten" %}
