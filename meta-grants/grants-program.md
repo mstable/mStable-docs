@@ -1,16 +1,20 @@
 ---
 description: >-
   Get paid to build applications on mStable or support the Community through our
-  grants program
+  Grants Program.
 ---
 
 # Grants Program
 
-Through this initiative, the mStable DAO is looking to distribute up to US$200,000 over the next 12 months to relevant and valuable contributors to the mStable project and community.
+mStable Grants are administered by the community-led mStable GrantsDAO, which facilitates the process of providing grants to projects, ideas and events that build on top of mStable and empowers the community to help grow the mStable ecosystem.
 
-This post will aim to answer some of the initial questions you might have about the program. Further information can be found on our [GitHub repository](http://github.com/mstable/dev-grants), which you should read before applying.
+This page will provide a high-level overview of the Grants Program. Further information can be found in the [Notion Documentation](https://www.notion.so/mStable-Grants-Program-f4e352b2a4f04380bd0697b2e107e82a).
 
 ## What Are We Funding? <a id="7e66"></a>
+
+The mStable GrantsDAO has allocated 100,000 MTA every quarter for funding grants, unless the previous quarter's funds are less than 50% utilized.
+
+As long as you are building something useful for the mStable ecosystem, we welcome you to apply for our developer and community grants.
 
 ### Software Development Grants
 
@@ -20,10 +24,6 @@ The mStable DAO is looking to mainly fund development efforts from members of th
 * MTA integration into applications \(MTA utility\)
 * Community tools \(explorers, wallets, .info sites, forums, etc.\)
 
-{% embed url="https://medium.com/mstable/mstable-developer-grants-program-50k-max-funding-c7fe8f9a3ad" %}
-
-{% embed url="https://github.com/mstable/mStable-dev-grants" %}
-
 ### Community Building Grants
 
 We are also looking to fund organic and grassroots community initiatives to build and strengthen mStable's community of members and Governors including:
@@ -32,4 +32,28 @@ We are also looking to fund organic and grassroots community initiatives to buil
 * Marketing campaigns
 * Infographics
 * Community tools and utilities
+
+## Application Process
+
+ If you are ready to apply for a grant, you can start the process using this [application form](https://airtable.com/shrmPojq6wrSDyC3m). A summary of the grants process is shown below:
+
+![](https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Ff5d79909-021e-4ef7-9841-c4b03df96c97%2FmStable_Grants_Process-2.png?table=block&id=6e3a988f-9123-40b0-9d80-e992cb66d068&spaceId=3059e5db-1299-4c8e-9072-bac705947813&width=3070&userId=&cache=v2)
+
+## Previously Funded Grants
+
+### Hal.xyz
+
+[HAL](https://www.hal.xyz/) provides automation on Ethereum to allow interaction between decentralized and centralized technologies. The mStable Grants Program has provided funding for integration of mUSD and mBTC in the HAL bots and web wizard.
+
+### mStats
+
+This project is an initiative to deliver a weekly snapshot report that contains some of the most important metrics and info from the mStable ecosystem.
+
+### Donations
+
+The mStable Grants Program has contributed to projects including [OpenDeFi](https://opendefi.network/), [Gitcoin](https://gitcoin.co/) and the [GoodFi Alliance](https://www.goodfi.com/).
+
+## Links
+
+* Follow the mStable GrantsDAO on [Twitter](https://twitter.com/mStableGrants).
 
