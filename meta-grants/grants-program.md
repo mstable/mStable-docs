@@ -41,7 +41,7 @@ If you are ready to apply for a grant, you can start the process using this [app
 
 ## Previously Funded Grants
 
-### Hal.xyz
+### HAL
 
 [HAL](https://www.hal.xyz/) provides automation on Ethereum to allow interaction between decentralized and centralized technologies. The mStable Grants Program has provided funding for integration of mUSD and mBTC in the HAL bots and web wizard.
 
