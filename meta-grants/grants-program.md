@@ -35,7 +35,7 @@ We are also looking to fund organic and grassroots community initiatives to buil
 
 ## Application Process
 
- If you are ready to apply for a grant, you can start the process using this [application form](https://airtable.com/shrmPojq6wrSDyC3m). A summary of the grants process is shown below:
+If you are ready to apply for a grant, you can start the process using this [application form](https://airtable.com/shrmPojq6wrSDyC3m). A summary of the grants process is shown below:
 
 ![](https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Ff5d79909-021e-4ef7-9841-c4b03df96c97%2FmStable_Grants_Process-2.png?table=block&id=6e3a988f-9123-40b0-9d80-e992cb66d068&spaceId=3059e5db-1299-4c8e-9072-bac705947813&width=3070&userId=&cache=v2)
 
