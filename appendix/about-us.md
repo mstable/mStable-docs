@@ -13,7 +13,8 @@ description: Meet the individuals contributing to the mStable protocol
 * 🇹🇷 [Onur Solmaz](https://twitter.com/onurhsolmaz) - Protocol/Token Engineering R&D
 * 🇪🇺 [James Lefrère](https://github.com/JamesLefrere) -  Lead Front End Developer
 * 🇬🇧 [Chris Fulford](https://github.com/chrisjgf) - Frontend Developer
-* 🇸🇬 [Derrick Chin](https://twitter.com/helloderc) - Community & Growth 
+* 🇸🇬 [Derrick Chin](https://twitter.com/0xderc) - Growth & Partnerships
+* `CA` Penguin - Lord of the Discord / Community Manager
 
 ## Advisors
 

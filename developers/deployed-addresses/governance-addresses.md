@@ -14,7 +14,7 @@
 | Poker of Boosted Savings Vaults | [0x8E1Fd7F5ea7f7760a83222d3d470dFBf8493A03F](https://etherscan.io/address/0x8E1Fd7F5ea7f7760a83222d3d470dFBf8493A03F) |
 {% endtab %}
 
-{% tab title="Polygon Maininet" %}
+{% tab title="Polygon Mainnet" %}
 | Contract | Address |
 | :--- | :--- |
 | Meta PoS \(MTA\) | [0xF501dd45a1198C2E1b5aEF5314A68B9006D842E0](https://explorer-mainnet.maticvigil.com/address/0xF501dd45a1198C2E1b5aEF5314A68B9006D842E0) |

@@ -6,8 +6,6 @@ description: "\U0001F4FD mStable in the media and broader crypto ecosystem"
 
 ## **Videos**
 
-### **2020**
-
 * [ETHOnline 🛠️ Building on mStable](https://www.youtube.com/watch?v=ZXDhBhsab-4) _\(Oct 2020\)_
 * [Crypto Tonight DeFi Ep2](https://play.yunxi.tv/livestream/flash?id=966607730116440896260b019d1030cc#/) _\(Sep 2020\)_
 * [REIMAGINE 2020 v3.0 - James Simpson - mStable - MUSD](https://www.youtube.com/watch?v=KwSPs5pvUVk) _\(Sep 2020\)_
@@ -17,13 +15,9 @@ description: "\U0001F4FD mStable in the media and broader crypto ecosystem"
 
 ## **Podcasts**
 
-### **2020**
-
 * [Into the Ether: mStable: Making Digital Money Safe, Stable and Accessible](https://podcast.ethhub.io/mstable-making-digital-money-safe-stable-and-accessible) _\(Feb 2020\)_
 
 ## Articles
-
-### 2020
 
 * [What is mStable?](https://messari.io/asset/mstable/profile) _\(Messari Database\)_
 * [mStable DeFi Guide: Ultimate Stablecoin Solution](https://www.asiacryptotoday.com/mstable/) _\(Asia Crypto Today\)_
