@@ -20,7 +20,7 @@ All savers are given the option to participate in protocol governance. Every sav
 
 ### **Example**
 
-A basket with a total value of 1000 `mUSD`, comprised of equal parts DAI, USDC, USDT, and TUSD earns interest at the following APY derived from the mStable smart contracts automonously lending deposits onto decentralised lending protocols, currently AAVE and Compound.
+A basket with a total value of 1000 `mUSD`, comprised of equal parts DAI, USDC, USDT, and TUSD earns interest at the following APY derived from the mStable smart contracts autonomously lending deposits onto decentralised lending protocols, currently AAVE and Compound.
 
 * DAI - 5%
 * USDC - 4%
