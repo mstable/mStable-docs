@@ -6,9 +6,9 @@ description: >-
 
 # Grants Program
 
-The mStable Grants Program empowers the community to help grow the mStable ecosystem. Grants are administered by the community-led mStable GrantsDAO, which facilitates the process of providing grants to projects, ideas and events that build on top of mStable.
+The mStable Grants Program empowers the community to help grow the mStable ecosystem. Grants are administered by the community-led mStable [GrantsDAO](https://www.notion.so/GrantsDAO-8e21f902594749c198ca2edf44d4c278), which facilitates the process of providing grants to projects, ideas and events that build on top of mStable.
 
-This page will provide a high-level overview of the Grants Program. Further information can be found in the [Notion Documentation](https://www.notion.so/mStable-Grants-Program-f4e352b2a4f04380bd0697b2e107e82a).
+This page will provide a high-level overview of the Grants Program. Further information can be found in our[ documentation](https://www.notion.so/mStable-Grants-Program-f4e352b2a4f04380bd0697b2e107e82a) on Notion.
 
 ## What Are We Funding? <a id="7e66"></a>
 
