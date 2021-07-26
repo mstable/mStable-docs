@@ -43,7 +43,7 @@ If you are ready to apply for a grant, you can start the process using this [app
 
 ### HAL
 
-[HAL](https://www.hal.xyz/) provides automation on Ethereum to allow interaction between decentralized and centralized technologies. The mStable Grants Program has provided funding for integration of mUSD and mBTC in the HAL bots and web wizard.
+The [HAL](https://www.hal.xyz/) team helped us develop a set of automated Twitter bots and a broader set of automation tools that offer the community ways to seamlessly track and react to significant events happening across the mStable stack. See this [Medium article](https://medium.com/mstable/mstable-x-hal-bringing-automation-to-mstable-dd8d23ec6b1e) for more information.
 
 ### mStats
 
