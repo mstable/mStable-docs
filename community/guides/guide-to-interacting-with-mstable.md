@@ -20,6 +20,10 @@
 * Send the transaction
 * Verify the mAsset \(e.g. mUSD\) minted in your wallet
 
+### Toggling between mAssets \(mUSD &lt;&gt; mBTC\)
+
+* Under each function, click on the icon beside the function to switch between mAssets
+
 ### Depositing mAssets into Save
 
 * Head over to [Save](https://app.mstable.org/#/musd/save)
