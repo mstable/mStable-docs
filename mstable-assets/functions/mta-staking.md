@@ -10,7 +10,9 @@ Staking `MTA` is the first step required to participate in mStable's governance.
 
 #### **Staking V1**
 
-This is the current implementation of `MTA` staking, and went live at the end of September 2020. Once a Meta holder locks their tokens in the staking contract and begins voting on proposals they become a Governor. Staking V1 has the following characteristics:
+This is the current implementation of `MTA` staking, and went live at the end of September 2020. 
+
+Once a Meta holder locks their tokens in the staking contract and begins voting on proposals they become a Governor. Staking V1 has the following characteristics:
 
 * Longer staking lockups result in higher staking returns \(in `MTA`\) and higher voting weights \(i.e. the longer you stake, the more skin in the game you have. Because of this, the longer you stake, the more power the user has over the vote\)
 * Staking `MTA` does not expose the staker to loss in the event of a bAsset losing its peg
@@ -27,7 +29,7 @@ Meta Governors are able to stake their tokens and participate in on chain voting
 * In return for staking, users will receive MTA rewards and vMTA, which represents their voting weight for proposals.
 * Longer staking lockups result in higher staking returns \(in `MTA`\) and higher voting weights
 * Staking `MTA` does not expose the staker to loss in the event of a bAsset losing its peg
-* Stakers will need to manually migrate over to the V2 contract when it goes live \(assuming v2 is approved by these same governors\)
+* Stakers will need to manually migrate over to the V2 contract when it goes live \(assuming V2 is approved by these same governors\)
 
 ### Benefits of staking MTA
 
@@ -36,4 +38,6 @@ Meta Governors are able to stake their tokens and participate in on chain voting
 * Participate in decentralized governance with rights to vote
 
 More information about Staking V1 can be found [here](https://medium.com/mstable/mstable-v1-staking-launch-33a0a8f5da27) and [here](https://medium.com/mstable/mta-staking-v1-voting-weights-and-rewards-3a25d1d42124).
+
+Staking V2 will be launched between Q3 to Q4 2021 - stay tuned. 
 

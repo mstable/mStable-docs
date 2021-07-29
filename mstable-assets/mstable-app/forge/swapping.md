@@ -1,14 +1,14 @@
 ---
-description: >-
-  Swapping is the exchange between one whitelisted bAsset and another at a 1:1
-  ratio. Swaps do not affect the number of mAssets in circulation.
+description: Swapping is the exchange between pegged assets with the lowest fees in DeFi.
 ---
 
 # Swap
 
 ## **How do swaps work?**
 
-The mStable protocol pools pegged crypto assets of similar value. For example, `mUSD` will pool USD pegged crypto assets, `mBTC` will pool tokenised BTC and so on. These pegged crypto assets are selected by Meta Governors and are deemed to have adequate security guarantees against peg loss. This has important implications, one being: any deviation from the peg of an underlying asset is highly likely to be impermanent.
+The mStable protocol pools pegged crypto assets of similar value. 
+
+For example, `mUSD` will pool USD pegged crypto assets, `mBTC` will pool tokenised BTC and so on. These pegged crypto assets are selected by Meta Governors and are deemed to have adequate security guarantees against peg loss. This has important implications, one being: any deviation from the peg of an underlying asset is highly likely to be impermanent.
 
 Take USD pegged crypto assets as an example. Say we allow 4 USD pegged crypto assets in the basket. These pegged crypto assets will constantly move slightly from their $1.00 peg, but over time they are very likely to trade around $1.00. For any given period, each pegged crypto asset's price over time will will look something like this:
 
@@ -30,6 +30,18 @@ In summary:
 
 * Apart from a trading fee, there is very low slippage trading pegged crypto assets on mStable.
 * Since assets are interchangeable, mStable allows minting and redemption of any coin instead of the exact basket \(as long as max weights are not breached\).
+
+## What is the swap fee?
+
+Swaps on mStable are currently 0.02% of the transaction value, the lowest in the industry.
+
+i.e. for a $1000 swap, the fee is $0.20 excluding gas costs.
+
+## Why swap on mStable?
+
+mStable swaps have the lowest fees and slippage and are extremely efficient. The majority of Swap revenue goes to Save depositors or liquidity providers.
+
+mStable is also integrated with major DEX aggregators.
 
 ## **Arbitrage**
 

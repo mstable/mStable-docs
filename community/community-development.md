@@ -20,13 +20,13 @@ There are many ways of contributing as a Metanaut, depending on your interests.
 
 You can contribute by helping grow the community in various community initiatives.
 
-We are on the lookout for contributors who can write and design content, produce visuals, videos, educational materials, GIFs and sticker packs, or onboard new users into our community. If you've got a growth initiative you want to lead, let us know and apply for funding.
+We are on the lookout for contributors who can write and design content, produce visuals, videos, educational materials, GIFs and sticker packs, or onboard new users into our community. 
 
-{% page-ref page="community-grants/" %}
+If you've got a growth initiative you want to lead, let us know and apply for funding.
 
 ### Community Management
 
 You can also contribute by helping us manage the community across keeping content updated, taking notes during governance calls, translation efforts and Discord/Forum housekeeping.
 
-If you'd like to contribute, you can reach out to our community team on [Discor​​d](https://discord.com/invite/pgCVG7e).
+If you'd like to contribute, you can reach out to our community moderators or Metanauts on [Discor​​d](https://discord.com/invite/pgCVG7e).
 

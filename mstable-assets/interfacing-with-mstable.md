@@ -13,9 +13,9 @@ The protocol exists as open-access [smart contracts](https://en.wikipedia.org/wi
 
 One such app is the [mStable App](https://docs.mstable.org/mstable-assets/interfacing-with-mstable/app): a slim, user focussed web application that allows users to:
 
+* [SAVE](https://docs.mstable.org/mstable-assets/massets/native-interest-rate) mAssets in the mStable Savings Contract and earn yield
 * [MINT](https://docs.mstable.org/mstable-assets/massets/minting-and-redemption) and redeem mAssets, allowing you to convert bAssets into mAssets for free
 * [SWAP](https://docs.mstable.org/mstable-assets/massets/swapping) between bAssets
-* [SAVE](https://docs.mstable.org/mstable-assets/massets/native-interest-rate) mAssets in the mStable Savings Contract and earn yield
 * [POOL](https://app.gitbook.com/@mstable/s/mstable/~/drafts/-M_RJz4zA8CLNL5jq6k6/mstable-assets/massets/pools) mAssets and feeder assets into a Feeder Pool and earn rewards
 
 {% page-ref page="mstable-app/" %}

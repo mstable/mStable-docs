@@ -20,7 +20,7 @@ See [mStable-js](../mstable-js.md) for more info on ways to retrieve, parse and 
 
 | Network | App | Subgraph |
 | :--- | :--- | :--- |
-| Mainnet | [app.mstable.org/](https://app.mstable.org/) | [mstable/mstable-protocol](https://thegraph.com/explorer/subgraph/mstable/mstable-protocol) |
+| Mainnet | [app.mstable.org/](https://mstable.app/) | [mstable/mstable-protocol](https://thegraph.com/explorer/subgraph/mstable/mstable-protocol) |
 | Ropsten | [app-dot-mstable-ropsten.appspot.com/](http://app-dot-mstable-ropsten.appspot.com/) | [mstable/mstable-protocol-ropsten](https://thegraph.com/explorer/subgraph/mstable/mstable-protocol-ropsten) |
 | Kovan | [app-dot-mstable-kovan.appspot.com/](https://app-dot-mstable-kovan.appspot.com/) | [mstable/mstable-protocol-kovan](https://thegraph.com/explorer/subgraph/mstable/mstable-protocol-kovan) |
 
@@ -52,6 +52,10 @@ Some ideas to utilise mAssets or MTA:
 * An index fund using MTA or mStable, where the Save product contributes to the yield
 
 {% hint style="info" %}
-If you'd like to build upon one of the ideas above or an idea of your own, you may be able to get funding from an mStable Software Development [Grant](../../meta-grants/grants-program.md).
+If you'd like to build upon one of the ideas above or an idea of your own, you may be able to get funding from an mStable Software Development Grant.
 {% endhint %}
+
+{% page-ref page="../../meta-grants/grants-program.md" %}
+
+
 

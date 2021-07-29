@@ -55,5 +55,5 @@ Black \(\#000000\), Navy Blue \(\#0061E3\), Smokey White \(\#F8F5F2\), and Tange
 
 {% file src="../.gitbook/assets/mstable-product-screenshots-04nov2020.zip" caption="Download Product Screenshots" %}
 
-![mStable App](../.gitbook/assets/mstable-screenshots-2.png)
+![mStable.app](../.gitbook/assets/screenshot-2021-07-30-at-12.16.53-am.png)
 

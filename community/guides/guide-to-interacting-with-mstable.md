@@ -6,18 +6,19 @@
 * Connect your wallet and authorise access
 * Switch network from Ethereum to Polygon using the switcher on the top-right
 
-### Minting mAssets \(e.g. mUSD\)
+### Minting mAssets \(mUSD, mBTC\)
 
-* Head over to [Forge](https://app.mstable.org/#/musd/forge/mint)
+* Head over to Exchange
 * Click on the Mint tab
 * Select the mAsset to mint
-* Select the asset to mint from \(e.g. sUSD, USDT, USDC, DAI, BUSD, GUSD\)
-* Enter the amount to mint and click Mint
+* Select the asset to mint from \(e.g. sUSD, USDT, USDC, DAI, BUSD, GUSD, alUSD\)
+* Enter the amount to mint or click max
+* Click Mint
 * Approve the smart contract to spend your tokens if it's your first time interacting with the contract
-* Send the transactio
-* Click Mint again
 * Send the transaction
-* Verify the mAsset minted in your wallet
+* Click Mint again once contract is approved
+* Send the transaction
+* Verify the mAsset \(e.g. mUSD\) minted in your wallet
 
 ### Depositing mAssets into Save
 
@@ -30,7 +31,14 @@
 * Click Save or Mint and Save again
 * Send the transaction
 * Done! You have deposited into Save
-* Your Savings is tokenized in the form of imAssets \(e.g. imUSD, imBTC\) which increase in value over time
+
+_Your Savings is tokenised in the form of imAssets \(e.g. imUSD, imBTC\) which increases in value over time_
+
+### Depositing mAssets into the Save Vault
+
+* When depositing mAssets into Save, you have the option of depositing into Save \(e.g. imUSD\) or the Save Vault \(e.g. imUSD Vault\)
+* Depositing into the Vault earn you additional MTA and/or ecosystem rewards in addition to swap/lending interest
+* Click on the dropdown in the output to switch to Vault deposit
 
 ### Withdrawing from Save
 
@@ -40,9 +48,11 @@
 * Click Withdraw
 * Send the transaction
 
+_If your assets are in the Save Vault, you need to first unstake them from the Vault before you can withdraw_
+
 ### Redeeming mAssets \(e.g. mUSD\) for underlying assets
 
-* Head over to [Forge](https://app.mstable.org/#/musd/forge/mint)
+* Head over to Exchange
 * Click on the Redeem tab
 * Select the mAsset to redeem
 * Select amount to redeem
@@ -55,7 +65,7 @@ _Fees for redemption are 0.03% for multiple asset redeem and 0.06% for single as
 
 mStable also has an underlying AMM that allows underlying assets in its basket to be swapped
 
-* Head over to [Forge](https://app.mstable.org/#/musd/forge/swap)
+* Head over to Exchange
 * Click on the Swap tab
 * Choose the input and output currencies
 * Enter the amount to swap
@@ -67,17 +77,37 @@ mStable also has an underlying AMM that allows underlying assets in its basket t
 
 _Fees for swaps are currently 0.06% and goes to Save deposits_
 
-### Tracking balances
+### Tracking balances and value
 
 There are a couple of ways to track your balances. Since mAssets and imAssets are all ERC-20 tokens in their own right, you can track them like how you'd track any other ERC-20 token on the blockchain.
 
-On mStable:
+You can track them on mStable:
 
 * On the Account modal
-  * Click on your address on the top navbar
+  * Click on your address on the top navigation bar
   * Scroll to find a consolidated view of your balances including mAssets, imAssets and bAssets
 * On the Save homepage
   * If you have deposited in Save, you can find your Save balance in the Save homepage
 
-On external platforms like Zapper.Fi, Zerion and DeBank.
+Or on external platforms like Zapper.Fi, Zerion and DeBank.
+
+### Staking
+
+**New Stake**
+
+* Head over to the [Governance](https://governance.mstable.org/#/govern) page
+* Click on the Stake tab
+* Under Add amount enter the amount of MTA to stake
+* Choose how long to stake
+* Click lock up and stake MTA
+
+**Extend or Add Stake**
+
+* Click on the Add Amount or Extend lock tab
+* Click lock up and stake MTA
+
+**Claim Rewards**
+
+* Click on the Claim tab
+* Click Claim
 

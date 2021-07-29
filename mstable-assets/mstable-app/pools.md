@@ -13,7 +13,7 @@ Feeder Pools \(fPools\) provide efficient mAsset on/off ramps, generate addition
 
 ### What are Feeder Pools?
 
-fPools introduce a new invariant for 2-asset stablecoin AMMs that shows similar properties as Stableswap, but can be solved with a lower number of operations.
+fPools introduce a new invariant for 2-asset stablecoin AMMs that shows similar properties as Stableswap, but can be solved with a lower number of operations, i.e. they are more efficient.
 
 fPools are composed of 50% fAsset \(e.g. BUSD, GUSD\) and 50% mAsset \(e.g. mUSD\).
 
@@ -44,17 +44,18 @@ However, there are a number of core differences between fPools and mAsset pools:
 
 ### What Feeder Pools are currently available?
 
-There are 2 feeder pools currently live for each mAsset:
+There are 5 feeder pools currently live:
 
 **mUSD**:
 
-* [mUSD/BUSD](https://app.mstable.org/#/musd/pools/0xfe842e95f8911dcc21c943a1daa4bd641a1381c6) \(Ethereum\)
-* [mUSD/GUSD](https://app.mstable.org/#/musd/pools/0x4fb30c5a3ac8e85bc32785518633303c4590752d) \(Ethereum\)
+* [mUSD/BUSD](https://mstable.app/#/musd/pools/0xfe842e95f8911dcc21c943a1daa4bd641a1381c6) \(Ethereum\)
+* [mUSD/GUSD](https://mstable.app/#/musd/pools/0x4fb30c5a3ac8e85bc32785518633303c4590752d) \(Ethereum\)
+* [mUSD/alUSD](https://mstable.app/#/musd/pools/0x4eaa01974b6594c0ee62ffd7fee56cf11e6af936) \(Ethereum\)
 
 **mBTC**:
 
-* [mBTC/TBTC](https://app.mstable.org/#/mbtc/pools/0xb61a6f928b3f069a68469ddb670f20eeeb4921e0) \(Ethereum\)
-* [mBTC/HBTC](https://app.mstable.org/#/mbtc/pools/0x48c59199da51b7e30ea200a74ea07974e62c4ba7) \(Ethereum\)
+* [mBTC/TBTC](https://mstable.app/#/mbtc/pools/0xb61a6f928b3f069a68469ddb670f20eeeb4921e0) \(Ethereum\)
+* [mBTC/HBTC](https://mstable.app/#/mbtc/pools/0x48c59199da51b7e30ea200a74ea07974e62c4ba7) \(Ethereum\)
 
 ### What do I earn for providing liquidity into Feeder Pools?
 

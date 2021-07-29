@@ -8,7 +8,7 @@
 * [mStable App](mstable-assets/mstable-app/README.md)
   * [Save](mstable-assets/mstable-app/native-interest-rate.md)
   * [Pools](mstable-assets/mstable-app/pools.md)
-  * [Forge](mstable-assets/mstable-app/forge/README.md)
+  * [Exchange](mstable-assets/mstable-app/forge/README.md)
     * [Mint](mstable-assets/mstable-app/forge/minting-and-redemption/README.md)
       * [Basket Adjustment](mstable-assets/mstable-app/forge/minting-and-redemption/rebalancing.md)
     * [Swap](mstable-assets/mstable-app/forge/swapping.md)
@@ -54,9 +54,6 @@
 * [Guides](community/guides/README.md)
   * [Guide to interacting with mStable](community/guides/guide-to-interacting-with-mstable.md)
 * [Community Development](community/community-development.md)
-* [Community Grants](community/community-grants/README.md)
-  * [Translations Initiative](community/community-grants/translations-initiative.md)
-  * [Process for Community Grants](community/community-grants/process-for-community-grants.md)
 
 ## Appendix
 

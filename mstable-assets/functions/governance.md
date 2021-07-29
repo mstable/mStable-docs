@@ -21,6 +21,7 @@ Below are some of the parameters that Meta Governors decide upon enacting:
 * addition/removal of mAssets;
 * addition/removal of bAssets and their max weights;
 * redemption and minting fees;
+* swap fees;
 * selection of oracles \(if needed\)
 
 ### The d**istribution of Meta**
@@ -41,13 +42,15 @@ The mStable Public Rewards on Earn, Staking v1, the Save vault and the Grants Pr
 
 **mStable Improvement Proposals** 
 
-* [MIP page](www.mips.mstable.org)
+* [MIP page](https://mips.mstable.org/all-mip)
 
-**Meta Govenor Voting** 
+**mStable Configuration Change Proposals**
 
-* \*\*\*\*[https://snapshot.page/\#/mstable](https://snapshot.page/#/mstable)
+* [MCCP page](https://mips.mstable.org/all-mccp)
 
+**Meta Governor Voting** 
 
+* [https://snapshot.org/\#/mstablegovernance.eth](https://snapshot.org/#/mstablegovernance.eth)
 
 
 
