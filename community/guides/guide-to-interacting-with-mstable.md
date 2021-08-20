@@ -63,7 +63,7 @@ _If your assets are in the Save Vault, you need to first unstake them from the V
 * Select output asset \(e.g. USDC, USDT\) or switch to multi-asset redemption to redeem into multiple underlying assets
 * Click Redeem
 
-_Fees for redemption are 0.03% for multiple asset redeem and 0.06% for single asset redeem and goes to Save deposits_
+_Fees for redemption are 0.03% for multiple asset redeem and 0.02% for single asset redeem and goes to Save deposits_
 
 ### Swapping between assets
 
@@ -79,7 +79,7 @@ mStable also has an underlying AMM that allows underlying assets in its basket t
 * Approve the contract to spend your tokens if it's your first time
 * Click Swap again
 
-_Fees for swaps are currently 0.06% and goes to Save deposits_
+_Fees for swaps are currently 0.02% and goes to Save deposits_
 
 ### Tracking balances and value
 
