@@ -64,6 +64,8 @@
 | Contract | Address |
 | :--- | :--- |
 | mUSD | 0x4E1000616990D83e56f4b5fC6CC8602DcfD20459 |
+| Interest Bearing mUSD \(imUSD\) | 0x5b7f01dAe6BCE656c9cA4175Eb3E406ADC6c7957 |
+| imUSD Savings Vault \(v-imUSD\) | 0xDEFc008BAC1e38F13F081DDD20acf89985DFa7C8 |
 {% endtab %}
 
 {% tab title="Polygon Mumbai" %}
