@@ -5,7 +5,10 @@
 | Contract | Address |
 | :--- | :--- |
 | Meta \(MTA\) | [0xa3BeD4E1c75D00fa6f4E5E6922DB7261B5E9AcD2](https://etherscan.io/token/0xa3BeD4E1c75D00fa6f4E5E6922DB7261B5E9AcD2) |
-| Voting Meta Token \(vMTA\) | [0xaE8bC96DA4F9A9613c323478BE181FDb2Aa0E1BF](https://etherscan.io/address/0xae8bc96da4f9a9613c323478be181fdb2aa0e1bf) |
+| Voting Meta Token \(vMTA\) V1 | [0xaE8bC96DA4F9A9613c323478BE181FDb2Aa0E1BF](https://etherscan.io/address/0xae8bc96da4f9a9613c323478be181fdb2aa0e1bf) |
+| Staked Token MTA \(stkMTA\) V2 | [0x8f2326316eC696F6d023E37A9931c2b2C177a3D7](https://etherscan.io/address/0x8f2326316ec696f6d023e37a9931c2b2c177a3d7) |
+| Staked Token BPT \(stkBPT\) | [0xeFbe22085D9f29863Cfb77EEd16d3cC0D927b011](https://etherscan.io/address/0xeFbe22085D9f29863Cfb77EEd16d3cC0D927b011) |
+| Quest Manager | [0x861f12764780896FD783eA615Dd55Df0FF865752](https://etherscan.io/address/0x861f12764780896FD783eA615Dd55Df0FF865752) |
 | Delayed Proxy Admin | [0x5C8eb57b44C1c6391fC7a8A0cf44d26896f92386](https://etherscan.io/address/0x5C8eb57b44C1c6391fC7a8A0cf44d26896f92386) |
 | Rewards Distributor | [0x04dfDfa471b79cc9E6E8C355e6C71F8eC4916C50](https://etherscan.io/address/0x04dfDfa471b79cc9E6E8C355e6C71F8eC4916C50) |
 | Protocol DAO Gnosis Safe | [0xF6FF1F7FCEB2cE6d26687EaaB5988b445d0b94a2](https://etherscan.io/address/0xF6FF1F7FCEB2cE6d26687EaaB5988b445d0b94a2) |
