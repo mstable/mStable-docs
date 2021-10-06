@@ -28,11 +28,6 @@
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">mUSD Aave V2 Integration</td>
-      <td style="text-align:left"><a href="https://etherscan.io/address/0xB9b0cfa90436C3FcBf8d8eb6Ed8d0c2e3da47CA9">0xB9b0cfa90436C3FcBf8d8eb6Ed8d0c2e3da47CA9</a>
-      </td>
-    </tr>
-    <tr>
       <td style="text-align:left">
         <p>mUSD Aave V2 Integration</p>
         <p>with claimable stkAave</p>
