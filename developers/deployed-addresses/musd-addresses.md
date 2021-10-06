@@ -10,7 +10,7 @@
 | Interest Bearing mUSD \(imUSD\) | [0x30647a72dc82d7fbb1123ea74716ab8a317eac19](https://etherscan.io/address/0x30647a72dc82d7fbb1123ea74716ab8a317eac19) |
 | imUSD Savings Vault \(v-imUSD\) | [0x78BefCa7de27d07DC6e71da295Cc2946681A6c7B](https://etherscan.io/address/0x78BefCa7de27d07DC6e71da295Cc2946681A6c7B) |
 | mUSD Aave V2 Integration | [0xa2a3cae63476891ab2d640d9a5a800755ee79d6e](https://etherscan.io/address/0xa2a3cae63476891ab2d640d9a5a800755ee79d6e) |
-| mUSD Compound Vault | [0xd55684f4369040c12262949ff78299f2bc9db735](https://etherscan.io/address/0xd55684f4369040c12262949ff78299f2bc9db735) |
+| mUSD Compound Integration | [0xd55684f4369040c12262949ff78299f2bc9db735](https://etherscan.io/address/0xd55684f4369040c12262949ff78299f2bc9db735) |
 {% endtab %}
 
 {% tab title="Polygon Mainnet" %}
