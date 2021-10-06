@@ -4,44 +4,13 @@
 
 {% tabs %}
 {% tab title="Mainnet" %}
-<table>
-  <thead>
-    <tr>
-      <th style="text-align:left">Contract</th>
-      <th style="text-align:left">Address</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align:left">mStable (mUSD)</td>
-      <td style="text-align:left"><a href="https://etherscan.io/address/0xe2f2a5C287993345a840Db3B0845fbC70f5935a5">0xe2f2a5C287993345a840Db3B0845fbC70f5935a5</a>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Interest Bearing mUSD (imUSD)</td>
-      <td style="text-align:left"><a href="https://etherscan.io/address/0x30647a72dc82d7fbb1123ea74716ab8a317eac19">0x30647a72dc82d7fbb1123ea74716ab8a317eac19</a>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">imUSD Savings Vault (v-imUSD)</td>
-      <td style="text-align:left"><a href="https://etherscan.io/address/0x78BefCa7de27d07DC6e71da295Cc2946681A6c7B">0x78BefCa7de27d07DC6e71da295Cc2946681A6c7B</a>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">
-        <p>mUSD Aave V2 Integration</p>
-        <p>with claimable stkAave</p>
-      </td>
-      <td style="text-align:left"><a href="https://etherscan.io/address/0xa2a3cae63476891ab2d640d9a5a800755ee79d6e">0xa2a3cae63476891ab2d640d9a5a800755ee79d6e</a>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">mUSD Compound Vault</td>
-      <td style="text-align:left"><a href="https://etherscan.io/address/0xd55684f4369040c12262949ff78299f2bc9db735">0xd55684f4369040c12262949ff78299f2bc9db735</a>
-      </td>
-    </tr>
-  </tbody>
-</table>
+| Contract | Address |
+| :--- | :--- |
+| mStable \(mUSD\) | [0xe2f2a5C287993345a840Db3B0845fbC70f5935a5](https://etherscan.io/address/0xe2f2a5C287993345a840Db3B0845fbC70f5935a5) |
+| Interest Bearing mUSD \(imUSD\) | [0x30647a72dc82d7fbb1123ea74716ab8a317eac19](https://etherscan.io/address/0x30647a72dc82d7fbb1123ea74716ab8a317eac19) |
+| imUSD Savings Vault \(v-imUSD\) | [0x78BefCa7de27d07DC6e71da295Cc2946681A6c7B](https://etherscan.io/address/0x78BefCa7de27d07DC6e71da295Cc2946681A6c7B) |
+| mUSD Aave V2 Integration | [0xa2a3cae63476891ab2d640d9a5a800755ee79d6e](https://etherscan.io/address/0xa2a3cae63476891ab2d640d9a5a800755ee79d6e) |
+| mUSD Compound Vault | [0xd55684f4369040c12262949ff78299f2bc9db735](https://etherscan.io/address/0xd55684f4369040c12262949ff78299f2bc9db735) |
 {% endtab %}
 
 {% tab title="Polygon Mainnet" %}
