@@ -1,5 +1,5 @@
 ---
-description: "\U0001F5FA️ What stage is the project? What are the key dates on the roadmap?"
+description: "\U0001F5FA️ What is the current stage of the project? What are the key dates on the roadmap?"
 ---
 
 # Live Roadmap
@@ -7,7 +7,7 @@ description: "\U0001F5FA️ What stage is the project? What are the key dates on
 
 
 {% hint style="warning" %}
-These dates are provisional and subject to change. The items on the list is by no means exhaustive but should show a rough outline of some key things we have planned for the core protocol
+These dates are provisional and subject to change. The items on the list are by no means exhaustive but should show a rough outline of some key things we have planned for the core protocol
 {% endhint %}
 
 ## Milestones \(Short term\)
