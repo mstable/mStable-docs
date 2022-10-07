@@ -24,7 +24,7 @@ description: Common terminology used throughout the mStable suite
 
 **mUSD** - An mStable Asset pegged to the United States Dollar, and backed by a basket of underlying USD-pegged stablecoins.
 
-**pMTA** - A token that tracks a users staking reward weight in the Staking v1 implementation of mStable governance. 
+**pMTA** - A token that tracks a user's staking reward weight in the Staking v1 implementation of mStable governance. 
 
 **Price oracle** - A service/API which provides real-time price data used by mStable's smart contracts to calculate fees and determine de-pegging events. 
 
@@ -40,5 +40,5 @@ description: Common terminology used throughout the mStable suite
 
 **Stablecoin** - Cryptocurrencies designed to minimise the effect of price volatility, usually via pegging to a particular asset class \(e.g. USD or Gold\).
 
-**vMTA** - A token that tracks a users voting weight in the Staking v1 implementation of mStable governance. Users receive vMTA when they stake Meta, for an amount that is determined by lockup time and the amount of tokens staked.
+**vMTA** - A token that tracks a user's voting weight in the Staking v1 implementation of mStable governance. Users receive vMTA when they stake Meta, for an amount that is determined by lockup time and the amount of tokens staked.
 

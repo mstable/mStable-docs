@@ -25,7 +25,7 @@ If one of the stablecoins being used as a bAsset in the mStable basket experienc
 
 **Acceptance of Terms**
 
-By using or accessing the mStable services/site/applications, you represent and warrant that you understand that there are inherent risks associated with cryptocurrencies and stablecoins. You agree that the mStable genesis team is not responsible for any losses or damages associated with these risks. You specifically acknowledge and agree that the mStable services/site/applications are non custodial, and facilitate your interaction with decentralised networks and technology and, as such, the mStable genesis team cannot and do not guarantee that any transactions you submit or receive via the mStable protocol  will be confirmed on the relevant blockchain and do not have the ability to effectuate any cancellation or modification requests regarding your transactions.
+By using or accessing the mStable services/site/applications, you represent and warrant that you understand that there are inherent risks associated with cryptocurrencies and stablecoins. You agree that the mStable genesis team is not responsible for any losses or damages associated with these risks. You specifically acknowledge and agree that the mStable services/site/applications are non custodial, and facilitate your interaction with decentralised networks and technology and, as such, the mStable genesis team cannot and does not guarantee that any transactions you submit or receive via the mStable protocol  will be confirmed on the relevant blockchain and do not have the ability to effectuate any cancellation or modification requests regarding your transactions.
 
 You agree to:
 
@@ -73,7 +73,7 @@ As it has been already stated, mStable is non-custodial, so actions performed by
 
   technical expertise and ability to evaluate the secure operation of your wallet
 
-* The transaction details you submit via the may not be completed, or
+* The transaction details you submit may not be completed, or
 
   may be substantially delayed, by the relevant blockchain used to process the
 

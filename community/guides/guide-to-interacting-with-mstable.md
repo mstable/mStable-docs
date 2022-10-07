@@ -36,12 +36,12 @@
 * Send the transaction
 * Done! You have deposited into Save
 
-_Your Savings is tokenised in the form of imAssets \(e.g. imUSD, imBTC\) which increases in value over time_
+_Your Savings are tokenised in the form of imAssets \(e.g. imUSD, imBTC\) which increase in value over time_
 
 ### Depositing mAssets into the Save Vault
 
 * When depositing mAssets into Save, you have the option of depositing into Save \(e.g. imUSD\) or the Save Vault \(e.g. imUSD Vault\)
-* Depositing into the Vault earn you additional MTA and/or ecosystem rewards in addition to swap/lending interest
+* Depositing into the Vault earns you additional MTA and/or ecosystem rewards in addition to swap/lending interest
 * Click on the dropdown in the output to switch to Vault deposit
 
 ### Withdrawing from Save
@@ -63,7 +63,7 @@ _If your assets are in the Save Vault, you need to first unstake them from the V
 * Select output asset \(e.g. USDC, USDT\) or switch to multi-asset redemption to redeem into multiple underlying assets
 * Click Redeem
 
-_Fees for redemption are 0.03% for multiple asset redeem and 0.02% for single asset redeem and goes to Save deposits_
+_Fees for redemption are 0.03% for multiple asset redeems and 0.02% for single asset redeems and go to Save deposits_
 
 ### Swapping between assets
 
